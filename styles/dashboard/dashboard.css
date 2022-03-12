@@ -1,0 +1,28 @@
+.dashboard {
+  padding-left: 20px;
+}
+
+.dashboard-title {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.dashboard-title > a {
+  margin-right: 20px;
+}
+
+.dashboard-new-arrivals {
+  display: flex;
+  overflow-x: scroll;
+}
+.new-arrivals-container {
+  margin-right: 20px;
+  background-color: aquamarine;
+}
+.new-arrivals-container > img {
+  width: 140px;
+  height: 200px;
+  border-radius: 10px;
+  background-color: yellow;
+}
