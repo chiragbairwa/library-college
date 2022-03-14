@@ -1,5 +1,6 @@
-.dashboard {
+.dashboard-main {
   padding-left: 20px;
+  padding-bottom: 80px;
 }
 
 .dashboard-title {
@@ -21,6 +22,21 @@
   background-color: aquamarine;
 }
 .new-arrivals-container > img {
+  width: 140px;
+  height: 200px;
+  border-radius: 10px;
+  background-color: yellow;
+}
+
+.dashboard-stream {
+  display: flex;
+  overflow-x: scroll;
+}
+.stream-container {
+  margin-right: 20px;
+  background-color: aquamarine;
+}
+.stream-container > img {
   width: 140px;
   height: 200px;
   border-radius: 10px;
