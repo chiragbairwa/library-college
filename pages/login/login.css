@@ -1,6 +1,9 @@
+/* LOGIN.JS */
+
 .auth-container {
   height: 100vh;
   display: flex;
+  color: #4e6ee0;
   flex-direction: column;
 
   align-items: center;
@@ -9,38 +12,70 @@
 .image {
   height: 100px;
   width: 100px;
-  background-color: #4e6ee0;
+
+  display: grid;
   margin-bottom: 54px;
   border-radius: 12px;
-  display: grid;
   place-items: center;
+  background-color: #4e6ee0;
 }
+
 .btn {
-  padding: 1rem 2.5rem;
-  border: 1px solid black;
-  border-radius: 25rem;
-  text-align: center;
   margin: 8px 0;
+  padding: 1rem 2.5rem;
+
+  text-align: center;
+  border-radius: 25rem;
+  border: 2px solid #4e6ee0;
+
+  width: 16rem;
+}
+.login-form {
+  width: 19rem;
+}
+.input-field {
+  margin: 8px 0;
+  height: 50px;
+  width: 100%;
+
+  padding: 0 16px;
+  font-size: large;
+  letter-spacing: 1px;
+  border: 2px solid grey;
+  border-radius: 8px;
 }
 
-.auth-options {
-  width: 15em;
-  margin: 16px 0;
-}
-.create-account-btn {
-  border: none;
+.login-btn {
+  margin-top: 32px;
   color: white;
   background-color: #4e6ee0;
 }
-/* .login-btn {
-} */
-.additional-option-container {
+
+/* REGISTER.JS */
+.register-container {
+  height: 100vh;
+  margin: 24px;
+}
+.register-back-btn {
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.register-container > h2 {
+  margin-top: 48px;
+}
+
+.register-form {
+  padding: 16px 0;
   display: flex;
+  flex-direction: column;
+  align-items: center;
 }
-
-.facebook-btn {
-  margin-right: 32px;
-  background-color: #4e6ee0;
-  border: none;
+.register-form > input {
+  width: 19rem;
+}
+.register-form > a {
   color: white;
+  margin-top: 32px;
+  background-color: #4e6ee0;
 }

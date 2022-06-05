@@ -1,51 +1,73 @@
+import { useEffect, useState } from 'react'
+
 function Login() {
-  return (
+  const [value, setValue] = useState(1)
+
+  useEffect(() => {}, [value])
+
+  // if value true Login Or Register
+
+  return value ? (
     <div className="auth-container">
       {/* <img src="/vercel.svg"></img> */}
       <div className="image">LOGO</div>
-      {/* Create Account button*/}
-      <a href="#" className="btn auth-options create-account-btn">
-        Create account
-      </a>
+      <form className="login-form">
+        <p>Login</p>
+        <input type="email" className="input-field"></input>
+        <br></br>
+        <input type="password" className="input-field"></input>
+      </form>
 
       {/* Login button */}
-      <a href="#" className="btn auth-options login-btn">
+      <a href="#" className="btn login-btn">
         Login
       </a>
 
-      {/* Additional Options */}
-      <h5>Or continue with</h5>
-
-      <div className="additional-option-container">
-        <a href="#" className="btn facebook-btn">
-          Facebook
-        </a>
-        <a href="#" className="btn">
-          Google
-        </a>
-      </div>
-    </div>
-  )
-}
-
-function Register() {
-  return (
-    <>
-      <img src="/vercel.svg"></img>
-
       {/* Create Account button*/}
-      <a>Create account</a>
-
-      {/* Login button */}
-      <a>Login</a>
+      <a href="#" className="btn register-btn" onClick={() => setValue(!value)}>
+        Register
+      </a>
 
       {/* Additional Options */}
-      <h5>Or continue with</h5>
+      <div
+        style={{
+          width: '40%',
+          border: '0.5px solid #4e6ee0',
+          margin: '16px 0',
+        }}
+      ></div>
 
-      <a>Facebook</a>
+      <a href="#" className="btn auth-options">
+        Continue with Google
+      </a>
+    </div>
+  ) : (
+    <div className="register-container">
+      <a
+        href="#"
+        className="register-back-btn"
+        onClick={() => setValue(!value)}
+      >
+        {'<'}
+      </a>
+      <h2>Create account</h2>
+      <p>Please fill the following details</p>
 
-      <a>Google</a>
-    </>
+      <form className="register-form">
+        <input type="text" className="input-field"></input>
+        <input type="text" className="input-field"></input>
+        <input type="text" className="input-field"></input>
+        <input type="text" className="input-field"></input>
+
+        <a
+          href="#"
+          className="btn register-btn"
+          onClick={() => setValue(!value)}
+        >
+          Register
+        </a>
+      </form>
+    </div>
   )
 }
 
