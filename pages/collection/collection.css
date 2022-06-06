@@ -1,0 +1,27 @@
+.book-collection {
+  height: 100vh;
+  padding: 8px;
+}
+
+.top-bar {
+  margin-bottom: 32px;
+  display: flex;
+  align-items: center;
+}
+.top-bar > p {
+  margin-left: 24px;
+}
+.collection-tabs {
+  width: 100%;
+  text-align: center;
+
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  background-color: aquamarine;
+}
+
+.collection-tab {
+  height: 50px;
+  display: grid;
+  place-content: center;
+}
