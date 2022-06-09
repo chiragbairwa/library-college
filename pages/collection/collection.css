@@ -4,7 +4,7 @@
 }
 
 .top-bar {
-  margin-bottom: 32px;
+  margin-bottom: 16px;
   display: flex;
   align-items: center;
 }
@@ -24,4 +24,57 @@
   height: 50px;
   display: grid;
   place-content: center;
+}
+
+.content {
+  margin: 8px;
+}
+
+/* Owned */
+.owned-cards {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.owned-card {
+  margin: 8px;
+  height: 250px;
+  overflow: hidden;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: aquamarine;
+}
+.owned-card > img {
+  width: 100%;
+  height: 30em;
+  background-color: yellow;
+}
+
+/* Reviews */
+
+.reviews-cards {
+  display: flex;
+  flex-direction: column;
+}
+
+.reviews-card {
+  margin: 8px;
+  padding: 16px;
+  height: 160px;
+  display: flex;
+  overflow: hidden;
+  border-radius: 15px;
+  background-color: aquamarine;
+}
+.div-image {
+  width: 6em;
+  height: 8em;
+  border-radius: 15px;
+  background-color: yellow;
+}
+
+.reviews-card-info {
+  margin-left: 24px;
 }
