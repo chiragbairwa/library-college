@@ -1,6 +1,11 @@
+.dashboard {
+  display: grid;
+  grid-template-rows: 10vh 82vh 8vh;
+}
+
 .dashboard-main {
-  padding-left: 20px;
-  padding-bottom: 80px;
+  padding: 0 0 8px 16px;
+  overflow-y: scroll;
 }
 
 .dashboard-title {
@@ -10,22 +15,21 @@
 }
 
 .dashboard-title > a {
-  margin-right: 20px;
+  margin-right: 16px;
 }
 
 .dashboard-new-arrivals {
+  width: 100%;
+  height: fit-content;
   display: flex;
   overflow-x: scroll;
 }
-.new-arrivals-container {
-  margin-right: 20px;
+.dashboard-books-card {
+  /* width: 00px; */
+  height: fit-content;
+  margin-right: 8px;
+  border-radius: 16px;
   background-color: aquamarine;
-}
-.new-arrivals-container > img {
-  width: 140px;
-  height: 200px;
-  border-radius: 10px;
-  background-color: yellow;
 }
 
 .dashboard-stream {
@@ -33,12 +37,7 @@
   overflow-x: scroll;
 }
 .stream-container {
-  margin-right: 20px;
+  margin-right: 16px;
+  /* width: 140px; */
   background-color: aquamarine;
-}
-.stream-container > img {
-  width: 140px;
-  height: 200px;
-  border-radius: 10px;
-  background-color: yellow;
 }

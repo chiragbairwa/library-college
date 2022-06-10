@@ -1,4 +1,6 @@
 import Footer from '../footer'
+import Image from 'next/image'
+import Link from 'next/link'
 
 function Dashboard() {
   var today = new Date()
@@ -27,29 +29,15 @@ function Dashboard() {
         {/* New Books */}
         <div className="dashboard-title">
           <h2>New Arrivals</h2>
-          <a href="#">view all {'>'}</a>
+          <Link href="/collection">
+            <a>view all {'>'}</a>
+          </Link>
         </div>
         <div className="dashboard-new-arrivals">
-          <div className="new-arrivals-container">
-            <img src="/vercel.svg" alt="Book Image" />
-            <p>Book Name</p>
-            <p>Author Name</p>
-          </div>
-          <div className="new-arrivals-container">
-            <img src="/vercel.svg" alt="Book Image" />
-            <p>Book Name</p>
-            <p>Author Name</p>
-          </div>
-          <div className="new-arrivals-container">
-            <img src="/vercel.svg" alt="Book Image" />
-            <p>Book Name</p>
-            <p>Author Name</p>
-          </div>
-          <div className="new-arrivals-container">
-            <img src="/vercel.svg" alt="Book Image" />
-            <p>Book Name</p>
-            <p>Author Name</p>
-          </div>
+          <BookImage></BookImage>
+          <BookImage></BookImage>
+          <BookImage></BookImage>
+          <BookImage></BookImage>
         </div>
 
         {/* Books By Stream */}
@@ -58,22 +46,22 @@ function Dashboard() {
           <a href="#">view all {'>'}</a>
         </div>
         <div className="dashboard-stream">
-          <div className="stream-container">
-            <img src="/vercel.svg" alt="Book Image" />
-            <p>Book Name</p>
-          </div>
-          <div className="stream-container">
-            <img src="/vercel.svg" alt="Book Image" />
-            <p>Book Name</p>
-          </div>
-          <div className="stream-container">
-            <img src="/vercel.svg" alt="Book Image" />
-            <p>Book Name</p>
-          </div>
-          <div className="stream-container">
-            <img src="/vercel.svg" alt="Book Image" />
-            <p>Book Name</p>
-          </div>
+          <BookImage></BookImage>
+          <BookImage></BookImage>
+          <BookImage></BookImage>
+          <BookImage></BookImage>
+        </div>
+
+        {/* Books By Stream */}
+        <div className="dashboard-title">
+          <h2>Books by Streams</h2>
+          <a href="#">view all {'>'}</a>
+        </div>
+        <div className="dashboard-stream">
+          <BookImage></BookImage>
+          <BookImage></BookImage>
+          <BookImage></BookImage>
+          <BookImage></BookImage>
         </div>
       </main>
 
@@ -83,4 +71,18 @@ function Dashboard() {
   )
 }
 
+const BookImage = () => {
+  return (
+    <Link href="/collection/book">
+      <a>
+        <div className="feature-books-card">
+          {/* <Image src="/vercel.svg" width="300px" height="250px" /> */}
+          <div></div>
+          <p>Book Name</p>
+          {/* <p>Author Name</p> */}
+        </div>
+      </a>
+    </Link>
+  )
+}
 export default Dashboard

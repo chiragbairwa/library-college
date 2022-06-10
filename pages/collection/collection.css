@@ -29,24 +29,59 @@
 .content {
   margin: 8px;
 }
+.collection-heading {
+  margin: 16px 16px 8px 0;
+  font-size: large;
+  font-weight: bold;
+}
+/* .collection-heading > span {
+} */
+.collection-heading > span:nth-child(2) {
+  float: right;
+  font-weight: normal;
+}
+
+/* Featured */
+.reading-books-container {
+  display: flex;
+  margin-top: 16px;
+  overflow-x: scroll;
+}
+.feature-books-card {
+  padding: 0 0 8px 0;
+  width: 160px;
+
+  text-align: center;
+  margin-right: 8px;
+  overflow: hidden;
+  border-radius: 16px;
+  background-color: aqua;
+}
+.feature-books-card > div {
+  height: 180px;
+
+  background-color: aquamarine;
+}
 
 /* Owned */
 .owned-cards {
   display: grid;
+  column-gap: 8px;
   grid-template-columns: repeat(2, 1fr);
 }
 
 .owned-card {
-  margin: 8px;
+  margin: 8px 0;
   height: 250px;
+
   overflow: hidden;
-  border-radius: 15px;
   display: flex;
   flex-direction: column;
+  border-radius: 15px;
   align-items: center;
   background-color: aquamarine;
 }
-.owned-card > img {
+.owned-card > div {
   width: 100%;
   height: 30em;
   background-color: yellow;
@@ -60,7 +95,7 @@
 }
 
 .reviews-card {
-  margin: 8px;
+  margin: 8px 0;
   padding: 16px;
   height: 160px;
   display: flex;

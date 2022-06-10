@@ -1,7 +1,8 @@
 import { useEffect, useState } from 'react'
+import Link from 'next/link'
 
 function Login() {
-  const [value, setValue] = useState(1)
+  const [value, setValue] = useState(true)
 
   useEffect(() => {}, [value])
 
@@ -42,6 +43,12 @@ function Login() {
       </a>
     </div>
   ) : (
+    <Register></Register>
+  )
+}
+
+const Register = () => {
+  return (
     <div className="register-container">
       <a
         href="#"
@@ -59,16 +66,11 @@ function Login() {
         <input type="text" className="input-field"></input>
         <input type="text" className="input-field"></input>
 
-        <a
-          href="#"
-          className="btn register-btn"
-          onClick={() => setValue(!value)}
-        >
-          Register
-        </a>
+        <Link href="/dashboard">
+          <a className="btn register-btn">Register</a>
+        </Link>
       </form>
     </div>
   )
 }
-
 export default Login
