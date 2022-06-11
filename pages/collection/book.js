@@ -4,7 +4,7 @@ const BookInfo = () => {
   return (
     <>
       <div className="top-bar">
-        <Link href="/collection" className="register-back-btn">
+        <Link href="#" replace className="register-back-btn">
           <a>{'<'}</a>
         </Link>
         <p>Shelves Collection</p>

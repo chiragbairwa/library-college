@@ -8,11 +8,29 @@ import '../styles/dashboard/dashboard.css'
 // Login
 import './login/login.css'
 
-// Auth
 import './collection/collection.css'
 
+// Auth
+import { useRouter } from 'next/router'
+import { AuthContextProvider } from '../firebase/authContext'
+import ProtectedRoute from '../firebase/protectedRoute'
+
+const noAuthRequired = ['/', '/login']
+
 function MyApp({ Component, pageProps }) {
-  return <Component {...pageProps} />
+  const router = useRouter()
+
+  return (
+    <AuthContextProvider>
+      {noAuthRequired.includes(router.pathname) ? (
+        <Component {...pageProps} />
+      ) : (
+        <ProtectedRoute>
+          <Component {...pageProps} />
+        </ProtectedRoute>
+      )}
+    </AuthContextProvider>
+  )
 }
 
 export default MyApp

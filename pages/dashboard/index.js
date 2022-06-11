@@ -1,12 +1,16 @@
 import Footer from '../footer'
 import Image from 'next/image'
 import Link from 'next/link'
+import { useAuth } from '../../firebase/authContext'
 
 function Dashboard() {
+  const { user, logout } = useAuth()
+
   var today = new Date()
   var dd = String(today.getDate()).padStart(2, '0')
   var mm = String(today.getMonth() + 1).padStart(2, '0') //January is 0!
   var yyyy = today.getFullYear()
+
   return (
     <div className="dashboard">
       {/* HEADER */}
@@ -19,6 +23,7 @@ function Dashboard() {
         <div>
           <div className="dashboard-header-search"></div>
           <div className="dashboard-header-profile"></div>
+          <button onClick={logout}>LOGOUT</button>
         </div>
 
         {/* <input type="search" placeholder="Search a book or an author" /> */}
