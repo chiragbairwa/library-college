@@ -48,9 +48,8 @@
   overflow-x: scroll;
 }
 .feature-books-card {
-  padding: 0 0 8px 0;
   width: 160px;
-
+  height: 250px;
   text-align: center;
   margin-right: 8px;
   overflow: hidden;
@@ -58,9 +57,14 @@
   background-color: aqua;
 }
 .feature-books-card > div {
-  height: 180px;
+  height: 75%;
 
   background-color: aquamarine;
+}
+.feature-books-card > p {
+  padding: 0 4px;
+  width: 160px;
+  font-weight: 500;
 }
 
 /* Owned */

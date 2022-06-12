@@ -1,0 +1,3162 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1237,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "yjRlDwAAQBAJ",
+      "etag": "AY7BQC52WVk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yjRlDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Database Management System (DBMS): A Practical Approach, 5th Edition",
+        "authors": [
+          "Chopra Rajiv"
+        ],
+        "publisher": "S. Chand Publishing",
+        "publishedDate": "2016",
+        "description": "This comprehensive book, now in its Fifth Edition, continues to discuss the principles and concept of Database Management System (DBMS). It introduces the students to the different kinds of database management systems and explains in detail the implementation of DBMS. The book provides practical examples and case studies for better understanding of concepts and also incorporates the experiments to be performed in the DBMS lab. A competitive pedagogy includes Summary, MCQs, Conceptual Short Questions (with answers) and Exercise Questions.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789385676345"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9385676342"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yjRlDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yjRlDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=yjRlDwAAQBAJ&printsec=frontcover&dq=dbms&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=yjRlDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=yjRlDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 531,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 330.4,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=yjRlDwAAQBAJ&rdid=book-yjRlDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 531000000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 330400000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Database_Management_System_DBMS_A_Practi-sample-pdf.acsm?id=yjRlDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yjRlDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This comprehensive book, now in its Fifth Edition, continues to discuss the principles and concept of Database Management System (DBMS)."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FTUJNA4lLdAC",
+      "etag": "Pn5avshwaLc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FTUJNA4lLdAC",
+      "volumeInfo": {
+        "title": "Database Management System (DBMS)A Practical Approach",
+        "authors": [
+          "Rajiv Chopra"
+        ],
+        "publisher": "S. Chand Publishing",
+        "publishedDate": "2010-01-01",
+        "description": "Many books on Database Management Systems (DBMS) are available in the market, they are incomplete very formal and dry. My attempt is to make DBMS very simple so that a student feels as if the teacher is sitting behind him and guiding him. This text is bolstered with many examples and Case Studies. In this book, the experiments are also included which are to be performed in DBMS lab. Every effort has been made to alleviate the treatment of the book for easy flow of understanding of the students as well as the professors alike. This textbook of DBMS for all graduate and post-graduate programmes of Delhi University, GGSIPU, Rajiv Gandhi Technical University, UPTU, WBTU, BPUT, PTU and so on. The salient features of this book are: - 1. Multiple Choice Questions 2. Conceptual Short Questions 3. Important Points are highlighted / Bold faced. 4. Very lucid and simplified approach 5.Bolstered with numerous examples and CASE Studies 6. Experiments based on SQL incorporated. 7. DBMS Projects added Question Papers of various universities are also included.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788121932455"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8121932459"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 704,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FTUJNA4lLdAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FTUJNA4lLdAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=FTUJNA4lLdAC&printsec=frontcover&dq=dbms&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=FTUJNA4lLdAC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=FTUJNA4lLdAC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 472,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 330.4,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=FTUJNA4lLdAC&rdid=book-FTUJNA4lLdAC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 472000000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 330400000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Database_Management_System_DBMS_A_Practi-sample-pdf.acsm?id=FTUJNA4lLdAC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FTUJNA4lLdAC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This text is bolstered with many examples and Case Studies. In this book, the experiments are also included which are to be performed in DBMS lab."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pXGxuG3Nz8cC",
+      "etag": "8NHSko8hPp4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pXGxuG3Nz8cC",
+      "volumeInfo": {
+        "title": "Database Management System",
+        "authors": [
+          "G. K. Gupta"
+        ],
+        "publisher": "Tata McGraw-Hill Education",
+        "publishedDate": "2011",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "007107273X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780071072731"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 780,
+        "printType": "BOOK",
+        "categories": [
+          "Database design"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=pXGxuG3Nz8cC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=pXGxuG3Nz8cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=pXGxuG3Nz8cC&printsec=frontcover&dq=dbms&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=pXGxuG3Nz8cC&dq=dbms&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Database_Management_System.html?hl=&id=pXGxuG3Nz8cC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pXGxuG3Nz8cC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "17D5HEN47nYC",
+      "etag": "TL610iZNigk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/17D5HEN47nYC",
+      "volumeInfo": {
+        "title": "Introduction to Database Management Systems",
+        "authors": [
+          "Isrd Group"
+        ],
+        "publisher": "Tata McGraw-Hill Education",
+        "publishedDate": "2005-11-01",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0070591199"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780070591196"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 338,
+        "printType": "BOOK",
+        "categories": [
+          "Database management"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.6.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=17D5HEN47nYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=17D5HEN47nYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=17D5HEN47nYC&printsec=frontcover&dq=dbms&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=17D5HEN47nYC&dq=dbms&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Introduction_to_Database_Management_Syst.html?hl=&id=17D5HEN47nYC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=17D5HEN47nYC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gUTCDwAAQBAJ",
+      "etag": "0jMx74Uk8cM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gUTCDwAAQBAJ",
+      "volumeInfo": {
+        "title": "DBMS - DATA BASE MANAGEMENT SYSTEM",
+        "authors": [
+          "Balamurali "
+        ],
+        "publisher": "Balamurali",
+        "description": "DBMS - Quick Guide",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 66,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gUTCDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gUTCDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=gUTCDwAAQBAJ&printsec=frontcover&dq=dbms&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=gUTCDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=gUTCDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 377.74,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 264.42,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=gUTCDwAAQBAJ&rdid=book-gUTCDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 377740000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 264420000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/DBMS_DATA_BASE_MANAGEMENT_SYSTEM-sample-pdf.acsm?id=gUTCDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gUTCDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "DBMS - Quick Guide"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fT6-ziSWBcYC",
+      "etag": "ZTYlqa75mz8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fT6-ziSWBcYC",
+      "volumeInfo": {
+        "title": "Int To Dbms",
+        "authors": [
+          "Majumdar"
+        ],
+        "publisher": "Tata McGraw-Hill Education",
+        "publishedDate": "2001-05-01",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0074622390"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780074622391"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 475,
+        "printType": "BOOK",
+        "categories": [
+          "Database management"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fT6-ziSWBcYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fT6-ziSWBcYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=fT6-ziSWBcYC&printsec=frontcover&dq=dbms&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=fT6-ziSWBcYC&dq=dbms&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Int_To_Dbms.html?hl=&id=fT6-ziSWBcYC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fT6-ziSWBcYC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3MxQAAAAMAAJ",
+      "etag": "Qr9zOGxdEME",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3MxQAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Database Management Systems",
+        "authors": [
+          "Raghu Ramakrishnan",
+          "Johannes Gehrke"
+        ],
+        "publishedDate": "2000",
+        "description": "Database Management Systems (DBMS) is a must for any course in database systems or file organization. DBMS provides a hands-on approach to relational database systems, with an emphasis on practical topics such as indexing methods, SQL, and database design. New to this edition are the early coverage of the ER model, new chapters on Internet databases, data mining, and spatial databases, and a new supplement on practical SQL assignments (with solutions for instructors' use). Many other chapters have been reorganized or expanded to provide up-to-date coverage.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015047449304"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 906,
+        "printType": "BOOK",
+        "categories": [
+          "Database management"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3MxQAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3MxQAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=3MxQAAAAMAAJ&q=dbms&dq=dbms&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=3MxQAAAAMAAJ&dq=dbms&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Database_Management_Systems.html?hl=&id=3MxQAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3MxQAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "New to this edition are the early coverage of the ER model, new chapters on Internet databases, data mining, and spatial databases, and a new supplement on practical SQL assignments (with solutions for instructors&#39; use)."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fyQTae6c9l4C",
+      "etag": "7eRYXe72ECc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fyQTae6c9l4C",
+      "volumeInfo": {
+        "title": "Introduction to Database Management System",
+        "authors": [
+          "Satinder Bal Gupta",
+          "Aditya Mittal"
+        ],
+        "publisher": "Laxmi Publications, Ltd.",
+        "publishedDate": "2009-11",
+        "description": "The book is is an outcome of practical and teaching experience of the authors on the subject. It covers the syllabi of B. Tech/M.C.A./B.C.A./M.B.A. of various universities and presents an exhaustive and up-to-date exposition of database management systems in an easy-to-understand manner. It bridges the gap between theoretical learning and practical implementation of databases for various applications. --",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "813180724X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788131807248"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 288,
+        "printType": "BOOK",
+        "categories": [
+          "Database design"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fyQTae6c9l4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fyQTae6c9l4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=fyQTae6c9l4C&printsec=frontcover&dq=dbms&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=fyQTae6c9l4C&dq=dbms&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Introduction_to_Database_Management_Syst.html?hl=&id=fyQTae6c9l4C"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fyQTae6c9l4C&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book is is an outcome of practical and teaching experience of the authors on the subject."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Jsp9CwAAQBAJ",
+      "etag": "0LyKouSYU4Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Jsp9CwAAQBAJ",
+      "volumeInfo": {
+        "title": "DBMS Concepts - A Practical approach",
+        "subtitle": "",
+        "authors": [
+          "Tanmay Kasbe"
+        ],
+        "publisher": "Educreation Publishing",
+        "publishedDate": "2016-02-01",
+        "description": "This is book about basic concepts of DBMS & RDBMS. This book provides details about SQL with lots of examples. It is a book for those students who want to learn basic concept of DBMS as well as SQL with basic syntax .The book will surely clear the concepts of database & most important objective of this book is to create interest in students. Lots of case studies & assignments help reader to understand the concept and gain more practical knowledge.",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 196,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.0.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Jsp9CwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Jsp9CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=Jsp9CwAAQBAJ&printsec=frontcover&dq=dbms&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Jsp9CwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Jsp9CwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 147.5,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 147.5,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Jsp9CwAAQBAJ&rdid=book-Jsp9CwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 147500000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 147500000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/DBMS_Concepts_A_Practical_approach-sample-pdf.acsm?id=Jsp9CwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Jsp9CwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is book about basic concepts of DBMS &amp; RDBMS. This book provides details about SQL with lots of examples."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QhT5cC_QH-MC",
+      "etag": "WyfUaPNwUO4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QhT5cC_QH-MC",
+      "volumeInfo": {
+        "title": "Database Mgmt. Systems (Sie)",
+        "authors": [
+          "Mata"
+        ],
+        "publisher": "Tata McGraw-Hill Education",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0070634564"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780070634565"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.5.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QhT5cC_QH-MC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QhT5cC_QH-MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=QhT5cC_QH-MC&printsec=frontcover&dq=dbms&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=QhT5cC_QH-MC&dq=dbms&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Database_Mgmt_Systems_Sie.html?hl=&id=QhT5cC_QH-MC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QhT5cC_QH-MC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xQdUEAAAQBAJ",
+      "etag": "+TlgejB7/ZQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xQdUEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Database Management System",
+        "subtitle": "An Evolutionary Approach",
+        "authors": [
+          "Jagdish Chandra Patni",
+          "Hitesh Kumar Sharma",
+          "Ravi Tomar",
+          "Avita Katal"
+        ],
+        "publisher": "CRC Press",
+        "publishedDate": "2022-01-31",
+        "description": "A database management system (DBMS) is a collection of programs that enable users to create and maintain a database; it also consists of a collection of interrelated data and a set of programs to access that data. Hence, a DBMS is a general-purpose software system that facilitates the processes of defining, constructing, and manipulating databases for various applications. The primary goal of a DBMS is to provide an environment that is both convenient and efficient to use in retrieving and storing database information. It is an interface between the user of application programs, on the one hand, and the database, on the other. The objective of Database Management System: An Evolutionary Approach, is to enable the learner to grasp a basic understanding of a DBMS, its need, and its terminologies discern the difference between the traditional file-based systems and a DBMS code while learning to grasp theory in a practical way study provided examples and case studies for better comprehension This book is intended to give under- and postgraduate students a fundamental background in DBMSs. The book follows an evolutionary learning approach that emphasizes the basic concepts and builds a strong foundation to learn more advanced topics including normalizations, normal forms, PL/SQL, transactions, concurrency control, etc. This book also gives detailed knowledge with a focus on entity-relationship (ER) diagrams and their reductions into tables, with sufficient SQL codes for a more practical understanding.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781000522457"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1000522458"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 251,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xQdUEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xQdUEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=xQdUEAAAQBAJ&pg=PP1&dq=dbms&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=xQdUEAAAQBAJ&dq=dbms&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Database_Management_System.html?hl=&id=xQdUEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Database_Management_System-sample-epub.acsm?id=xQdUEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Database_Management_System-sample-pdf.acsm?id=xQdUEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xQdUEAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The objective of Database Management System: An Evolutionary Approach, is to enable the learner to grasp a basic understanding of a DBMS, its need, and its terminologies discern the difference between the traditional file-based systems and ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mK4COraJvlIC",
+      "etag": "eL3SdT8vdWg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mK4COraJvlIC",
+      "volumeInfo": {
+        "title": "Database Management Systems",
+        "authors": [
+          "Gill"
+        ],
+        "publisher": "I. K. International Pvt Ltd",
+        "publishedDate": "2008-01-01",
+        "description": "The book is intended to provide an insight into the DBMS concepts. An effort has been made to familiarize the readers with the concepts of database normalization, concurrency control, deadlock handling and recovery etc., which are extremely vital for a clear understanding of DBMS. To familiarize the readers with the equivalence amongst Relational Algebra, Tuple Relational Calculus, and SQL, a large number of equivalent queries have been provided. The concepts of normalization have been elaborated very systematically by fully covering the underlying concepts of functional dependencies, multi-valued dependencies, join dependencies, loss-less-join decomposition, dependency-preserving decomposition etc. It is hoped that with the help of the information provided in the text, a reader will be able to design a flawless database. Also, the concepts of serializabilty, concurrency control, deadlock handling and log-based recovery have been covered in full detail. An overview has also been provided of the issues related to distributed-databases.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788189866839"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8189866834"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 280,
+        "printType": "BOOK",
+        "categories": [
+          "Database management"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mK4COraJvlIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mK4COraJvlIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=mK4COraJvlIC&printsec=frontcover&dq=dbms&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=mK4COraJvlIC&dq=dbms&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Database_Management_Systems.html?hl=&id=mK4COraJvlIC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mK4COraJvlIC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book is intended to provide an insight into the DBMS concepts."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jb07DwAAQBAJ",
+      "etag": "rDZToTfi/xw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jb07DwAAQBAJ",
+      "volumeInfo": {
+        "title": "MCS-023: Introduction to Database Management Systems",
+        "subtitle": "",
+        "authors": [
+          "Dr. DK Sukhani"
+        ],
+        "publisher": "MeetCoogle",
+        "description": "This book is useful for IGNOU BCA & MCA students. A perusal of past questions papers gives an idea of the type of questions asked, the paper pattern and so on, it is for this benefit, we provide these IGNOU MCS-023: Introduction to Database Management Systems Notes. Students are advised to refer these solutions in conjunction with their reference books. It will help you to improve your exam preparations. Overview of DBMS, Basic DBMS terminology, data base system v/s file system, data independence. Architecture of a DBMS. Introduction to data models: entity relationship model, hierarchical model: from network to hierarchical, relational model, comparison of network, hierarchical and relational models. Data modeling using the Entity Relationship Model: ER model concepts, notation for ER diagram, mapping constraints, keys, Concepts of Super Key, candidate key, primary key, Generalization, aggregation, reduction of an ER diagrams to tables, extended ER model, relationships of higher degree. Relational model: storage organizations for relations, relational algebra, relational calculus. Normalization: Functional dependencies, normal forms, first, second, third normal forms, BCNF, inclusion dependencies, loss less join decompositions, normalization using FD, MVD, and JDs, alternative approaches to database design. Introduction to SQL: Characteristics of SQL, Advantages of SQL, SQL data types and literals, Types of SQL commands, SQL operators and their procedure, Tables, views and indexes, Queries and sub queries, Aggregate functions, insert, update and delete operations, Joins, Unions, Intersection, Minus in SQL. Published by MeetCoogle",
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Study Aids"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jb07DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jb07DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=jb07DwAAQBAJ&printsec=frontcover&dq=dbms&hl=&cd=13&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=jb07DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=jb07DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 99,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 99,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=jb07DwAAQBAJ&rdid=book-jb07DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 99000000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 99000000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/MCS_023_Introduction_to_Database_Managem-sample-epub.acsm?id=jb07DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jb07DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book is useful for IGNOU BCA &amp; MCA students."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BaZjDwAAQBAJ",
+      "etag": "s2gsjnDACyU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BaZjDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Database Management System",
+        "authors": [
+          "Monelli  Ayyavaraiah",
+          "Arepalli Gopi"
+        ],
+        "publisher": "Horizon Books ( A Division of Ignited Minds Edutech P Ltd)",
+        "publishedDate": "2017-01-01",
+        "description": "This book introduces the fundamental concepts necessary for designing, using, and implementing database systems and database applications. Our presentation stresses the fundamentals of database modeling and design, the languages and models provided by the database management systems, and database system implementation techniques. The book is meant to be used as a textbook for a one- or two-semester course in database systems at the junior, senior, or graduate level, and as a reference book. Our goal is to provide an in-depth and up-to-date presentation of the most important aspects of database systems and applications, and related technologies. We assume that readers are familiar with elementary programming and data structuring concepts and those they have had some exposure to the basics of computer organization.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789386369703"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9386369702"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 183,
+        "printType": "BOOK",
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=BaZjDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=BaZjDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=BaZjDwAAQBAJ&printsec=frontcover&dq=dbms&hl=&cd=14&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=BaZjDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=BaZjDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 177,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 123.9,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=BaZjDwAAQBAJ&rdid=book-BaZjDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 177000000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 123900000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Database_Management_System-sample-pdf.acsm?id=BaZjDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BaZjDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book introduces the fundamental concepts necessary for designing, using, and implementing database systems and database applications."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EbWPzgEACAAJ",
+      "etag": "1pMmnT9NRJA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EbWPzgEACAAJ",
+      "volumeInfo": {
+        "title": "Database Management System",
+        "subtitle": "An Evolutionary Approach",
+        "authors": [
+          "Jagdish Chandra Patni",
+          "Hitesh Kumar Sharma",
+          "Ravi Tomar",
+          "Avita Katal"
+        ],
+        "publisher": "Chapman & Hall/CRC",
+        "publishedDate": "2022",
+        "description": "\"This book explains the basic and advance concepts necessary for designing and implementing database systems and database applications. It puts emphasis on the core technical part of database modelling and design. It is meant to be used as a textbook for a technical course in database systems at the undergraduate and graduate level\"--",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0367244934"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780367244934"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 192,
+        "printType": "BOOK",
+        "categories": [
+          "Database design"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=EbWPzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=EbWPzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=EbWPzgEACAAJ&dq=dbms&hl=&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=EbWPzgEACAAJ&dq=dbms&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Database_Management_System.html?hl=&id=EbWPzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EbWPzgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Basics of database -- Data models and architecture of DBMS -- Relational database management system (RDBMS) -- Entity relationship model -- Normalization -- Introduction to PL/SQL -- Transaction management in database."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WJSKBAAAQBAJ",
+      "etag": "PR5b9hJszD0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WJSKBAAAQBAJ",
+      "volumeInfo": {
+        "title": "Concepts of Database Management Systems (BCA)",
+        "authors": [
+          "Shefali Naik"
+        ],
+        "publisher": "Pearson Education India",
+        "description": "Concepts of Database Management System is designed to meet the syllabi requirements of undergraduate students of computer applications and computer science. It describes the concepts in an easy-to-understand language with sufficient number of examples. The overview of emerging trends in databases is thoroughly explained. A brief introduction to PL/SQL, MS-Access and Oracle is discussed to help students get a flavor of different types of database management systems.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789332537231"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9332537232"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 264,
+        "printType": "BOOK",
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WJSKBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WJSKBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=WJSKBAAAQBAJ&printsec=frontcover&dq=dbms&hl=&cd=16&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=WJSKBAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=WJSKBAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 200,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 140,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=WJSKBAAAQBAJ&rdid=book-WJSKBAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 200000000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 140000000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Concepts_of_Database_Management_Systems-sample-pdf.acsm?id=WJSKBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WJSKBAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Concepts of Database Management System is designed to meet the syllabi requirements of undergraduate students of computer applications and computer science."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5Nb2ygAACAAJ",
+      "etag": "h4oJIpMtLGg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5Nb2ygAACAAJ",
+      "volumeInfo": {
+        "title": "ADVANCED DATABASE MANAGEMENT SYSTEM (With CD )",
+        "authors": [
+          "Rini Chakrabarti",
+          "Shilbhadra Dasgupta"
+        ],
+        "publishedDate": "2011-07-01",
+        "description": "Market_Desc: This book is a valuable source of information for academics, practitioners, post and under graduate students with a good overview of basic notions, methods and techniques, as well as important issues and trends across the broad spectrum of data management. Special Features: · Provides simple, clear and concise language, which makes the book easy and enjoyable to read.· Follows a code centric approach and provides code snippets wherever applicable.· Provides well-structured text and illustrative block diagrams and figures wherever required.· Provides case studies involving the latest technologies, such as Java, J2EE, and ASP.NET with backend database, such as Oracle and SQL Server with clear illustrations and step-wise approach on how to develop a real-life project.· Includes chapter objectives and advance organizer at the beginning of each chapter to describe what the reader would learn in the chapter.· Includes comprehensive and detailed coverage of each topic to meet the requirements of the target audience, including postgraduates, undergraduates, and professionals. About The Book: This book provides a systematic approach with an in-depth analysis of advanced database areas as well as the basics of database management systems. It explores the different normalization techniques starting from the very basic first normal form and extends up to sixth normal form. The theme of this book is the potential of new advanced database systems. This book combines advanced techniques with practical advice and many new ideas, methods, and examples for database management students, system specialists, and programmers. It provides a wealth of technical information on database methods and an encyclopedic coverage of advanced techniques. Summing up, this book is a valuable source of information for academics, practitioners, post and under graduate students with a good overview of basic notions, methods and techniques, as well as important issues and trends across the broad spectrum of data management.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8177228021"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788177228021"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 688,
+        "printType": "BOOK",
+        "averageRating": 1,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5Nb2ygAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=5Nb2ygAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=5Nb2ygAACAAJ&dq=dbms&hl=&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=5Nb2ygAACAAJ&dq=dbms&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/ADVANCED_DATABASE_MANAGEMENT_SYSTEM_With.html?hl=&id=5Nb2ygAACAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5Nb2ygAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Market_Desc: This book is a valuable source of information for academics, practitioners, post and under graduate students with a good overview of basic notions, methods and techniques, as well as important issues and trends across the broad ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JKZDDAAAQBAJ",
+      "etag": "GFhGQhdzZx0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JKZDDAAAQBAJ",
+      "volumeInfo": {
+        "title": "Database Management System (University of Mumbai)",
+        "authors": [
+          "Bhavesh Pandya, Safa Hamdare & A.K. Sen"
+        ],
+        "publisher": "Vikas Publishing House",
+        "description": "Written Strictly as per Mumbai University syllabus, this book provides a complete guide to the theoretical as well as the practical implementation of DBMS concepts including E-R Model, Relational Algebra, SQL queries, Integrity, Security, Database design, Transaction management ,Query processing and Procedural SQL language. This book assumes no prior knowledge of the reader on the subject. KEY FEATURES • Large number of application oriented problem statements and review exercises along with their solutions are provided for hands on practice. • Includes 12 University Question paper for IT department (Dec '08 - May '14) with solutions to provide an overview of University Question pattern. • Lab manual along with desired output for queries is provided as per recommendations by Mumbai University. • All the SQL queries mentioned in the book are performed and applicable for Oracle DBMS tool.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789325981133"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9325981130"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=JKZDDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=JKZDDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=JKZDDAAAQBAJ&printsec=frontcover&dq=dbms&hl=&cd=18&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=JKZDDAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=JKZDDAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 324.5,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 227.15,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=JKZDDAAAQBAJ&rdid=book-JKZDDAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 324500000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 227150000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Database_Management_System_University_of-sample-pdf.acsm?id=JKZDDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JKZDDAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Written Strictly as per Mumbai University syllabus, this book provides a complete guide to the theoretical as well as the practical implementation of DBMS concepts including E-R Model, Relational Algebra, SQL queries, Integrity, Security, ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "B-cJhhsh4NAC",
+      "etag": "p2becVb8Sy0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/B-cJhhsh4NAC",
+      "volumeInfo": {
+        "title": "Database Management Systems",
+        "authors": [
+          "Rajesh Narang"
+        ],
+        "publisher": "PHI Learning Pvt. Ltd.",
+        "publishedDate": "2011",
+        "description": "The contents of this second edition have been appropriately enhanced to serve the growing needs of the students pursuing undergraduate engineering courses in Computer Science, Information Technology, as well as postgraduate programmes in Computer Applications (MCA), MSc (IT) and MSc (Computer Science). The book covers the fundamental and theoretical concepts in an elaborate manner using SQL of leading RDBMS—Oracle, MS SQL Server and Sybase. This book is recommended in Guwahati University, Assam. Realizing the importance of RDBMS in all types of architectures and applications, both traditional and modern topics are included for the benefit of IT-savvy readers. A strong understanding of the relational database design is provided in chapters on Entity-Relationship, Relational, Hierarchical and Network Data Models, Normalization, Relational Algebra and Relational Calculus. The architecture of the legacy relational database R system, the hierarchical database IMS of IBM and the network data model DBTG are also given due importance to bring completeness and to show thematic interrelationships among them. Several chapters have been devoted to the latest database features and technologies such as Data Partitioning, Data Mirroring, Replication, High Availability, Security and Auditing. The architecture of Oracle, SQL of Oracle known as PL/SQL, SQL of both Sybase and MS SQL Server known as T-SQL have been covered. KEY FEATURES : Gives wide coverage to topics of network, hierarchical and relational data models of both traditional and generic modern databases. Discusses the concepts and methods of Data Partitioning, Data Mirroring and Replication required to build the centralized architecture of very large databases. Provides several examples, listings, exercises and solutions to selected exercises to stimulate and accelerate the learning process of the readers. Covers the concept of database mirroring and log shipping to demonstrate how to build disaster recovery solution through the use of database technology. Contents: Preface 1. Introduction 2. The Entity-Relationship Model 3. Data Models 4. Storage Structure 5. Relational Data Structure 6. Architecture of System R and Oracle 7. Normalization 8. Structured Query Language 9. T-SQL—Triggers and Dynamic Execution 10. Procedure Language—SQL 11. Cursor Management and Advanced PL/SQL 12. Relational Algebra and Relational Calculus 13. Concurrency Control and Automatic Recovery 14. Distributed Database and Replication 15. High Availability and RAID Technology 16. Security Features Built in RDBMS 17. Queries Optimization 18. Architecture of a Hierarchical DBMS 19. The Architecture of Network based DBTG System 20. Comparison between Different Data Models 21. Performance Improvement and Partitioning 22. Database Mirroring and Log Shipping for Disaster Recovery Bibliography Answers to Selected Exercises Index",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788120343139"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8120343131"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 462,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 2,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=B-cJhhsh4NAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=B-cJhhsh4NAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=B-cJhhsh4NAC&printsec=frontcover&dq=dbms&hl=&cd=19&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=B-cJhhsh4NAC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=B-cJhhsh4NAC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 383.5,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 268.45,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=B-cJhhsh4NAC&rdid=book-B-cJhhsh4NAC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 383500000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 268450000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Database_Management_Systems-sample-pdf.acsm?id=B-cJhhsh4NAC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=B-cJhhsh4NAC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book covers the fundamental and theoretical concepts in an elaborate manner using SQL of leading RDBMS—Oracle, MS SQL Server and Sybase. This book is recommended in Guwahati University, Assam."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8MZGDwAAQBAJ",
+      "etag": "svB+x3xQ5YM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8MZGDwAAQBAJ",
+      "volumeInfo": {
+        "title": "DATABASE MANAGEMENT SYSTEMS",
+        "authors": [
+          "PANNEERSELVAM, R."
+        ],
+        "publisher": "PHI Learning Pvt. Ltd.",
+        "publishedDate": "2018-01-01",
+        "description": "Primarily designed for the postgraduate students of computer science, information technology, software engineering and management, this book, now in its Third Edition, continues to provide an excellent coverage of the basic concepts involved in database management systems. It provides a thorough treatment of some important topics such as data structure, data models and database design through presentation of well-defined algorithms, examples and real-life cases. A detailed coverage of Database Structure, Implementation Design, Hierarchical Database Management Systems, Network Database Management Systems and Relational Database Management Systems, is also focused in this book. This book will also be useful for B.E./B.Tech. students of Computer Science and Engineering and Software Engineering. NEW TO THIS EDITION • Introduces three new chapters on rational database languages, namely, Relational Database Management Systems: Oracle 11g SQL, Relational Database Management Systems: Oracle 11g PL/SQL, and Relational Database Management Systems: Access 2013. • Text interspersed with numerous screenshots for practical under-standing of the text. • Clearly explained procedures in a step-by-step manner with chapter-end questions. • Self-explanatory, labelled figures and tables to conceptual discussion.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789387472105"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9387472108"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 476,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8MZGDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8MZGDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=8MZGDwAAQBAJ&printsec=frontcover&dq=dbms&hl=&cd=20&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=8MZGDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=8MZGDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 584.1,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 292.05,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=8MZGDwAAQBAJ&rdid=book-8MZGDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 584100000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 292050000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/DATABASE_MANAGEMENT_SYSTEMS-sample-pdf.acsm?id=8MZGDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8MZGDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Primarily designed for the postgraduate students of computer science, information technology, software engineering and management, this book, now in its Third Edition, continues to provide an excellent coverage of the basic concepts ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NGrjZwEACAAJ",
+      "etag": "mRfBPZiTcr0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NGrjZwEACAAJ",
+      "volumeInfo": {
+        "title": "A Database Management System (DBMS)",
+        "authors": [
+          "Sushil Goel"
+        ],
+        "publishedDate": "2004",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:720597314"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 188,
+        "printType": "BOOK",
+        "categories": [
+          "Database management"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=NGrjZwEACAAJ&dq=dbms&hl=&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=NGrjZwEACAAJ&dq=dbms&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Database_Management_System_DBMS.html?hl=&id=NGrjZwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NGrjZwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TjewDwAAQBAJ",
+      "etag": "x/t1vGetCTs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TjewDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Fundamental of Database Management System",
+        "subtitle": "Learn essential concepts of database systems",
+        "authors": [
+          "Dr. Mukesh Negi"
+        ],
+        "publisher": "BPB Publications",
+        "publishedDate": "2019-09-18",
+        "description": "Designed to provide an insight into the database concepts DESCRIPTION Book teaches the essentials of DBMS to anyone who wants to become an effective and independent DBMS Master. It covers all the DBMS fundamentals without forgetting few vital advanced topics such as from installation, configuration and monitoring, up to the backup and migration of database covering few database client tools. KEY FEATURES Book contains real-time executed commands along with screenshot Parallel execution and explanation of Oracle and MySQL Database commands A Single comprehensive guide for Students, Teachers and Professionals Practical oriented book WHAT WILL YOU LEARN Relational Database,Keys Normalization of database SQL, SQL Queries, SQL joins Aggregate Functions,Oracle and Mysql tools WHO THIS BOOK IS FOR Students of Polytechnic Diploma Classes- Computer Science/ Information Technology Graduate Students- Computer Science/ CSE / IT/ Computer Applications Master Class Students—Msc (CS/IT)/ MCA/ M.Phil, M.Tech, M.S. Industry Professionals- Preparing for Certifications Table of Contents \ufeff1. Fundamentals of data and Database management system 2. Database Architecture and Models 3. Relational Database and normalization 4. Open source technology & SQL 5. Database queries 6. SQL operators 7. Introduction to database joins 8. Aggregate functions, subqueries and users 9. Backup & Recovery 10. Database installation 11. Oracle and MYSQL tools 12. Exercise",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789388176620"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9388176626"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 175,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=TjewDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=TjewDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=TjewDwAAQBAJ&printsec=frontcover&dq=dbms&hl=&cd=22&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=TjewDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=TjewDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 886.94,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 443.47,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=TjewDwAAQBAJ&rdid=book-TjewDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 886940000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 443470000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Fundamental_of_Database_Management_Syste-sample-epub.acsm?id=TjewDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Fundamental_of_Database_Management_Syste-sample-pdf.acsm?id=TjewDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TjewDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "KEY FEATURES Book contains real-time executed commands along with screenshot Parallel execution and explanation of Oracle and MySQL Database commands A Single comprehensive guide for Students, Teachers and Professionals Practical oriented ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dkg8BAAAQBAJ",
+      "etag": "P6StITtJJg0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dkg8BAAAQBAJ",
+      "volumeInfo": {
+        "title": "Introduction to Database Management Systems:",
+        "authors": [
+          "Kahate, Atul"
+        ],
+        "publisher": "Pearson Education India",
+        "description": "Introduction to Database Management Systems is designed specifically for a single semester, namely, the first course on Database Systems. The book covers all the essential aspects of database systems, and also covers the areas of RDBMS. The book in",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788131775820"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8131775828"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 536,
+        "printType": "BOOK",
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dkg8BAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dkg8BAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=dkg8BAAAQBAJ&printsec=frontcover&dq=dbms&hl=&cd=23&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=dkg8BAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=dkg8BAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 860.22,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 430.11,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=dkg8BAAAQBAJ&rdid=book-dkg8BAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 860220000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 430110000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Introduction_to_Database_Management_Syst-sample-pdf.acsm?id=dkg8BAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dkg8BAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book covers all the essential aspects of database systems, and also covers the areas of RDBMS. The book in"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "kt3fywEACAAJ",
+      "etag": "1Ctfl4mydzE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/kt3fywEACAAJ",
+      "volumeInfo": {
+        "title": "DBMS - Database Management System",
+        "subtitle": "By Zahid Wadiwale",
+        "authors": [
+          "Mohammed Zahid Wadiwale"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2019-11-06",
+        "description": "Database Management System or DBMS in short refers to the technology of storing and retrieving users' data with utmost efficiency along with appropriate security measures. DBMS allows its users to create their own databases as per their requirement. These databases are highly configurable and offer a bunch of options. This book explains the basics of DBMS such as its architecture, data models, data schemas, data independence, E-R model, relation model, relational database design, and storage and file structure. In addition, it covers a few advanced topics such as indexing and hashing, transaction and concurrency, and backup and recovery. This book will especially help computer science graduates in understanding the basic-to-advanced concepts related to Database Management Systems.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1706068409"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781706068402"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 96,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=kt3fywEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=kt3fywEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=kt3fywEACAAJ&dq=dbms&hl=&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=kt3fywEACAAJ&dq=dbms&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/DBMS_Database_Management_System.html?hl=&id=kt3fywEACAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=kt3fywEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book will especially help computer science graduates in understanding the basic-to-advanced concepts related to Database Management Systems."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nt-T0cfaWPoC",
+      "etag": "70fWMJBOGk8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nt-T0cfaWPoC",
+      "volumeInfo": {
+        "title": "DBMS – Complete Practical Approach",
+        "authors": [
+          "Sharad Maheshwari",
+          "Ruchin Jain"
+        ],
+        "publisher": "Firewall Media",
+        "publishedDate": "2005",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8170087147"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788170087144"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 536,
+        "printType": "BOOK",
+        "categories": [
+          "Database management"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 5,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nt-T0cfaWPoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nt-T0cfaWPoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=nt-T0cfaWPoC&pg=PA12&dq=dbms&hl=&cd=25&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=nt-T0cfaWPoC&dq=dbms&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/DBMS_Complete_Practical_Approach.html?hl=&id=nt-T0cfaWPoC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nt-T0cfaWPoC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "OVERVIEW OF VARIOUS TYPES OF \u003cb\u003eDBMS\u003c/b\u003e &amp; RDBMS \u003cb\u003eDatabase Management System\u003c/b\u003e . A Database Management is a collection of interrelated data and a set of programs to access this data . Collection of interrelated data is known as Database ."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MstuEAAAQBAJ",
+      "etag": "Uxby18K8ipI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MstuEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Introduction to DBMS",
+        "subtitle": "Designing and Implementing Databases from Scratch for Absolute Beginners (English Edition)",
+        "authors": [
+          "Dr. Hariram Chavan",
+          "Prof. Sana Shaikh"
+        ],
+        "publisher": "BPB Publications",
+        "publishedDate": "2022-05-10",
+        "description": "Database and I: A unified view of the Database KEY FEATURES ● Explains database fundamentals by using examples from the actual world. ● Extensive hands-on practice demonstrating SQL topics using MySQL standards. ● All-inclusive coverage for systematic reading and self-study. DESCRIPTION The knowledge of Database Management Systems (DBMS) has become a de facto necessity for every business user. Understanding various databases and how it becomes an integral part of any application has been a popular curriculum for undergraduates. In this book, you will learn about database design and how to build one. It has six chapters meant to bridge the gap between theory and legit implementation. Concepts and architecture, Entity-relation model, Relational model, Structured Query Language, Relational database design, and transaction management are covered in the book. The ER and relational models are demonstrated using a database system from an engineering college and implemented using the MySQL standard. The final chapter explains transaction management, concurrency, and recovery methods. The final chapter explains transaction management, concurrency, and recovery methods. With a straightforward language and a student-centered approach, this book provides hands-on experience with MySQL implementation. It will be beneficial as a textbook for undergraduate students, and database specialists in their professional capacity may also use it. WHAT YOU WILL LEARN ● Acquire a firm grasp of the principles of data and database management systems. ● Outlines the whole development and implementation process for databases. ● Learn how to follow step-by-step normalization rules and keep your data clean. ● MySQL operations such as DDL, DML, DCL, TCL, and embedded queries are performed. ● Develop an understanding of how the transaction management and recovery system operates. WHO THIS BOOK IS FOR This book is ideal for anyone who is interested in learning more about Database Management Systems, whether they are undergraduate students, new database developers, or with some expertise. Programming foundations, file system ideas, and discrete structure concepts are recommended but not required. TABLE OF CONTENTS 1. Database System Concepts and Architecture 2. The Entity-Relationship Model 3. Relational Model and Relational Algebra 4. Structured Query Language and Indexing 5. Relational Database Design 6. Transactions Management and Concurrency and Recovery",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789355510266"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9355510268"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 276,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MstuEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MstuEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=MstuEAAAQBAJ&printsec=frontcover&dq=dbms&hl=&cd=26&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=MstuEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=MstuEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 824.82,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 412.41,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=MstuEAAAQBAJ&rdid=book-MstuEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 824820000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 412410000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Introduction_to_DBMS-sample-epub.acsm?id=MstuEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Introduction_to_DBMS-sample-pdf.acsm?id=MstuEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MstuEAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Understanding various databases and how it becomes an integral part of any application has been a popular curriculum for undergraduates. In this book, you will learn about database design and how to build one."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rjHiPSr5IuQC",
+      "etag": "OOmkxwluD8w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rjHiPSr5IuQC",
+      "volumeInfo": {
+        "title": "Database Management Systems",
+        "authors": [
+          "Dr. V.K. Jain"
+        ],
+        "publisher": "Dreamtech Press",
+        "publishedDate": "2002",
+        "description": "This book is an ultimate solution for the serious Database Management System practitioners the ones who want a serious career in database design and administration. This book is ripe with intricate details of the concept of database programming like standard of RDBMS, data definition language, types of systems and so on. Further, the book sweeps on a wider plane from the basic concepts to high end concepts that deals with the back locks of database design and development. Over all comprehensive in character, this book is a one-stop solution for DBMS. This book covers the syllabus for MCA, BE, B.Sc (Comp), BCA, BIT, PGDCA and other Computer Courses.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8177222279"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788177222272"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 448,
+        "printType": "BOOK",
+        "averageRating": 3,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rjHiPSr5IuQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rjHiPSr5IuQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=rjHiPSr5IuQC&pg=PA45&dq=dbms&hl=&cd=27&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=rjHiPSr5IuQC&dq=dbms&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Database_Management_Systems.html?hl=&id=rjHiPSr5IuQC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rjHiPSr5IuQC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Standard Operations : Standard operations are provided by most \u003cb\u003eDBMS\u003c/b\u003e . These operations provide the user basic capabilities for data manipulation . Examples of these standard operations are sorting , deleting and selecting records ."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8DOs3gXZETIC",
+      "etag": "qBRlk2lQreo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8DOs3gXZETIC",
+      "volumeInfo": {
+        "title": "FUNDAMENTALS OF DATABASE MANAGEMENT SYSTEMS",
+        "authors": [
+          "Mark L. Gillenson"
+        ],
+        "publisher": "John Wiley & Sons",
+        "publishedDate": "2008-08",
+        "description": "Market_Desc: · Business Professionals working with database· Students of Information Systems Special Features: · Designed to be a compact, practical introduction that is virtually self-teaching.· Provides a clear understanding of the fundamentals and a broad survey of all of the major topics of the field with the goal that readers will be able to immediately apply what they've learned on the job.· Makes heavy use of examples, including four major examples that are used throughout the text.· Starts with the basics of files and file structures and then proceeds in a step-by-step manner to present all of the major aspects of database management.· Includes a chapter on SQL that concentrates on the data retrieval aspect and applies to every relational database product on the market. About The Book: This lean, focused book concentrates on giving readers a clear understanding of database fundamentals while providing a broad survey of all the major topics of the field. The book is written in a clear, friendly style that progresses step-by-step through all of the major database topics. Each chapter begins with a story about a real company's database application, and is packed with examples. When readers finish the book, they will be able to immediately apply what they've learned in business.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "812651793X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788126517930"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 384,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8DOs3gXZETIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8DOs3gXZETIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=8DOs3gXZETIC&printsec=frontcover&dq=dbms&hl=&cd=28&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=8DOs3gXZETIC&dq=dbms&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/FUNDAMENTALS_OF_DATABASE_MANAGEMENT_SYST.html?hl=&id=8DOs3gXZETIC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8DOs3gXZETIC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Market_Desc: · Business Professionals working with database· Students of Information Systems Special Features: · Designed to be a compact, practical introduction that is virtually self-teaching.· Provides a clear understanding of the ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bttHDwAAQBAJ",
+      "etag": "fLNF4D4A3v8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bttHDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Exam Made Easy",
+        "subtitle": "Database Management Systems",
+        "authors": [
+          "V Rajeswari",
+          "M Kavitha"
+        ],
+        "publisher": "Educreation Publishing",
+        "description": "The Technical education in India is changing rapidly in the emerging fields to meet future challenges. Newer areas like Bigdata and Datascience have become extended database subjects. In this process, UNIVERSITY has revised the syllabus for B.E/ B.Tech, B.Sc (Computer Science), BCS, MCA to incorporate the latest developments in technology. In view of this, the book covers the latest revised syllabus of ANNA UNIVERSITY for the subject \"DATABASE MANAGEMENT SYSTEMS\" for the B.E / B.Tech students/ BCA, B.Sc (Computer Science)/ MCA. The book \"UNIVERSITY Q & A for DATABASE MANAGEMENT SYSTEMS\" has been compiled for students studying at undergraduate level and covers almost all topics required to enhance the knowledge in Database Management Systems. The book is organized in a way to help beginners in understanding the database concepts better. This book owes its existence to the collaboration made possible by the Internet and the free software movements. Salient features of this Book. This book provides 500 + multiple choice questions on Database Management Systems, separated into 30 categories. The questions have been used in examinations for undergraduate introductory courses and as such reflect the focus of these particular courses and are pitched at the level to challenge students that are beginning their training in Database Management Systems. This book provides 200+ Two Marks Questions and Answers, 100+ Sixteen Mark Questions and Previous year Question Papers.",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 234,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=bttHDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=bttHDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=bttHDwAAQBAJ&printsec=frontcover&dq=dbms&hl=&cd=29&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=bttHDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=bttHDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 177,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 123.9,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=bttHDwAAQBAJ&rdid=book-bttHDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 177000000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 123900000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Exam_Made_Easy-sample-pdf.acsm?id=bttHDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bttHDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book is organized in a way to help beginners in understanding the database concepts better. This book owes its existence to the collaboration made possible by the Internet and the free software movements. Salient features of this Book."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Go3QBdT-qysC",
+      "etag": "K3H/z94YFYQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Go3QBdT-qysC",
+      "volumeInfo": {
+        "title": "Secret Oracle - Unleashing the Full Potential of the Oracle DBMS by Leveraging Undocumented Features",
+        "authors": [
+          "Norbert Debes"
+        ],
+        "publisher": "Lulu.com",
+        "publishedDate": "2008-03",
+        "description": "Secret ORACLE is the definitive guide to undocumented and partially documented features of the ORACLE database server. This book will improve your efficiency as an ORACLE database administrator and enable you to master more difficult administrative, tuning, and troubleshooting tasks than you ever thought possible. Topics covered include: The MERITS performance optimization method, which extends the state-of-the-art wait event tuning paradigm. Controlling processes of an ORACLE instance with the fragmentarily documented ORADEBUG command to trace SQL statements as well as wait events and dump process state, call stack, and hang analysis information. Tracing the cost based optimizer to understand its cost calculations and decisions. Understanding hidden parameters that govern Automatic PGA Memory Management. Leveraging undocumented features of the Oracle10g/11g scheduler and other partially or fully undocumented PL/SQL packages, such as DBMS_SYSTEM, DBMS_SUPPORT, and DBMS_UTILITY.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781435705517"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1435705513"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 404,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Go3QBdT-qysC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Go3QBdT-qysC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=Go3QBdT-qysC&pg=PA386&dq=dbms&hl=&cd=30&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=Go3QBdT-qysC&dq=dbms&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Secret_Oracle_Unleashing_the_Full_Potent.html?hl=&id=Go3QBdT-qysC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Go3QBdT-qysC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "\u003cb\u003eDatabase Management System\u003c/b\u003e (\u003cb\u003eDBMS\u003c/b\u003e) A \u003cb\u003eDBMS\u003c/b\u003e is a set of software programs that controls the storage, management, ... view) Views that for the most part expose the inner workings of an ORACLE \u003cb\u003eDBMS\u003c/b\u003e and provide access to performance metrics."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4KzqoQEACAAJ",
+      "etag": "3qI5HaaBqD8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4KzqoQEACAAJ",
+      "volumeInfo": {
+        "title": "DBMS 61 Success Secrets - 61 Most Asked Questions on DBMS - What You Need to Know",
+        "authors": [
+          "Tony Santiago"
+        ],
+        "publisher": "Emereo Publishing",
+        "publishedDate": "2014-10-15",
+        "description": "This DBMS Guide Takes It One Step Further. There has never been a DBMS Guide like this. It contains 61 answers, much more than you can imagine; comprehensive answers and extensive details and references, with insights that have never before been offered in print. Get the information you need--fast! This all-embracing guide offers a thorough view of key knowledge and detailed insight. This Guide introduces what you want to know about DBMS. A quick look inside of some of the subjects covered: Database management system - Late-1970s SQL DBMS, Database 1970s relational DBMS, Array DBMS - List of Array DBMS, Database tuning - DBMS tuning, Database - 1960s, navigational DBMS, DBMS - 1970s, relational DBMS, Distributed database - Homogeneous DDBMS, ORDBMS - Overview, RDBMS - Historical usage of the term, Distributed database - Heterogeneous DDBMS, Database - Late 1970s, SQL DBMS, Database management system - General-purpose and special-purpose DBMSs, Virtuoso Universal Server - Kubl RDBMS, Oracle RDBMS - Corporate/technical timeline, General-purpose DBMS - Models, Array DBMS - Conceptual Modeling, Database management systems - 1970s, relational DBMS, List of GIS software - Spatial DBMS, DBMS - Other, DBMS - Examples, Database manager - 1970s, relational DBMS, DBMS - Languages, General-purpose DBMS - 1980s, object-oriented, Array DBMS - Overview, Database 1960s Navigational DBMS, Database management system - 1960s Navigational DBMS, DBMS - 1960s, navigational DBMS, Correlation database - Storage in CDBMS, DBMS - History, Oracle RDBMS - Partitioning, DBMS - Terminology and overview, Strozzi NoSQL (RDBMS) - Philosophy, Databases - 1970s relational DBMS, Distributed database management system - Heterogeneous DDBMS, Database Late-1970s SQL DBMS, Persistence (computer science) - Database management systems (DBMSs), and much more...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1488857725"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781488857720"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 56,
+        "printType": "BOOK",
+        "categories": [
+          "Reference"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4KzqoQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4KzqoQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=4KzqoQEACAAJ&dq=dbms&hl=&cd=31&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=4KzqoQEACAAJ&dq=dbms&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/DBMS_61_Success_Secrets_61_Most_Asked_Qu.html?hl=&id=4KzqoQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4KzqoQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Get the information you need--fast! This all-embracing guide offers a thorough view of key knowledge and detailed insight. This Guide introduces what you want to know about DBMS."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "s3jytQEACAAJ",
+      "etag": "JwXzhR+XN0A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/s3jytQEACAAJ",
+      "volumeInfo": {
+        "title": "DBMS Database Management System Standard Requirements",
+        "authors": [
+          "Gerardus Blokdyk"
+        ],
+        "publisher": "5starcooks",
+        "publishedDate": "2018-03-07",
+        "description": "What are the rough order estimates on cost savings/opportunities that DBMS database management system brings? How do you use DBMS database management system data and information to support organizational decision making and innovation? What role does communication play in the success or failure of a DBMS database management system project? Who is the main stakeholder, with ultimate responsibility for driving DBMS database management system forward? Whats the best design framework for DBMS database management system organization now that, in a post industrial-age if the top-down, command and control model is no longer relevant? Defining, designing, creating, and implementing a process to solve a business challenge or meet a business objective is the most valuable role... In EVERY company, organization and department. Unless you are talking a one-time, single-use project within a business, there should be a process. Whether that process is managed and implemented by humans, AI, or a combination of the two, it needs to be designed by someone with a complex enough perspective to ask the right questions. Someone capable of asking the right questions and step back and say, 'What are we really trying to accomplish here? And is there a different way to look at it?' This Self-Assessment empowers people to do just that - whether their title is entrepreneur, manager, consultant, (Vice-)President, CxO etc... - they are the people who rule the future. They are the person who asks the right questions to make DBMS database management system investments work better. This DBMS database management system All-Inclusive Self-Assessment enables You to be that person. All the tools you need to an in-depth DBMS database management system Self-Assessment. Featuring 709 new and updated case-based questions, organized into seven core areas of process design, this Self-Assessment will help you identify areas in which DBMS database management system improvements can be made. In using the questions you will be better able to: - diagnose DBMS database management system projects, initiatives, organizations, businesses and processes using accepted diagnostic standards and practices - implement evidence-based best practice strategies aligned with overall goals - integrate recent advances in DBMS database management system and process design strategies into practice according to best practice guidelines Using a Self-Assessment tool known as the DBMS database management system Scorecard, you will develop a clear picture of which DBMS database management system areas need attention. Your purchase includes access details to the DBMS database management system self-assessment dashboard download which gives you your dynamically prioritized projects-ready tool and shows your organization exactly what to do next. Your exclusive instant access details can be found in your book.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0655160914"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780655160915"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 128,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=s3jytQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=s3jytQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=s3jytQEACAAJ&dq=dbms&hl=&cd=32&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=s3jytQEACAAJ&dq=dbms&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/DBMS_Database_Management_System_Standard.html?hl=&id=s3jytQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=s3jytQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "What are the rough order estimates on cost savings/opportunities that DBMS database management system brings?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "v_j0CSS3m7MC",
+      "etag": "EgC2OBt9KeQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/v_j0CSS3m7MC",
+      "volumeInfo": {
+        "title": "Fundamentals of Database Systems",
+        "authors": [
+          "Ramez Elmasri"
+        ],
+        "publisher": "Pearson Education India",
+        "publishedDate": "2008-09",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8131716252"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788131716250"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1168,
+        "printType": "BOOK",
+        "categories": [
+          "Database management"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 11,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=v_j0CSS3m7MC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=v_j0CSS3m7MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=v_j0CSS3m7MC&printsec=frontcover&dq=dbms&hl=&cd=33&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=v_j0CSS3m7MC&dq=dbms&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Fundamentals_of_Database_Systems.html?hl=&id=v_j0CSS3m7MC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=v_j0CSS3m7MC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nPRtPgAACAAJ",
+      "etag": "n9iIYLTyDJg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nPRtPgAACAAJ",
+      "volumeInfo": {
+        "title": "Database Management Systems, 1E",
+        "authors": [
+          "Alexis Leon"
+        ],
+        "publishedDate": "2009-11-01",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8182092221"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788182092228"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 988,
+        "printType": "BOOK",
+        "categories": [
+          "Database management"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=nPRtPgAACAAJ&dq=dbms&hl=&cd=34&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=nPRtPgAACAAJ&dq=dbms&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Database_Management_Systems_1E.html?hl=&id=nPRtPgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nPRtPgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oGzPtQEACAAJ",
+      "etag": "wfO4ea+eCl0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oGzPtQEACAAJ",
+      "volumeInfo": {
+        "title": "Column-Store Database Management System DBMS the Ultimate Step-By-Step Guide",
+        "authors": [
+          "Gerardus Blokdyk"
+        ],
+        "publisher": "5starcooks",
+        "publishedDate": "2018-04-09",
+        "description": "What are specific Column-Store Database Management System DBMS Rules to follow? Where do ideas that reach policy makers and planners as proposals for Column-Store Database Management System DBMS strengthening and reform actually originate? Will team members regularly document their Column-Store Database Management System DBMS work? Among the Column-Store Database Management System DBMS product and service cost to be estimated, which is considered hardest to estimate? What is Effective Column-Store Database Management System DBMS? This valuable Column-Store Database Management System DBMS self-assessment will make you the entrusted Column-Store Database Management System DBMS domain adviser by revealing just what you need to know to be fluent and ready for any Column-Store Database Management System DBMS challenge. How do I reduce the effort in the Column-Store Database Management System DBMS work to be done to get problems solved? How can I ensure that plans of action include every Column-Store Database Management System DBMS task and that every Column-Store Database Management System DBMS outcome is in place? How will I save time investigating strategic and tactical options and ensuring Column-Store Database Management System DBMS costs are low? How can I deliver tailored Column-Store Database Management System DBMS advice instantly with structured going-forward plans? There's no better guide through these mind-expanding questions than acclaimed best-selling author Gerard Blokdyk. Blokdyk ensures all Column-Store Database Management System DBMS essentials are covered, from every angle: the Column-Store Database Management System DBMS self-assessment shows succinctly and clearly that what needs to be clarified to organize the required activities and processes so that Column-Store Database Management System DBMS outcomes are achieved. Contains extensive criteria grounded in past and current successful projects and activities by experienced Column-Store Database Management System DBMS practitioners. Their mastery, combined with the easy elegance of the self-assessment, provides its superior value to you in knowing how to ensure the outcome of any efforts in Column-Store Database Management System DBMS are maximized with professional results. Your purchase includes access details to the Column-Store Database Management System DBMS self-assessment dashboard download which gives you your dynamically prioritized projects-ready tool and shows you exactly what to do next. Your exclusive instant access details can be found in your book.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0655167897"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780655167891"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 120,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oGzPtQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oGzPtQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=oGzPtQEACAAJ&dq=dbms&hl=&cd=35&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=oGzPtQEACAAJ&dq=dbms&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Column_Store_Database_Management_System.html?hl=&id=oGzPtQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oGzPtQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "How can I deliver tailored Column-Store Database Management System DBMS advice instantly with structured going-forward plans? There&#39;s no better guide through these mind-expanding questions than acclaimed best-selling author Gerard Blokdyk."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uhmQDwAAQBAJ",
+      "etag": "IHcj3AUojgA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uhmQDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Database Management System",
+        "authors": [
+          "RP Mahapatra",
+          "Govind Verma"
+        ],
+        "publisher": "KHANNA PUBLISHING HOUSE",
+        "description": "Easy-to-read writing style. Comprehensive coverage of all database topics. Bullet lists and tables. More detailed examples of database implementations. More SQL, including significant information on planned revisions to the language. Simple and easy explanation to complex topics like relational algebra, relational calculus, query processing and optimization. Covers topics on implementation issues like security, integrity, transaction management, concurrency control, backup and recovery etc. Latest advances in database technology.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789382609148"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9382609148"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 550,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=uhmQDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=uhmQDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=uhmQDwAAQBAJ&pg=PP1&dq=dbms&hl=&cd=36&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=uhmQDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=uhmQDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 446.4,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 312.48,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=uhmQDwAAQBAJ&rdid=book-uhmQDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 446400000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 312480000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Database_Management_System-sample-pdf.acsm?id=uhmQDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uhmQDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Easy-to-read writing style."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mxYESolfLfoC",
+      "etag": "QSyG0Yky4uM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mxYESolfLfoC",
+      "volumeInfo": {
+        "title": "Introduction to Database Management Systems",
+        "authors": [
+          "Atul Kahate"
+        ],
+        "publisher": "Pearson Education India",
+        "publishedDate": "2004",
+        "description": "Introduction to Database Management Systems is designed specifically for a single semester, namely, the first course on Database Systems. The book covers all the essential aspects of database systems, and also covers the areas of RDBMS. The book in.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "813170078X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788131700785"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 536,
+        "printType": "BOOK",
+        "categories": [
+          "Database management"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mxYESolfLfoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mxYESolfLfoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=mxYESolfLfoC&pg=PA43&dq=dbms&hl=&cd=37&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=mxYESolfLfoC&dq=dbms&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Introduction_to_Database_Management_Syst.html?hl=&id=mxYESolfLfoC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mxYESolfLfoC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "\u003cb\u003eDBMS\u003c/b\u003e solves such problems by defining a new concept called transaction in which all these updates are encapsulated . \u003cb\u003eDBMS\u003c/b\u003e has a mechanism to execute the transaction entirely or not execute it at all . This principle of atomicity&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CKKDtgEACAAJ",
+      "etag": "peFyLx03cA0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CKKDtgEACAAJ",
+      "volumeInfo": {
+        "title": "DBMS Database Management System",
+        "subtitle": "Complete Self-Assessment Guide",
+        "authors": [
+          "Gerardus Blokdyk"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2018-04-25",
+        "description": "What sources do you use to gather information for a DBMS database management system study? Has the direction changed at all during the course of DBMS database management system? If so, when did it change and why? Is the DBMS database management system scope manageable? Does the DBMS database management system task fit the client's priorities? How can we incorporate support to ensure safe and effective use of DBMS database management system into the services that we provide? Defining, designing, creating, and implementing a process to solve a challenge or meet an objective is the most valuable role... In EVERY group, company, organization and department. Unless you are talking a one-time, single-use project, there should be a process. Whether that process is managed and implemented by humans, AI, or a combination of the two, it needs to be designed by someone with a complex enough perspective to ask the right questions. Someone capable of asking the right questions and step back and say, 'What are we really trying to accomplish here? And is there a different way to look at it?' This Self-Assessment empowers people to do just that - whether their title is entrepreneur, manager, consultant, (Vice-)President, CxO etc... - they are the people who rule the future. They are the person who asks the right questions to make DBMS database management system investments work better. This DBMS database management system All-Inclusive Self-Assessment enables You to be that person. All the tools you need to an in-depth DBMS database management system Self-Assessment. Featuring 709 new and updated case-based questions, organized into seven core areas of process design, this Self-Assessment will help you identify areas in which DBMS database management system improvements can be made. In using the questions you will be better able to: - diagnose DBMS database management system projects, initiatives, organizations, businesses and processes using accepted diagnostic standards and practices - implement evidence-based best practice strategies aligned with overall goals - integrate recent advances in DBMS database management system and process design strategies into practice according to best practice guidelines Using a Self-Assessment tool known as the DBMS database management system Scorecard, you will develop a clear picture of which DBMS database management system areas need attention. Your purchase includes access details to the DBMS database management system self-assessment dashboard download which gives you your dynamically prioritized projects-ready tool and shows your organization exactly what to do next. Your exclusive instant access details can be found in your book.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1717355862"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781717355867"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 142,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=CKKDtgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=CKKDtgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=CKKDtgEACAAJ&dq=dbms&hl=&cd=38&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=CKKDtgEACAAJ&dq=dbms&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/DBMS_Database_Management_System.html?hl=&id=CKKDtgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CKKDtgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "If so, when did it change and why? Is the DBMS database management system scope manageable? Does the DBMS database management system task fit the client&#39;s priorities?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "reflrQEACAAJ",
+      "etag": "zp+qCe11b5Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/reflrQEACAAJ",
+      "volumeInfo": {
+        "title": "Database Management System",
+        "authors": [
+          "Ashima Bhatnagar Bhatia",
+          "Vaibhav Bansal"
+        ],
+        "publishedDate": "2014-02-28",
+        "description": "Introduction to Database Systems provides a comprehensive approach to the subject from the perspective of knowledge and foundation of Database Management System. This book discusses current database techniques, trends and developments and offers a balanced coverage of the theoretical and practical aspect of Database and its Management including the implementation.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1842659200"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781842659205"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 458,
+        "printType": "BOOK",
+        "categories": [
+          "Database management"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=reflrQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=reflrQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=reflrQEACAAJ&dq=dbms&hl=&cd=39&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=reflrQEACAAJ&dq=dbms&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Database_Management_System.html?hl=&id=reflrQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=reflrQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book provides a comprehensive approach to the subject from the perspective of knowledge and foundation of Database Management System."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ROpQAAAAMAAJ",
+      "etag": "jSQ7LyAhfok",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ROpQAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Database Management Systems",
+        "subtitle": "Understanding and Applying Database Technology",
+        "authors": [
+          "Michael M. Gorman"
+        ],
+        "publishedDate": "1991",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015019859258"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 454,
+        "printType": "BOOK",
+        "categories": [
+          "Database management"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ROpQAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ROpQAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=ROpQAAAAMAAJ&q=dbms&dq=dbms&hl=&cd=40&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=ROpQAAAAMAAJ&dq=dbms&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Database_Management_Systems.html?hl=&id=ROpQAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ROpQAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

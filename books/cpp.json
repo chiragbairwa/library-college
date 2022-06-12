@@ -1,0 +1,3131 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 2023,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "XXdyQgAACAAJ",
+      "etag": "FiPv6ygvvy8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XXdyQgAACAAJ",
+      "volumeInfo": {
+        "title": "The C Book, Featuring the ANSI C Standard",
+        "authors": [
+          "Mike Banahan",
+          "Declan Brady",
+          "Mark Doran"
+        ],
+        "publisher": "Addison-Wesley",
+        "publishedDate": "1991",
+        "description": "This book presents an introduction to the C programming language, featuring a structured approach and aimed at professionals and students with some experience of high-level languages. Features *includes embedded summary material in bulleted form *highlights common traps and pitfalls in C programming.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0201544334"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780201544336"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 310,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XXdyQgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XXdyQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=XXdyQgAACAAJ&dq=c&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=XXdyQgAACAAJ&dq=c&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_C_Book_Featuring_the_ANSI_C_Standard.html?hl=&id=XXdyQgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XXdyQgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book presents an introduction to the C programming language, featuring a structured approach and aimed at professionals and students with some experience of high-level languages."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "X5DZDwAAQBAJ",
+      "etag": "5whgzsNaMZo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/X5DZDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Effective C",
+        "subtitle": "An Introduction to Professional C Programming",
+        "authors": [
+          "Robert C. Seacord"
+        ],
+        "publisher": "No Starch Press",
+        "publishedDate": "2020-08-11",
+        "description": "A detailed introduction to the C programming language for experienced programmers. The world runs on code written in the C programming language, yet most schools begin the curriculum with Python or Java. Effective C bridges this gap and brings C into the modern era--covering the modern C17 Standard as well as potential C2x features. With the aid of this instant classic, you'll soon be writing professional, portable, and secure C programs to power robust systems and solve real-world problems. Robert C. Seacord introduces C and the C Standard Library while addressing best practices, common errors, and open debates in the C community. Developed together with other C Standards committee experts, Effective C will teach you how to debug, test, and analyze C programs. You'll benefit from Seacord's concise explanations of C language constructs and behaviors, and from his 40 years of coding experience. You'll learn: • How to identify and handle undefined behavior in a C program • The range and representations of integers and floating-point values • How dynamic memory allocation works and how to use nonstandard functions • How to use character encodings and types • How to perform I/O with terminals and filesystems using C Standard streams and POSIX file descriptors • How to understand the C compiler's translation phases and the role of the preprocessor • How to test, debug, and analyze C programs Effective C will teach you how to write professional, secure, and portable C code that will stand the test of time and help strengthen the foundation of the computing world.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781718501058"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1718501056"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 272,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=X5DZDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=X5DZDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=X5DZDwAAQBAJ&pg=PP1&dq=c&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=X5DZDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=X5DZDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 4580.23,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 4580.23,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=X5DZDwAAQBAJ&rdid=book-X5DZDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 4580230000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 4580230000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=X5DZDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Effective C bridges this gap and brings C into the modern era--covering the modern C17 Standard as well as potential C2x features."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9f9uAQAAQBAJ",
+      "etag": "JuakYQirg1Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9f9uAQAAQBAJ",
+      "volumeInfo": {
+        "title": "Expert C Programming",
+        "subtitle": "Deep C Secrets",
+        "authors": [
+          "Peter Van der Linden"
+        ],
+        "publisher": "Prentice Hall Professional",
+        "publishedDate": "1994",
+        "description": "Software -- Programming Languages.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780131774292"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0131774298"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 353,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9f9uAQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9f9uAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=9f9uAQAAQBAJ&printsec=frontcover&dq=c&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=9f9uAQAAQBAJ&dq=c&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Expert_C_Programming.html?hl=&id=9f9uAQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9f9uAQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The tone and style of this text should make this a popular book with professional programmers. However, the tone of this book will make it very popular with undergraduates. Appendix A alone would make the purchase of this book a must."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CEc2WsZkxUsC",
+      "etag": "p73gI7c6Z1w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CEc2WsZkxUsC",
+      "volumeInfo": {
+        "title": "Programming In C",
+        "authors": [
+          "D Ravichandran"
+        ],
+        "publisher": "New Age International",
+        "publishedDate": "1996",
+        "description": "It Introduces The C Programming Language To Both The Computer Novices And To The Advanced Software Engineers In A Well Organized And Systematic Manner. It Does Not Assume Any Preliminary Knowledge Of Computer Programming Of A Reader. It Covers Almost All Topics With Numerous Illustrative Examples And Well Graded Problems. Some Of The Chapters Such As Pointers, Preprocessors, Structures, Unions And The File Operations Are Thoroughly Discussed With Suitable Number Of Examples. The Source Code Of The Editor Package Has Been Included As An Appendix Of The Book.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8122407854"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788122407853"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 400,
+        "printType": "BOOK",
+        "categories": [
+          "C (Computer program language)"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=CEc2WsZkxUsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=CEc2WsZkxUsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=CEc2WsZkxUsC&printsec=frontcover&dq=c&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=CEc2WsZkxUsC&dq=c&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Programming_In_C.html?hl=&id=CEc2WsZkxUsC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CEc2WsZkxUsC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Some Of The Chapters Such As Pointers, Preprocessors, Structures, Unions And The File Operations Are Thoroughly Discussed With Suitable Number Of Examples. The Source Code Of The Editor Package Has Been Included As An Appendix Of The Book."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LZbx-i1S2CoC",
+      "etag": "deY0vzj6RtY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LZbx-i1S2CoC",
+      "volumeInfo": {
+        "title": "A Book on C",
+        "subtitle": "Programming in C",
+        "authors": [
+          "Al Kelley",
+          "Ira Pohl"
+        ],
+        "publisher": "Benjamin-Cummings Publishing Company",
+        "publishedDate": "1990",
+        "description": "The authors provide clear examples and thorough explanations of every feature in the C language. They teach C vis-a-vis the UNIX operating system. A reference and tutorial to the C programming language. Annotation copyrighted by Book News, Inc., Portland, OR",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0805300600"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780805300604"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 519,
+        "printType": "BOOK",
+        "categories": [
+          "C# (Computer program language)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LZbx-i1S2CoC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LZbx-i1S2CoC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=LZbx-i1S2CoC&q=c&dq=c&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=LZbx-i1S2CoC&dq=c&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Book_on_C.html?hl=&id=LZbx-i1S2CoC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LZbx-i1S2CoC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The authors provide clear examples and thorough explanations of every feature in the C language."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OpJ_0zpF7jIC",
+      "etag": "tiQnZTnhFfo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OpJ_0zpF7jIC",
+      "volumeInfo": {
+        "title": "The C Programming Language",
+        "authors": [
+          "Brian W. Kernighan",
+          "Dennis M. Ritchie"
+        ],
+        "publisher": "Pearson Educación",
+        "publishedDate": "1988",
+        "description": "Introduces the features of the C programming language, discusses data types, variables, operators, control flow, functions, pointers, arrays, and structures, and looks at the UNIX system interface",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9688802050"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789688802052"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 272,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 10,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OpJ_0zpF7jIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OpJ_0zpF7jIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=OpJ_0zpF7jIC&printsec=frontcover&dq=c&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=OpJ_0zpF7jIC&dq=c&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_C_Programming_Language.html?hl=&id=OpJ_0zpF7jIC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OpJ_0zpF7jIC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "As we said in the first preface to the first edition, C wears well as one&#39;s experience with it grows. With a decade more experience, we still feel that way. We hope that this book will help you to learn C and use it well."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uybQTGKDfgEC",
+      "etag": "BJOD+opkNaY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uybQTGKDfgEC",
+      "volumeInfo": {
+        "title": "A Book On C, 4/E",
+        "authors": [
+          "Kelley",
+          "Pohl"
+        ],
+        "publisher": "Pearson Education India",
+        "publishedDate": "1998-09",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8131724344"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788131724347"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=uybQTGKDfgEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=uybQTGKDfgEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=uybQTGKDfgEC&printsec=frontcover&dq=c&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=uybQTGKDfgEC&dq=c&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Book_On_C_4_E.html?hl=&id=uybQTGKDfgEC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uybQTGKDfgEC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UoN_r_NMR_EC",
+      "etag": "VGneYmD61kI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UoN_r_NMR_EC",
+      "volumeInfo": {
+        "title": "Programming in C, 2/e",
+        "authors": [
+          "Ashok N. Kamthane"
+        ],
+        "publisher": "Pearson Education India",
+        "publishedDate": "2011",
+        "description": "Combining the features of high level language and functionality assembly language, this book reduces the gap between high level language and low level language, which is why C is known as middle level language. It is written for the students of B.E./B. Tech, M.E./M. Tech, MCA, M. Sc(Comp. Sc)/M. Sc(IT), B CA, BBA, MBA, B. Sc(IT), B. Sc(Comp. Sc), Diploma in Computer Science and other computer programs. --",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8131760316"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788131760314"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 349,
+        "printType": "BOOK",
+        "categories": [
+          "C (Computer program language)"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 5,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UoN_r_NMR_EC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UoN_r_NMR_EC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=UoN_r_NMR_EC&printsec=frontcover&dq=c&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=UoN_r_NMR_EC&dq=c&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Programming_in_C_2_e.html?hl=&id=UoN_r_NMR_EC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UoN_r_NMR_EC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Combining the features of high level language and functionality assembly language, this book reduces the gap between high level language and low level language, which is why C is known as middle level language."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FIHvAwAAQBAJ",
+      "etag": "1wm6YQxNl5M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FIHvAwAAQBAJ",
+      "volumeInfo": {
+        "title": "Mastering C++",
+        "publisher": "Tata McGraw-Hill Education",
+        "publishedDate": "2013",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781259029943"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1259029948"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 883,
+        "printType": "BOOK",
+        "categories": [
+          "C++ (Computer program language)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FIHvAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FIHvAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=FIHvAwAAQBAJ&printsec=frontcover&dq=c&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=FIHvAwAAQBAJ&dq=c&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mastering_C++.html?hl=&id=FIHvAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FIHvAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0gbuDwAAQBAJ",
+      "etag": "c8tSwcUxDNs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0gbuDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Learn C Programming",
+        "subtitle": "A beginner's guide to learning C programming the easy and disciplined way",
+        "authors": [
+          "Jeff Szuhay"
+        ],
+        "publisher": "Packt Publishing Ltd",
+        "publishedDate": "2020-06-26",
+        "description": "Get started with writing simple programs in C while learning the skills that will help you work with practically any programming language Key Features Learn essential C concepts such as variables, data structures, functions, loops, and pointers Get to grips with the core programming aspects that form the base of many modern programming languages Explore the expressiveness and versatility of the C language with the help of sample programs Book Description C is a powerful general-purpose programming language that is excellent for beginners to learn. This book will introduce you to computer programming and software development using C. If you're an experienced developer, this book will help you to become familiar with the C programming language. This C programming book takes you through basic programming concepts and shows you how to implement them in C. Throughout the book, you'll create and run programs that make use of one or more C concepts, such as program structure with functions, data types, and conditional statements. You'll also see how to use looping and iteration, arrays, pointers, and strings. As you make progress, you'll cover code documentation, testing and validation methods, basic input/output, and how to write complete programs in C. By the end of the book, you'll have developed basic programming skills in C, that you can apply to other programming languages and will develop a solid foundation for you to advance as a programmer. What you will learn Understand fundamental programming concepts and implement them in C Write working programs with an emphasis on code indentation and readability Break existing programs intentionally and learn how to debug code Adopt good coding practices and develop a clean coding style Explore general programming concepts that are applicable to more advanced projects Discover how you can use building blocks to make more complex and interesting programs Use C Standard Library functions and understand why doing this is desirable Who this book is for This book is written for two very diverse audiences. If you're an absolute beginner who only has basic familiarity with operating a computer, this book will help you learn the most fundamental concepts and practices you need to know to become a successful C programmer. If you're an experienced programmer, you'll find the full range of C syntax as well as common C idioms. You can skim through the explanations and focus primarily on the source code provided.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781789348637"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1789348633"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 646,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.3.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0gbuDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0gbuDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=0gbuDwAAQBAJ&pg=PP1&dq=c&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=0gbuDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=0gbuDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 683.21,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 341.6,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=0gbuDwAAQBAJ&rdid=book-0gbuDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 683210000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 341600000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0gbuDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book provides an introduction to computer programming using the C programming language. It aims to educate readers new to software development, as well as help experienced developers become familiar with C syntax and idioms."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Jvzj5zcxxE4C",
+      "etag": "eChkzZ45Ovw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Jvzj5zcxxE4C",
+      "volumeInfo": {
+        "title": "Head First C",
+        "subtitle": "A Brain-Friendly Guide",
+        "authors": [
+          "David Griffiths",
+          "Dawn Griffiths"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2012-04-03",
+        "description": "Learn key topics such as language basics, pointers and pointer arithmetic, dynamic memory management, multithreading, and network programming. Learn how to use the compiler, the make tool, and the archiver.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781449335656"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1449335659"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 632,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Jvzj5zcxxE4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Jvzj5zcxxE4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=Jvzj5zcxxE4C&printsec=frontcover&dq=c&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=Jvzj5zcxxE4C&dq=c&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Head_First_C.html?hl=&id=Jvzj5zcxxE4C"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Jvzj5zcxxE4C&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Learn key topics such as language basics, pointers and pointer arithmetic, dynamic memory management, multithreading, and network programming. Learn how to use the compiler, the make tool, and the archiver."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "G0C7DwAAQBAJ",
+      "etag": "ujNCIyJ1ly8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/G0C7DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Extreme C",
+        "subtitle": "Taking you to the limit in Concurrency, OOP, and the most advanced capabilities of C",
+        "authors": [
+          "Kamran Amini"
+        ],
+        "publisher": "Packt Publishing Ltd",
+        "publishedDate": "2019-10-31",
+        "description": "Push the limits of what C - and you - can do, with this high-intensity guide to the most advanced capabilities of C Key Features Make the most of C’s low-level control, flexibility, and high performance A comprehensive guide to C’s most powerful and challenging features A thought-provoking guide packed with hands-on exercises and examples Book Description There’s a lot more to C than knowing the language syntax. The industry looks for developers with a rigorous, scientific understanding of the principles and practices. Extreme C will teach you to use C’s advanced low-level power to write effective, efficient systems. This intensive, practical guide will help you become an expert C programmer. Building on your existing C knowledge, you will master preprocessor directives, macros, conditional compilation, pointers, and much more. You will gain new insight into algorithm design, functions, and structures. You will discover how C helps you squeeze maximum performance out of critical, resource-constrained applications. C still plays a critical role in 21st-century programming, remaining the core language for precision engineering, aviations, space research, and more. This book shows how C works with Unix, how to implement OO principles in C, and fully covers multi-processing. In Extreme C, Amini encourages you to think, question, apply, and experiment for yourself. The book is essential for anybody who wants to take their C to the next level. What you will learn Build advanced C knowledge on strong foundations, rooted in first principles Understand memory structures and compilation pipeline and how they work, and how to make most out of them Apply object-oriented design principles to your procedural C code Write low-level code that’s close to the hardware and squeezes maximum performance out of a computer system Master concurrency, multithreading, multi-processing, and integration with other languages Unit Testing and debugging, build systems, and inter-process communication for C programming Who this book is for Extreme C is for C programmers who want to dig deep into the language and its capabilities. It will help you make the most of the low-level control C gives you.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781789341355"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1789341353"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 822,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=G0C7DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=G0C7DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=G0C7DwAAQBAJ&pg=PP1&dq=c&hl=&cd=12&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=G0C7DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=G0C7DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1033.67,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 516.84,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=G0C7DwAAQBAJ&rdid=book-G0C7DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1033670000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 516840000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=G0C7DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Extreme C teaches you to use C’s power."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Q0A7BAAAQBAJ",
+      "etag": "rUlmEL1S/M4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Q0A7BAAAQBAJ",
+      "volumeInfo": {
+        "title": "Programming in C: A Practical Approach",
+        "authors": [
+          "Mittal, Ajay"
+        ],
+        "publisher": "Pearson Education India",
+        "publishedDate": "2010",
+        "description": "Programming in C: A Practical Approach has a perfect blend of theory as well as practical knowledge. The presentation has been done in such a way that it helps the readers to learn the concepts through practice and programming.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788131752692"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8131752690"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 764,
+        "printType": "BOOK",
+        "categories": [
+          "C (Computer program language)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Q0A7BAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Q0A7BAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=Q0A7BAAAQBAJ&printsec=frontcover&dq=c&hl=&cd=13&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Q0A7BAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Q0A7BAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 742.22,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 371.11,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Q0A7BAAAQBAJ&rdid=book-Q0A7BAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 742220000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 371110000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Programming_in_C_A_Practical_Approach-sample-pdf.acsm?id=Q0A7BAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Q0A7BAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Programming in C: A Practical Approach has a perfect blend of theory as well as practical knowledge. The presentation has been done in such a way that it helps the readers to learn the concepts through practice and programming."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9dlZAAAACAAJ",
+      "etag": "nXHvdl8dHRg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9dlZAAAACAAJ",
+      "volumeInfo": {
+        "title": "Programming With C (tmh Outline Series)",
+        "authors": [
+          "K. R. Venugopal"
+        ],
+        "publishedDate": "1997",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0074634437"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780074634431"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 560,
+        "printType": "BOOK",
+        "categories": [
+          "C (Computer program language)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=9dlZAAAACAAJ&dq=c&hl=&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=9dlZAAAACAAJ&dq=c&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Programming_With_C_tmh_Outline_Series.html?hl=&id=9dlZAAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9dlZAAAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-pH7RT-VWjsC",
+      "etag": "uACCE4rO/KY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-pH7RT-VWjsC",
+      "volumeInfo": {
+        "title": "21st Century C",
+        "subtitle": "C Tips from the New School",
+        "authors": [
+          "Ben Klemens"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2012-10-15",
+        "description": "Throw out your old ideas of C, and relearn a programming language that’s substantially outgrown its origins. With 21st Century C, you’ll discover up-to-date techniques that are absent from every other C text available. C isn’t just the foundation of modern programming languages, it is a modern language, ideal for writing efficient, state-of-the-art applications. Learn to dump old habits that made sense on mainframes, and pick up the tools you need to use this evolved and aggressively simple language. No matter what programming language you currently champion, you’ll agree that C rocks. Set up a C programming environment with shell facilities, makefiles, text editors, debuggers, and memory checkers Use Autotools, C’s de facto cross-platform package manager Learn which older C concepts should be downplayed or deprecated Explore problematic C concepts that are too useful to throw out Solve C’s string-building problems with C-standard and POSIX-standard functions Use modern syntactic features for functions that take structured inputs Build high-level object-based libraries and programs Apply existing C libraries for doing advanced math, talking to Internet servers, and running databases",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781449344665"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1449344666"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 296,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-pH7RT-VWjsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-pH7RT-VWjsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=-pH7RT-VWjsC&printsec=frontcover&dq=c&hl=&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=-pH7RT-VWjsC&dq=c&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/21st_Century_C.html?hl=&id=-pH7RT-VWjsC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-pH7RT-VWjsC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "With this revised edition of 21st Century C, you’ll discover up-to-date techniques missing from other C tutorials, whether you’re new to the language or just getting reacquainted."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wOObAgAAQBAJ",
+      "etag": "O+vFxrhSrKQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wOObAgAAQBAJ",
+      "volumeInfo": {
+        "title": "MASTERING ALGORITHMS WITH C. Avec une disquette",
+        "authors": [
+          "Kyle Loudon"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "1999",
+        "description": "A comprehensive guide to understanding the language of C offers solutions for everyday programming tasks and provides all the necessary information to understand and use common programming techniques. Original. (Intermediate).",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781565924536"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1565924533"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 540,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wOObAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wOObAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=wOObAgAAQBAJ&printsec=frontcover&dq=c&hl=&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=wOObAgAAQBAJ&dq=c&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/MASTERING_ALGORITHMS_WITH_C_Avec_une_dis.html?hl=&id=wOObAgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wOObAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A comprehensive guide to understanding the language of C offers solutions for everyday programming tasks and provides all the necessary information to understand and use common programming techniques. Original. (Intermediate)."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dOVSKAAACAAJ",
+      "etag": "mtaTUZQYCI0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dOVSKAAACAAJ",
+      "volumeInfo": {
+        "title": "Let Us C",
+        "authors": [
+          "Yashavant P. Kanetkar"
+        ],
+        "publisher": "Infinity Science PressLlc",
+        "publishedDate": "2008",
+        "description": "Considered to be one of the best-selling programming books ever written, the eighth edition has now been edited, revised, and updated. A CD-ROM with demos, code, compiler, executables, and MATLAB examples has been added to the book. Simplicity and an easy narration style are the hallmarks of the book, which have made its previous seven editions immensely successful. Today's C programmer (still the language of choice in science, engineering, game programming and for handheld devices) has to master the complexities of the language and contend with its usage in environments like Windows, Linux, and for the Internet. Let Us C, Eighth Edition covers these three aspects of C programming and doesn?t assume any programming background. It begins with the basics and steadily builds the pace, so the reader finds it easy to handle more complicated topics later. This popular author has crafted hundreds of excellent programming examples and exercises for every aspect of C programming.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1934015253"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781934015254"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 593,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 27,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dOVSKAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dOVSKAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=dOVSKAAACAAJ&dq=c&hl=&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=dOVSKAAACAAJ&dq=c&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Let_Us_C.html?hl=&id=dOVSKAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dOVSKAAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "One of the best-selling programming books available on the market, now fully edited, revised &amp; updated to include a CD-ROM with demos, code compiler, executables and MATLAB examples."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0qn1P96C0vgC",
+      "etag": "QwgRWBjk5QQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0qn1P96C0vgC",
+      "volumeInfo": {
+        "title": "C Traps and Pitfalls",
+        "authors": [
+          "Andrew Koenig"
+        ],
+        "publisher": "Pearson Education India",
+        "publishedDate": "1989",
+        "description": "This book helps to prevent such problems by showing how C programmers get themselves into trouble. Each of the book's many examples has trapped a professional programmer. Distilled from the author's experience over a decade of programming in C, this book is an ideal resource for anyone, novice or expert, who has ever written a C program.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8177581392"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788177581393"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 146,
+        "printType": "BOOK",
+        "categories": [
+          "C (Computer program language)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0qn1P96C0vgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0qn1P96C0vgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=0qn1P96C0vgC&printsec=frontcover&dq=c&hl=&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=0qn1P96C0vgC&dq=c&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/C_Traps_and_Pitfalls.html?hl=&id=0qn1P96C0vgC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0qn1P96C0vgC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book helps to prevent such problems by showing how C programmers get themselves into trouble. Each of the book&#39;s many examples has trapped a professional programmer."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-U155tRMLJgC",
+      "etag": "dr8/FB9AQRI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-U155tRMLJgC",
+      "volumeInfo": {
+        "title": "Understanding and Using C Pointers",
+        "subtitle": "Core Techniques for Memory Management",
+        "authors": [
+          "Richard M Reese"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2013-05-01",
+        "description": "Improve your programming through a solid understanding of C pointers and memory management. With this practical book, you’ll learn how pointers provide the mechanism to dynamically manipulate memory, enhance support for data structures, and enable access to hardware. Author Richard Reese shows you how to use pointers with arrays, strings, structures, and functions, using memory models throughout the book. Difficult to master, pointers provide C with much flexibility and power—yet few resources are dedicated to this data type. This comprehensive book has the information you need, whether you’re a beginner or an experienced C or C++ programmer or developer. Get an introduction to pointers, including the declaration of different pointer types Learn about dynamic memory allocation, de-allocation, and alternative memory management techniques Use techniques for passing or returning data to and from functions Understand the fundamental aspects of arrays as they relate to pointers Explore the basics of strings and how pointers are used to support them Examine why pointers can be the source of security problems, such as buffer overflow Learn several pointer techniques, such as the use of opaque pointers, bounded pointers and, the restrict keyword",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781449344559"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1449344550"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 226,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.6.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-U155tRMLJgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-U155tRMLJgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=-U155tRMLJgC&printsec=frontcover&dq=c&hl=&cd=19&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=-U155tRMLJgC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=-U155tRMLJgC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1770,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 1770,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=-U155tRMLJgC&rdid=book--U155tRMLJgC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1770000000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 1770000000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-U155tRMLJgC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "With this practical book, you’ll learn how pointers provide the mechanism to dynamically manipulate memory, enhance support for data structures, and enable access to hardware."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qRpSEAAAQBAJ",
+      "etag": "bWg4yQ10vaM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qRpSEAAAQBAJ",
+      "volumeInfo": {
+        "title": "C Programming",
+        "subtitle": "Learn to Code",
+        "authors": [
+          "Sisir Kumar Jena"
+        ],
+        "publisher": "CRC Press",
+        "publishedDate": "2021-12-29",
+        "description": "The C programming language is a popular language in industries as well as academics. Since its invention and standardized as ANSI C, several other standards known as C99, C11, and C17 were published with new features in subsequent years. This book covers all the traits of ANSI C and includes new features present in other standards. The content of this book helps a beginner to learn the fundamental concept of the C language. The book contains a step-by-step explanation of every program that allows a learner to understand the syntax and builds a foundation to write similar programs. The explanation clarity, exercises, and illustrations present in this book make it a complete textbook in all aspects. Features: Other than ANSI C, the book explains the new C standards like C99, C11, and C17. Most basic and easy-to-follow programs are chosen to explain the concepts and their syntax. More emphasis is given to the topics like Functions, Pointers, and Structures. Recursion is emphasized with numerous programming examples and diagrams. A separate chapter on the command-line argument and preprocessors is included that concisely explains their usage. Several real-life figures are taken to explain the concepts of dynamic memory allocation, file handling, and the difference between structure and union. The book contains more than 260 illustrations, more than 200 programs, and exercises at the end of each chapter. This book serves as a textbook for UG/PG courses in science and engineering. The researcher, postgraduate engineers, and embedded software developers can also keep this book as reference material for their fundamental learning.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781000460568"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1000460568"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 452,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qRpSEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qRpSEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=qRpSEAAAQBAJ&pg=PP1&dq=c&hl=&cd=20&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=qRpSEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=qRpSEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 11727.84,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 11727.84,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=qRpSEAAAQBAJ&rdid=book-qRpSEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 11727840000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 11727840000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/C_Programming-sample-pdf.acsm?id=qRpSEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qRpSEAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book covers all the traits of ANSI C and includes new features present in other standards. The content of this book helps a beginner to learn the fundamental concept of the C language."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OGQ1zgEACAAJ",
+      "etag": "EXVxyWvvyfU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OGQ1zgEACAAJ",
+      "volumeInfo": {
+        "title": "Programming in C",
+        "authors": [
+          "Reema Thareja"
+        ],
+        "publishedDate": "2018-09-30",
+        "description": "Beginning with the basics of computers, the book provides an in-depth analysis of various constructs of C. The key topics include iterative and decision-control statements, functions, recursion, arrays, strings, pointers, structures and unions, and file management. It deals separately with thefundamental concepts of linked lists - the preferred data structure for dynamic allocation of memory. The book also includes a chapter on different searching and sorting algorithms and analysis of time and space complexity of algorithms.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "019949228X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780199492282"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 392,
+        "printType": "BOOK",
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OGQ1zgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OGQ1zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=OGQ1zgEACAAJ&dq=c&hl=&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=OGQ1zgEACAAJ&dq=c&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Programming_in_C.html?hl=&id=OGQ1zgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OGQ1zgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book also includes a chapter on different searching and sorting algorithms and analysis of time and space complexity of algorithms."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "f6FQAAAAMAAJ",
+      "etag": "9Mfqw2vwUYI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/f6FQAAAAMAAJ",
+      "volumeInfo": {
+        "title": "C/C++ Programmer's Reference",
+        "authors": [
+          "Herbert Schildt"
+        ],
+        "publisher": "Programmer's Reference S.",
+        "publishedDate": "2000",
+        "description": "Revised and expanded for the new C/C++ Standard, C 99, this bestseller is a must-have reference and idea generator for millions of programmers. It's organized for easy access and designed as a lookup resource and idea generator for programming in C and C++.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015056811055"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 393,
+        "printType": "BOOK",
+        "categories": [
+          "C# (Computer program language)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=f6FQAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=f6FQAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=f6FQAAAAMAAJ&q=c&dq=c&hl=&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=f6FQAAAAMAAJ&dq=c&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/C_C++_Programmer_s_Reference.html?hl=&id=f6FQAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=f6FQAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Get a wealth of core \u003cb\u003eC\u003c/b\u003e / \u003cb\u003eC\u003c/b\u003e + + information in this well - organized fingertip reference . Herbert Schildt , the world &#39; s leading programming author , has revised his perennial best - seller to reflect the latest information on ANSI&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-SCIAwAAQBAJ",
+      "etag": "eHQHXS72sr0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-SCIAwAAQBAJ",
+      "volumeInfo": {
+        "title": "Computer Concepts and C Programming",
+        "subtitle": "",
+        "authors": [
+          "P.B. Kotur"
+        ],
+        "publisher": "Sapna Book House (P) Ltd.",
+        "publishedDate": "2013-05-24",
+        "description": "The book “Computer Concepts and C Programming” is designed to help the Engineering students of all Indian Universities. This book is written as per the new syllabus of the Visveswaraiah Technological University, Belgaum, India and it satisfies all the requirements of I/II semester students who aspire to learn the fundamentals of computers and C Programming. C is a structured programming language. This is most popular and a very powerful programming language. It is standardized and portable across multiple operating systems. C has been the most sought after programming language for developing the system software such as device drivers, compilers, parts of operating systems, interpreters for languages like Java, Prolog, etc. Among other popular programming languages like C++, Java and C#, C retained its position in software development activities. This book provides more than 100 example programs. All these programs are executed and tested on Borland C++ compiler and with the vi editor on UNIX. All the laboratory assignments are provided in Appendix–A. There are 150 multiple choice questions given for the readers to test their knowledge of C language.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788128001109"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8128001108"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 310,
+        "printType": "BOOK",
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-SCIAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-SCIAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=-SCIAwAAQBAJ&printsec=frontcover&dq=c&hl=&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=-SCIAwAAQBAJ&dq=c&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Computer_Concepts_and_C_Programming.html?hl=&id=-SCIAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Computer_Concepts_and_C_Programming-sample-epub.acsm?id=-SCIAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Computer_Concepts_and_C_Programming-sample-pdf.acsm?id=-SCIAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-SCIAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book is written as per the new syllabus of the Visveswaraiah Technological University, Belgaum, India and it satisfies all the requirements of I/II semester students who aspire to learn the fundamentals of computers and C Programming."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "d9qUyQEACAAJ",
+      "etag": "ehEE9o/I1lo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/d9qUyQEACAAJ",
+      "volumeInfo": {
+        "title": "C Programming Patterns",
+        "subtitle": "A Kaizen Way to Learn Coding Skills",
+        "authors": [
+          "Mohmad Yakub"
+        ],
+        "publishedDate": "2019-07-23",
+        "description": "How can I improve my coding skills? This book has a unique approach, specially crafted for non-programmers/beginners. A sure way to become confident programmer is to master the technique of logic building skills. Solve pattern-based problems because it will improve the visualization of logic. After some level of practice, your mind will work like a mini-debugger where you could able to visualize the flow of data. If a problem asked in the interview or anywhere else, then we should able to get the logic correctly in a single chance, instead of guessing logic. This book is specially put in an easy way to be suitable for any age group and to fill the much-needed gap especially for:- Who is unaware of any approach to build programming logic? Who had a hard time learning to write a program? Who are teachers/trainers and looking for a reliable resource to create interest in the subject of programming for their students. Who had some experience in programming and not confident enough? Who carries the false notion that coding is only for super-smart people. Who are looking for a 1st solid move to become a self-taught programmer? Who had some experience in programming with pattern and looking for a STANDARD APPROACH to get the LOGIC RIGHT for any pattern. Who is a victim of discouragement comments, similar like the following? Actually, you aren't interested. You lack patience and determination.? Your IQ is well below average. Programming is not about memorizing programming logic or downloading standard college/university level algorithms by practice in our mind, rather we need to understand the approach to solve a problem. Many novice programmers and many frustrated programmers do ask similar kind of questions which are as follows; How to develop logic building skill? How to learn to code? How to improve program logic? The Right, Approach: So the rule of the thumb is, in order to learn programming language fast and properly, first learn to hack programming logic. So, initially building programming logic skills must be the first and foremost activity rather than concentrating more on the features/APIs of a programming language. This technical manual is totally dedicated to the beginner or intermediate students who are just tired of hitting hard on many places in order to become confident in programming. Additionally, if you are among those who got limited time to learn to program, this is the guide that can serve you well too. Learning with simple picture-based problems or pattern surely helps in improving coding skills. If we apply the wrong logical condition then the non-matching output will be generated. Learning in this way makes learning interesting and force us to put efforts & focused. So, in this way, it helps in logic building. In general, It suits to most of the beginners/non-programmers and programmer with weak coding skills. After mastering the skills from this book, a beginner can confidently solve logical problems like 2-3 years experienced programmer. This is just not a book but a sensible option to learn programming logic from the very minimal. Can you afford to miss the right way to learn programming skills?",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1082244309"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781082244308"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 397,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=d9qUyQEACAAJ&dq=c&hl=&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=d9qUyQEACAAJ&dq=c&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/C_Programming_Patterns.html?hl=&id=d9qUyQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=d9qUyQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "After mastering the skills from this book, a beginner can confidently solve logical problems like 2-3 years experienced programmer. This is just not a book but a sensible option to learn programming logic from the very minimal."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GnhGAAAAYAAJ",
+      "etag": "BH0MdbVkZYc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GnhGAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Technical C Programming",
+        "authors": [
+          "Vincent Kassab"
+        ],
+        "publishedDate": "1989",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UVA:X001477289"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 386,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GnhGAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GnhGAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=GnhGAAAAYAAJ&q=c&dq=c&hl=&cd=25&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=GnhGAAAAYAAJ&dq=c&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Technical_C_Programming.html?hl=&id=GnhGAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GnhGAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Character Test / Conversion Library Functions Character test Function True if character \u003cb\u003ec\u003c/b\u003e is isalpha ( \u003cb\u003ec\u003c/b\u003e ) isdigit ( \u003cb\u003ec\u003c/b\u003e ) isspace ( \u003cb\u003eC\u003c/b\u003e ) islower ( \u003cb\u003ec\u003c/b\u003e ) i supper ( \u003cb\u003eC\u003c/b\u003e ) isalnum ( \u003cb\u003ec\u003c/b\u003e ) iscntrl ( \u003cb\u003ec\u003c/b\u003e ) isgraph ( \u003cb\u003ec\u003c/b\u003e ) isprint ( \u003cb\u003ec\u003c/b\u003e ) ispunct ( \u003cb\u003ec\u003c/b\u003e )&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4Mfe4sAMFUYC",
+      "etag": "C4QxPKCSrWg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4Mfe4sAMFUYC",
+      "volumeInfo": {
+        "title": "C in a Nutshell",
+        "authors": [
+          "Peter Prinz",
+          "Tony Crawford"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2005-12-16",
+        "description": "Learning a language--any language--involves a process wherein you learn to rely less and less on instruction and more increasingly on the aspects of the language you've mastered. Whether you're learning French, Java, or C, at some point you'll set aside the tutorial and attempt to converse on your own. It's not necessary to know every subtle facet of French in order to speak it well, especially if there's a good dictionary available. Likewise, C programmers don't need to memorize every detail of C in order to write good programs. What they need instead is a reliable, comprehensive reference that they can keep nearby. C in a Nutshell is that reference. This long-awaited book is a complete reference to the C programming language and C runtime library. Its purpose is to serve as a convenient, reliable companion in your day-to-day work as a C programmer. C in a Nutshell covers virtually everything you need to program in C, describing all the elements of the language and illustrating their use with numerous examples. The book is divided into three distinct parts. The first part is a fast-paced description, reminiscent of the classic Kernighan & Ritchie text on which many C programmers cut their teeth. It focuses specifically on the C language and preprocessor directives, including extensions introduced to the ANSI standard in 1999. These topics and others are covered: Numeric constants Implicit and explicit type conversions Expressions and operators Functions Fixed-length and variable-length arrays Pointers Dynamic memory management Input and output The second part of the book is a comprehensive reference to the C runtime library; it includes an overview of the contents of the standard headers and a description of each standard library function. Part III provides the necessary knowledge of the C programmer's basic tools: the compiler, the make utility, and the debugger. The tools described here are those in the GNU software collection. C in a Nutshell is the perfect companion to K&R, and destined to be the most reached-for reference on your desk.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780596550714"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0596550715"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 622,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 9,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.7.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4Mfe4sAMFUYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4Mfe4sAMFUYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=4Mfe4sAMFUYC&printsec=frontcover&dq=c&hl=&cd=26&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=4Mfe4sAMFUYC&dq=c&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/C_in_a_Nutshell.html?hl=&id=4Mfe4sAMFUYC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4Mfe4sAMFUYC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The tools described here are those in the GNU software collection. C in a Nutshell is the perfect companion to K&amp;R, and destined to be the most reached-for reference on your desk."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qDszEAAAQBAJ",
+      "etag": "mYArnKtUFbs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qDszEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Modern C",
+        "authors": [
+          "Jens Gustedt"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2019-11-26",
+        "description": "If you think \"Modern\" and \"C\" don't belong in the same sentence, think again. The C standards committee actively reviews and extends the language, with updated published C standards as recently as 2018. In Modern C, author Jens Gustedt teaches you the skills and features you need to write relevant programs in this tried-and-true language, including Linux and Windows, device drivers, web servers and browsers, smartphones, and much more! Modern C teaches you to take your C programming skills to new heights, whether you're just starting out with C or have more extensive experience. Organized by level, this comprehensive guide lets you jump in where it suits you best while still reaping the maximum benefits. Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781638350651"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1638350655"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 408,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qDszEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qDszEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=qDszEAAAQBAJ&pg=PP1&dq=c&hl=&cd=27&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=qDszEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=qDszEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2960.62,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 2960.62,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=qDszEAAAQBAJ&rdid=book-qDszEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2960620000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 2960620000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Modern_C-sample-epub.acsm?id=qDszEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qDszEAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Organized by level, this comprehensive guide lets you jump in where it suits you best while still reaping the maximum benefits. Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0RXLCgAAQBAJ",
+      "etag": "UwpgHoGlvTo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0RXLCgAAQBAJ",
+      "volumeInfo": {
+        "title": "Programming in C, 3e",
+        "authors": [
+          "Kamthane"
+        ],
+        "publisher": "Pearson Education India",
+        "publishedDate": "2015",
+        "description": "C is one of the most popular programming languages. It runs on most software platforms and computer architecture. This revised edition of our best-selling text Programming in C not only maintains the exclusivity of previous editions but also enhances it with the addition of new programs and illustrations. Challenging concepts are supported with numerous solved and unsolved programs. The new chapter on computer graphics ensures that this book comprehensively covers the syllabi of most universities. The book also uses the Turbo C compiler, which is the most widely used C compiler. With its increased coverage and inclusion of new learning tools, this edition is an invaluable asset for students who aim to improve their programming skills.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789332547179"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9332547173"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 599,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.2.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0RXLCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0RXLCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=0RXLCgAAQBAJ&pg=PP1&dq=c&hl=&cd=28&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=0RXLCgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=0RXLCgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 319,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 223.3,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=0RXLCgAAQBAJ&rdid=book-0RXLCgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 319000000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 223300000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Programming_in_C_3e-sample-pdf.acsm?id=0RXLCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0RXLCgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The new chapter on computer graphics ensures that this book comprehensively covers the syllabi of most universities. The book also uses the Turbo C compiler, which is the most widely used C compiler."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "q7fomH9lOU8C",
+      "etag": "Gy8liVkQll8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/q7fomH9lOU8C",
+      "volumeInfo": {
+        "title": "The C++ Programming Language",
+        "authors": [
+          "Bjarne Stroustrup"
+        ],
+        "publisher": "Pearson Education India",
+        "publishedDate": "2000",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8131705218"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788131705216"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1019,
+        "printType": "BOOK",
+        "categories": [
+          "C++ (Computer program language)"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 17,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=q7fomH9lOU8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=q7fomH9lOU8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=q7fomH9lOU8C&printsec=frontcover&dq=c&hl=&cd=29&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=q7fomH9lOU8C&dq=c&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_C++_Programming_Language.html?hl=&id=q7fomH9lOU8C"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=q7fomH9lOU8C&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OCM3CwAAQBAJ",
+      "etag": "JAGDEC7BZAQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OCM3CwAAQBAJ",
+      "volumeInfo": {
+        "title": "Learn to Program with C",
+        "authors": [
+          "Noel Kalicharan"
+        ],
+        "publisher": "Apress",
+        "publishedDate": "2015-12-16",
+        "description": "This book teaches computer programming to the complete beginner using the native C language. As such, it assumes you have no knowledge whatsoever about programming. The main goal of this book is to teach fundamental programming principles using C, one of the most widely used programming languages in the world today. We discuss only those features and statements in C that are necessary to achieve our goal. Once you learn the principles well, they can be applied to any language. If you are worried that you are not good at high-school mathematics, don’t be. It is a myth that you must be good at mathematics to learn programming. C is considered a ‘modern’ language even though its roots date back to the 1970s. Originally, C was designed for writing ‘systems’ programs—things like operating systems, editors, compilers, assemblers and input/output utility programs. But, today, C is used for writing all kinds of applications programs as well—word processing programs, spreadsheet programs, database management programs, accounting programs, games, robots, embedded systems/electronics (i.e., Arduino), educational software—the list is endless. Note: Appendices A-D are available as part of the free source code download at the Apress website. What You Will Learn: How to get started with programming using the C language How to use the basics of C How to program with sequence, selection and repetition logic How to work with characters How to work with functions How to use arrays Who This Book Is For: This book is intended for anyone who is learning programming for the first time.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781484213711"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1484213718"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 312,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.6.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OCM3CwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OCM3CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=OCM3CwAAQBAJ&printsec=frontcover&dq=c&hl=&cd=30&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=OCM3CwAAQBAJ&dq=c&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Learn_to_Program_with_C.html?hl=&id=OCM3CwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Learn_to_Program_with_C-sample-epub.acsm?id=OCM3CwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Learn_to_Program_with_C-sample-pdf.acsm?id=OCM3CwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OCM3CwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book teaches computer programming to the complete beginner using the native C language."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "X2lVAAAAMAAJ",
+      "etag": "osfTMucH7Xs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/X2lVAAAAMAAJ",
+      "volumeInfo": {
+        "title": "C/C++ Users Journal",
+        "publishedDate": "1999",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015048106853"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "C (Computer program language)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.6.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=X2lVAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=X2lVAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=X2lVAAAAMAAJ&q=c&dq=c&hl=&cd=31&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=X2lVAAAAMAAJ&dq=c&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/C_C++_Users_Journal.html?hl=&id=X2lVAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=X2lVAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This would violate the model for data scope and lifetime within \u003cb\u003eC\u003c/b\u003e++, and deviate sharply from the established meaning of stati \u003cb\u003ec\u003c/b\u003e inherited from \u003cb\u003eC\u003c/b\u003e. Uncaught Exceptions Conjunction Junction QI have written a Win32 application that needs&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "x8dNEAAAQBAJ",
+      "etag": "meypYX0/Ojk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/x8dNEAAAQBAJ",
+      "volumeInfo": {
+        "title": "\"C\"",
+        "authors": [
+          "Maurice Baring"
+        ],
+        "publisher": "Good Press",
+        "publishedDate": "2021-11-09",
+        "description": "\"\"C\"\" by Maurice Baring. Published by Good Press. Good Press publishes a wide range of titles that encompasses every genre. From well-known classics & literary fiction and non-fiction to forgotten−or yet undiscovered gems−of world literature, we issue the books that need to be read. Each Good Press edition has been meticulously edited and formatted to boost readability for all e-readers and devices. Our goal is to produce eBooks that are user-friendly and accessible to everyone in a high-quality digital format.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "EAN:4066338065704"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 453,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=x8dNEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=x8dNEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=x8dNEAAAQBAJ&pg=PT273&dq=c&hl=&cd=32&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=x8dNEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=x8dNEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 155,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 108.5,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=x8dNEAAAQBAJ&rdid=book-x8dNEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 155000000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 108500000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/C-sample-epub.acsm?id=x8dNEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/C-sample-pdf.acsm?id=x8dNEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=x8dNEAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Bede, \u003cb\u003eC\u003c/b\u003e. reflected, seemed a frail and anæmic creature, compared with even the thought of Byron. He thought of Professor Kaufmann saying that Tennyson was a dwarf beside Byron, who was a giant. If Tennyson was a dwarf, what was Bede?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Kdo0AQAAMAAJ",
+      "etag": "C+VZo4mu6Mw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Kdo0AQAAMAAJ",
+      "volumeInfo": {
+        "title": "Central and Southern Florida Project, Canal 111 (C-111) Project, South Dade County",
+        "subtitle": "Environmental Impact Statement",
+        "publishedDate": "1994",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "NWU:35556031245327"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.4.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Kdo0AQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Kdo0AQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=Kdo0AQAAMAAJ&pg=RA1-PT108&dq=c&hl=&cd=33&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Kdo0AQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Kdo0AQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=Kdo0AQAAMAAJ&rdid=book-Kdo0AQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.co.in/books/download/Central_and_Southern_Florida_Project_Can.epub?id=Kdo0AQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Kdo0AQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Appendix \u003cb\u003eC\u003c/b\u003e Real Estate Plan Table of Contents Paragraph No. Page No. . . . . . . . . 1. Statement of Purpose . . 2. Authorization 3. Project Location . 4. Project Description . 5. Government Owned Lands . 6. Sponsor Owned Lands . 7."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "93RTwlsiohsC",
+      "etag": "Jy6e3HQWMuk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/93RTwlsiohsC",
+      "volumeInfo": {
+        "title": "C Programming In Easy Steps",
+        "authors": [
+          "Mike McGrath"
+        ],
+        "publisher": "Dreamtech Press",
+        "publishedDate": "2002-12-04",
+        "description": "C Programming in easy steps instructs the reader how to program in C both on Unix-based platforms, such as Linux, and on Windows platforms. Linux users should already have the GNU C compiler on their system but the book explains how to download and install the GNU C compiler for Windows users. It contains separate chapters on each major feature of the C language, with examples, and a reference section describing the standard C header class functions. By the end of the book the reader will have gained a sound understanding of the C language and be able to write their own C programs and compile them into executable files that can be run on any compatible PC.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8177223046"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788177223040"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 192,
+        "printType": "BOOK",
+        "averageRating": 4.5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.6.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=93RTwlsiohsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=93RTwlsiohsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=93RTwlsiohsC&printsec=frontcover&dq=c&hl=&cd=34&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=93RTwlsiohsC&dq=c&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/C_Programming_In_Easy_Steps.html?hl=&id=93RTwlsiohsC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=93RTwlsiohsC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "By the end of the book the reader will have gained a sound understanding of the C language and be able to write their own C programs and compile them into executable files that can be run on any compatible PC."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "j5lBDwAAQBAJ",
+      "etag": "y8uqt8y33zs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/j5lBDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Fairchild C-82 Packet",
+        "subtitle": "The Military and Civil History",
+        "authors": [
+          "Simon D. Beck"
+        ],
+        "publisher": "McFarland",
+        "publishedDate": "2017",
+        "description": "Originally designed as a cargo and paratroop transport during World War II, the Fairchild C-82 Packet is today mainly remembered for its starring role in the Hollywood film The Flight of the Phoenix (1965). Its ungainly appearance earned it the nickname \"the flying boxcar\" but the aircraft was the first to achieve practical end-loading and aerial delivery of cargoes. Its outsized capacity served the U.S. military's needs for more than ten years--civilian operators flew it in remote locations like Alaska and South America for a further three decades. This book provides a comprehensive history of the C-82, detailing each of the 224 aircraft built, with technical diagrams, multiple appendices and more than 200 photos.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781476669755"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1476669759"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 324,
+        "printType": "BOOK",
+        "categories": [
+          "Transportation"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=j5lBDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=j5lBDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=j5lBDwAAQBAJ&pg=PA31&dq=c&hl=&cd=35&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=j5lBDwAAQBAJ&dq=c&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Fairchild_C_82_Packet.html?hl=&id=j5lBDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=j5lBDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "These allocations were subsequently changed to a five-digit gap sequence, but this is where the \u003cb\u003eC\u003c/b\u003e-82 Block Number mystery begins. The full sequence has never been published, so definitive confirmation cannot be verified."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "P2h0AgAAQBAJ",
+      "etag": "/Bf/jSno8B8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/P2h0AgAAQBAJ",
+      "volumeInfo": {
+        "title": "A Step in Programming with C",
+        "subtitle": "",
+        "authors": [
+          "Rakesh Tyata"
+        ],
+        "publisher": "Rakesh Tyata",
+        "publishedDate": "2009-06-11",
+        "description": "This book is a clear, comprehensive book designed only for you, no-matter whether you are a student, a teacher, a professional programmer or others. Simplicity is the hallmark of this book. It assumes no necessities for you to have the background knowledge on C Programming Language. Firstly, it helps you to understand the basic fundamentals of C Programming and then about the stronger part of C and ultimately master the various features that C offers.It is written in a style and level of detail to capture the entire field, it admirably meets the needs of students of science and technology specially the computer engineering students as a textbook and of professionals as a basic reference volume. Ideal for self-study and certification exam. Includes solution of more than 160 programs Broad in-depth coverage of C Programming Language.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781448615414"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1448615410"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 232,
+        "printType": "BOOK",
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=P2h0AgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=P2h0AgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=P2h0AgAAQBAJ&pg=PA38&dq=c&hl=&cd=36&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=P2h0AgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=P2h0AgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 178.1,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 124.67,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=P2h0AgAAQBAJ&rdid=book-P2h0AgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 178100000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 124670000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/A_Step_in_Programming_with_C-sample-pdf.acsm?id=P2h0AgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=P2h0AgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Also mention different types of unary operators supported by \u003cb\u003eC\u003c/b\u003e language. 3. What is binary operator? Explain with examples. 4. What is ternary operator? Explain with examples. 5. Discuss the various types of operators that are included&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-K44DwAAQBAJ",
+      "etag": "oAO9TIYNK7I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-K44DwAAQBAJ",
+      "volumeInfo": {
+        "title": "CBSE Simplified C++",
+        "authors": [
+          "Kunal Banerjee"
+        ],
+        "publisher": "Educreation Publishing",
+        "publishedDate": "2017-10-16",
+        "description": "The book is written in very simple and easy language. the book is strictly in accordance with CBSE syllabus and can also be used by beginners to learn C++.",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 292,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-K44DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-K44DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=-K44DwAAQBAJ&pg=PA82&dq=c&hl=&cd=37&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=-K44DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=-K44DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 212.4,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 148.68,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=-K44DwAAQBAJ&rdid=book--K44DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 212400000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 148680000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/CBSE_Simplified_C++-sample-pdf.acsm?id=-K44DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-K44DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "\u003cb\u003eC\u003c/b\u003e++. C++ is a general purpose programming language. It was developed at AT &amp; Bell Laboratories in the early 1980&#39;s by Bijarne ... It is so called because C++ contains all the features of \u003cb\u003eC\u003c/b\u003e with an additional concept of Classes."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "d7xVDwAAQBAJ",
+      "etag": "Xu9PYUOQB2Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/d7xVDwAAQBAJ",
+      "volumeInfo": {
+        "title": "C language",
+        "subtitle": "Linux Programing. Al6-010",
+        "authors": [
+          "Noite.pl"
+        ],
+        "publisher": "NOITE S.C.",
+        "description": "Everything is written in C. You must know it. The micro-course describes the C language. Keywords: C, gcc C language Genesis C in Linux A program in C Constructing a program in C A program in C and C++",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=d7xVDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=d7xVDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=d7xVDwAAQBAJ&pg=PP5&dq=c&hl=&cd=38&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=d7xVDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=d7xVDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 166.61,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 116.63,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=d7xVDwAAQBAJ&rdid=book-d7xVDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 166610000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 116630000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/C_language-sample-epub.acsm?id=d7xVDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/C_language-sample-pdf.acsm?id=d7xVDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=d7xVDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "\u003cb\u003eC\u003c/b\u003e. language. Genesis. At the beginning there was the machine code. Later, out of chaos, there came ALGOL (ALGOrithmic Language) which evolved in CPL (Combined Programming Language) and emerged. It looked around and it grew hair,&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uusdAQAAMAAJ",
+      "etag": "AYaRzRk+Zk8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uusdAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Research papers",
+        "subtitle": "",
+        "publishedDate": "1970",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "CHI:73752864"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Geology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=uusdAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=uusdAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=uusdAQAAMAAJ&q=c&dq=c&hl=&cd=39&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=uusdAQAAMAAJ&dq=c&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Research_papers.html?hl=&id=uusdAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uusdAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "\u003cb\u003eC\u003c/b\u003e, Nr. 593. Årsbok 57, Nr. 4. Berthelsen, A., 1960: Structural studies in the Pre-Cambrian of western Greenland. Part II: Geology of Tovqussap nunå. Meddr Granland, Bd. 123, Nr. 1. Eskola, P. E., 1949: The problem of mantled gneiss&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "shMrEAAAQBAJ",
+      "etag": "Tcl8+0nVFQ8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/shMrEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Aristotleʼs ›Physics‹ VIII, Translated into Arabic by Ishaq ibn Hunayn (9th c.)",
+        "subtitle": "Introduction, Edition, and Glossaries",
+        "authors": [
+          "Rüdiger Arnzen"
+        ],
+        "publisher": "Walter de Gruyter GmbH & Co KG",
+        "publishedDate": "2020-11-23",
+        "description": "Aristotle's theory of eternal continuous motion and his argument from everlasting change and motion to the existence of an unmoved primary cause of motion, provided in book VIII of his Physics, is one of the most influential and persistent doctrines of ancient Greek philosophy. Nevertheless, the exact wording of Aristotle's discourse is doubtful and contentious at many places. The present critical edition of Ishaq ibn Hunayn's Arabic translation (9th c.) is supposed to replace the faulty edition by A. Badawi and aims at contributing to the clarification of these textual difficulties by means of a detailed collation of the Arabic text with the most important Greek manuscripts, supported by comprehensive Greek and Arabic glossaries.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783110582086"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3110582082"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 545,
+        "printType": "BOOK",
+        "categories": [
+          "Philosophy"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=shMrEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=shMrEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=shMrEAAAQBAJ&pg=PA241&dq=c&hl=&cd=40&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=shMrEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=shMrEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 14518.88,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 14518.88,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=shMrEAAAQBAJ&rdid=book-shMrEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 14518880000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 14518880000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Aristotle%CA%BCs_Physics_VIII_Translated_int-sample-pdf.acsm?id=shMrEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=shMrEAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "( b.1 ) \u003cb\u003ec\u003c/b\u003e . bi- = ( subj . obj . ) Xo \u003cb\u003ec\u003c/b\u003e . acc . ( » to have , hold S.th. « ) 253a31 kāna bi - hāli ... vel sim . = ÉXO ( » to behave , be in a state « ) 25162 , 25166 ( b.2 ) \u003cb\u003ec\u003c/b\u003e . ala = ειμί \u003cb\u003ec\u003c/b\u003e . κατά 262629 = eiuí \u003cb\u003ec\u003c/b\u003e . adv ."
+      }
+    }
+  ]
+}

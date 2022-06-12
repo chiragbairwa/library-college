@@ -1,14 +1,15 @@
 /* LOGIN.JS */
 
 .auth-container {
-  color: #4e6ee0;
-  height: -webkit-fill-available;
-  height: 100vh;
+  padding-top: 8rem;
   display: flex;
   align-items: center;
   flex-direction: column;
   justify-content: center;
+
+  color: #4e6ee0;
 }
+
 .image {
   width: 100px;
   height: 100px;
@@ -51,6 +52,10 @@
   background-color: ghostwhite;
 }
 
+.login-register-btn,
+.google-btn {
+  background-color: white;
+}
 .login-btn {
   margin: 8px 0 0 0;
   color: white;
@@ -59,8 +64,7 @@
 
 /* REGISTER.JS */
 .register-container {
-  height: -webkit-fill-available;
-  margin: 16px;
+  padding: 16px;
 }
 .register-back-btn {
   font-size: 24px;

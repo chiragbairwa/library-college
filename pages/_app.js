@@ -15,7 +15,7 @@ import { useRouter } from 'next/router'
 import { AuthContextProvider } from '../firebase/authContext'
 import ProtectedRoute from '../firebase/protectedRoute'
 
-const noAuthRequired = ['/', '/login']
+const noAuthRequired = ['/login']
 
 function MyApp({ Component, pageProps }) {
   const router = useRouter()

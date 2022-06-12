@@ -1,0 +1,3072 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1751,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "k8pQAAAAMAAJ",
+      "etag": "NKlL/igN+PU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/k8pQAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Data Structures and Algorithms",
+        "authors": [
+          "Alfred V. Aho",
+          "John E. Hopcroft",
+          "Jeffrey D. Ullman",
+          "John Hopcroft",
+          "Ullman D. Jeffrey"
+        ],
+        "publisher": "Pearson",
+        "publishedDate": "1983",
+        "description": "Data -- Data Structures.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015026513849"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 427,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=k8pQAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=k8pQAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=k8pQAAAAMAAJ&q=datastructures&dq=datastructures&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=k8pQAAAAMAAJ&dq=datastructures&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Data_Structures_and_Algorithms.html?hl=&id=k8pQAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=k8pQAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Data -- Data Structures."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZZCJvrDe5bIC",
+      "etag": "uzRPk7Tr1CI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZZCJvrDe5bIC",
+      "volumeInfo": {
+        "title": "Open Data Structures",
+        "subtitle": "An Introduction",
+        "authors": [
+          "Pat Morin"
+        ],
+        "publisher": "Athabasca University Press",
+        "publishedDate": "2013",
+        "description": "This textbook teaches introductory data structures.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781927356388"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1927356385"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 344,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZZCJvrDe5bIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZZCJvrDe5bIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=ZZCJvrDe5bIC&printsec=frontcover&dq=datastructures&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=ZZCJvrDe5bIC&dq=datastructures&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Open_Data_Structures.html?hl=&id=ZZCJvrDe5bIC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZZCJvrDe5bIC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Introduction -- Array-based lists -- Linked lists -- Skiplists -- Hash tables -- Binary trees -- Random binary search trees -- Scapegoat trees -- Red-black trees -- Heaps -- Sorting algorithms -- Graphs -- Data structures for integers -- ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ybwcwQEACAAJ",
+      "etag": "b2Xz2/utsnk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ybwcwQEACAAJ",
+      "volumeInfo": {
+        "title": "Advanced Data Structures",
+        "authors": [
+          "Peter Brass"
+        ],
+        "publisher": "Cambridge University Press",
+        "publishedDate": "2019-05-16",
+        "description": "Advanced Data Structures presents a comprehensive look at the ideas, analysis, and implementation details of data structures as a specialized topic in applied algorithms. Data structures are how data is stored within a computer, and how one can go about searching for data within. This text examines efficient ways to search and update sets of numbers, intervals, or strings by various data structures, such as search trees, structures for sets of intervals or piece-wise constant functions, orthogonal range search structures, heaps, union-find structures, dynamization and persistence of structures, structures for strings, and hash tables. This is the first volume to show data structures as a crucial algorithmic topic, rather than relegating them as trivial material used to illustrate object-oriented programming methodology, filling a void in the ever-increasing computer science market. Numerous code examples in C and more than 500 references make Advanced Data Structures an indispensable text. topic. Numerous code examples in C and more than 500 references make Advanced Data Structures an indispensable text.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1108735517"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781108735513"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 472,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ybwcwQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ybwcwQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=ybwcwQEACAAJ&dq=datastructures&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=ybwcwQEACAAJ&dq=datastructures&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Advanced_Data_Structures.html?hl=&id=ybwcwQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ybwcwQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This text examines efficient ways to search and update sets of numbers, intervals, or strings by various data structures, such as search trees, structures for sets of intervals or piece-wise constant functions, orthogonal range search ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "iaYFQb-HmDwC",
+      "etag": "9ghF4BPphnI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iaYFQb-HmDwC",
+      "volumeInfo": {
+        "title": "Data Structures and Program Design in C",
+        "authors": [
+          "Robert Kruse",
+          "Cl Tondo"
+        ],
+        "publisher": "Pearson Education India",
+        "publishedDate": "2007-09",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8177584235"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788177584233"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 624,
+        "printType": "BOOK",
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=iaYFQb-HmDwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=iaYFQb-HmDwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=iaYFQb-HmDwC&printsec=frontcover&dq=datastructures&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=iaYFQb-HmDwC&dq=datastructures&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Data_Structures_and_Program_Design_in_C.html?hl=&id=iaYFQb-HmDwC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iaYFQb-HmDwC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZgGzBt074e8C",
+      "etag": "D9cyU1EiotE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZgGzBt074e8C",
+      "volumeInfo": {
+        "title": "Data Structure Using C",
+        "authors": [
+          "A. K. Sharma"
+        ],
+        "publisher": "Pearson Education India",
+        "publishedDate": "2011",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8131755665"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788131755662"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 446,
+        "printType": "BOOK",
+        "categories": [
+          "C (Computer program language)"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZgGzBt074e8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZgGzBt074e8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=ZgGzBt074e8C&printsec=frontcover&dq=datastructures&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=ZgGzBt074e8C&dq=datastructures&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Data_Structure_Using_C.html?hl=&id=ZgGzBt074e8C"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZgGzBt074e8C&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HHfP4M_SW6AC",
+      "etag": "yy5ILDw0l2k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HHfP4M_SW6AC",
+      "volumeInfo": {
+        "title": "Introduction to Data Structures in C",
+        "authors": [
+          "Ashok N. Kamthane"
+        ],
+        "publisher": "Pearson Education India",
+        "publishedDate": "2004",
+        "description": "Introduction to Data Structures in C is an introductory book on the subject. The contents of the book are designed as per the requirement of the syllabus and the students and will be useful for students of B.E. (Computer/Electronics), MCA, BCA, M.S.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "813171392X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788131713921"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 484,
+        "printType": "BOOK",
+        "categories": [
+          "C (Computer program language)"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "3.3.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HHfP4M_SW6AC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HHfP4M_SW6AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=HHfP4M_SW6AC&printsec=frontcover&dq=datastructures&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=HHfP4M_SW6AC&dq=datastructures&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Introduction_to_Data_Structures_in_C.html?hl=&id=HHfP4M_SW6AC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HHfP4M_SW6AC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The contents of the book are designed as per the requirement of the syllabus and the students and will be useful for students of B.E. (Computer/Electronics), MCA, BCA, M.S."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "85mwDwAAQBAJ",
+      "etag": "e6bhh+8Bu6U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/85mwDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Data Structures Through C",
+        "subtitle": "Learn the fundamentals of Data Structures through C",
+        "authors": [
+          "Yashavant Kanetkar"
+        ],
+        "publisher": "BPB Publications",
+        "publishedDate": "2019-09-19",
+        "description": "Experience Data Structures CÊ through animations DESCRIPTION There are two major hurdles faced by anybody trying to learn Data Structures: Most books attempt to teach it using algorithms rather than complete working programs A lot is left to the imagination of the reader, instead of explaining it in detail. Ê This is a different Data Structures book. It uses a common language like C to teach Data Structures. Secondly, it goes far beyond merely explaining how Stacks, Queues, and Linked Lists work. The readers can actually experience (rather than imagine) sorting of an array, traversing of a doubly linked list, construction of a binary tree, etc. through carefully crafted animations that depict these processes. All these animations are available on the downloadable DVD. In addition it contains numerous carefully-crafted figures, working programs and real world scenarios where different data structures are used. This would help you understand the complicated operations being performed an different data structures easily. Add to that the customary lucid style of Yashavant Kanetkar and you have a perfect Data Structures book in your hands. KEY FEATURES Strengthens the foundations, as detailed explanation of concepts are givenÊ Focuses on how to think logically to solve a problem Algorithms used in the book are well explained and illustrated step by step. Help students in understanding how data structures are implemented in programs WHAT WILL YOU LEARN Analysis of Algorithms, Arrays, Linked Lists, Sparse Matrices Stacks, Queues, Trees, Graphs, Searching and Sorting WHO THIS BOOK IS FOR Students, Programmers, researchers, and software developers who wish to learn the basics of Data structures. Table of Contents 1. Analysis of Algorithms 2. Arrays 3. Linked Lists 4. Sparse Matrices 5. Stacks 6. Queues",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789388511391"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9388511395"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 259,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=85mwDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=85mwDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=85mwDwAAQBAJ&printsec=frontcover&dq=datastructures&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=85mwDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=85mwDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 886.94,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 404.89,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=85mwDwAAQBAJ&rdid=book-85mwDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 886940000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 404890000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Data_Structures_Through_C-sample-epub.acsm?id=85mwDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Data_Structures_Through_C-sample-pdf.acsm?id=85mwDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=85mwDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Experience Data Structures CÊ through animations DESCRIPTION There are two major hurdles faced by anybody trying to learn Data Structures: Most books attempt to teach it using algorithms rather than complete working programs A lot is left ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yIudQgAACAAJ",
+      "etag": "DDwXne4wZbM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yIudQgAACAAJ",
+      "volumeInfo": {
+        "title": "Data Structures & Algorithms in Java",
+        "authors": [
+          "Robert Lafore"
+        ],
+        "publisher": "Sams Publishing",
+        "publishedDate": "2003",
+        "description": "Designed to be easy to read and understand although the topic itself is complicated, this book explains that algorithms are the procedures that software programs use to manipulate data structures. Besides clear and simple example programs, Lafore includes a workshop as a small demonstration program executable on a Web browser.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0672324539"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780672324536"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 776,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yIudQgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yIudQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=yIudQgAACAAJ&dq=datastructures&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=yIudQgAACAAJ&dq=datastructures&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Data_Structures_Algorithms_in_Java.html?hl=&id=yIudQgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yIudQgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "For this edition, Lafore has rewritten each program to improve its operation, clarify the algorithms it illustrates, and reflect the latest versions of the Java 2 SDK."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fCIEEAAAQBAJ",
+      "etag": "y2sfIrS+pIw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fCIEEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Data Structures & Algorithms using C",
+        "authors": [
+          "R.S. Salaria"
+        ],
+        "publisher": "KHANNA PUBLISHING HOUSE",
+        "publishedDate": "2015",
+        "description": "Provides a comprehensive coverage of the subject, Includes numerous illustrative examples, Demonstrate the development of algorithms in a lucid manner, Demonstrate the implementation of algorithms in a good programming style, Provides challenging programming exercise to test your knowledge gained about the subject, Glossary of terms for ready reference.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789381068588"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9381068585"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 552,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.0.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fCIEEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fCIEEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=fCIEEAAAQBAJ&printsec=frontcover&dq=datastructures&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=fCIEEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=fCIEEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 470.82,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 329.57,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=fCIEEAAAQBAJ&rdid=book-fCIEEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 470820000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 329570000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Data_Structures_Algorithms_using_C-sample-pdf.acsm?id=fCIEEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fCIEEAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Provides a comprehensive coverage of the subject, Includes numerous illustrative examples, Demonstrate the development of algorithms in a lucid manner, Demonstrate the implementation of algorithms in a good programming style, Provides ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fTHrjwEACAAJ",
+      "etag": "O2Z/7MHpaTk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fTHrjwEACAAJ",
+      "volumeInfo": {
+        "title": "Data Structures",
+        "authors": [
+          "N. K. Tiwari",
+          "Jitendra Agrawal",
+          "Shishir K. Shandilya"
+        ],
+        "publishedDate": "2016-03",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "938458892X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789384588922"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 256,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fTHrjwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fTHrjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=fTHrjwEACAAJ&dq=datastructures&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=fTHrjwEACAAJ&dq=datastructures&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Data_Structures.html?hl=&id=fTHrjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fTHrjwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The contents of this book will help students understand how data structures are implemented and why these implementations are important."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KK3DAgAAQBAJ",
+      "etag": "WohRYA5mHSI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KK3DAgAAQBAJ",
+      "volumeInfo": {
+        "title": "Data Structures and Algorithm Analysis in Java, Third Edition",
+        "authors": [
+          "Clifford A. Shaffer"
+        ],
+        "publisher": "Courier Corporation",
+        "publishedDate": "2012-09-06",
+        "description": "Comprehensive treatment focuses on creation of efficient data structures and algorithms and selection or design of data structure best suited to specific problems. This edition uses Java as the programming language.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780486173566"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0486173569"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 608,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "3.8.8.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=KK3DAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=KK3DAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=KK3DAgAAQBAJ&printsec=frontcover&dq=datastructures&hl=&cd=11&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=KK3DAgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=KK3DAgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2743.49,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 2743.49,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=KK3DAgAAQBAJ&rdid=book-KK3DAgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2743490000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 2743490000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Data_Structures_and_Algorithm_Analysis_i-sample-epub.acsm?id=KK3DAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Data_Structures_and_Algorithm_Analysis_i-sample-pdf.acsm?id=KK3DAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KK3DAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Comprehensive treatment focuses on creation of efficient data structures and algorithms and selection or design of data structure best suited to specific problems. This edition uses Java as the programming language."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oIQrDwAAQBAJ",
+      "etag": "5we3crYO0/o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oIQrDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Think Data Structures",
+        "subtitle": "Algorithms and Information Retrieval in Java",
+        "authors": [
+          "Allen Downey"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2017-07-07",
+        "description": "If you’re a student studying computer science or a software developer preparing for technical interviews, this practical book will help you learn and review some of the most important ideas in software engineering—data structures and algorithms—in a way that’s clearer, more concise, and more engaging than other materials. By emphasizing practical knowledge and skills over theory, author Allen Downey shows you how to use data structures to implement efficient algorithms, and then analyze and measure their performance. You’ll explore the important classes in the Java collections framework (JCF), how they’re implemented, and how they’re expected to perform. Each chapter presents hands-on exercises supported by test code online. Use data structures such as lists and maps, and understand how they work Build an application that reads Wikipedia pages, parses the contents, and navigates the resulting data tree Analyze code to predict how fast it will run and how much memory it will require Write classes that implement the Map interface, using a hash table and binary search tree Build a simple web search engine with a crawler, an indexer that stores web page contents, and a retriever that returns user query results Other books by Allen Downey include Think Java, Think Python, Think Stats, and Think Bayes.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781491972342"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1491972343"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 158,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oIQrDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oIQrDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=oIQrDwAAQBAJ&pg=PP1&dq=datastructures&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=oIQrDwAAQBAJ&dq=datastructures&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Think_Data_Structures.html?hl=&id=oIQrDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oIQrDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "If you’re a student studying computer science or a software developer preparing for technical interviews, this practical book will help you learn and review some of the most important ideas in software engineering—data structures and ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3LQk_-PKZ48C",
+      "etag": "gEQEo9WTQ2Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3LQk_-PKZ48C",
+      "volumeInfo": {
+        "title": "C and Data Structures",
+        "authors": [
+          "Prof. P.S. Deshpande",
+          "Prof. O.G. Kakde"
+        ],
+        "publisher": "John Wiley & Sons",
+        "publishedDate": "2003-07-15",
+        "description": "This book has been designed for B.E., M.C.A., B.C.A. or M.Sc Students of most Indian universities as well as those preparing for C-related aptitude tests and interviews.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8177224247"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788177224245"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 700,
+        "printType": "BOOK",
+        "averageRating": 1,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3LQk_-PKZ48C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3LQk_-PKZ48C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=3LQk_-PKZ48C&dq=datastructures&hl=&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=3LQk_-PKZ48C&dq=datastructures&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/C_and_Data_Structures.html?hl=&id=3LQk_-PKZ48C"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3LQk_-PKZ48C&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book has been designed for B.E., M.C.A., B.C.A. or M.Sc Students of most Indian universities as well as those preparing for C-related aptitude tests and interviews."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oK3UWxg_UhsC",
+      "etag": "Uv2m6zSTRR4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oK3UWxg_UhsC",
+      "volumeInfo": {
+        "title": "Algorithms and Data Structures",
+        "subtitle": "The Basic Toolbox",
+        "authors": [
+          "Kurt Mehlhorn",
+          "Peter Sanders"
+        ],
+        "publisher": "Springer Science & Business Media",
+        "publishedDate": "2008-06-23",
+        "description": "This concise introduction is ideal for readers familiar with programming and basic mathematical language. It uses pictures, words and high-level pseudocode to explain algorithms and presents efficient implementations using real programming languages.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783540779773"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3540779779"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 300,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oK3UWxg_UhsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oK3UWxg_UhsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=oK3UWxg_UhsC&printsec=frontcover&dq=datastructures&hl=&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=oK3UWxg_UhsC&dq=datastructures&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Algorithms_and_Data_Structures.html?hl=&id=oK3UWxg_UhsC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Algorithms_and_Data_Structures-sample-pdf.acsm?id=oK3UWxg_UhsC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oK3UWxg_UhsC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This concise introduction is ideal for readers familiar with programming and basic mathematical language."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QUML-e2LfNIC",
+      "etag": "s/xzxYTY0VQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QUML-e2LfNIC",
+      "volumeInfo": {
+        "title": "Data Structures Using C",
+        "authors": [
+          "Samir Kumar Bandyopadhyay"
+        ],
+        "publisher": "Pearson Education India",
+        "publishedDate": "2009",
+        "description": "Data Structures Using C brings together a first course on data structures and the complete programming techniques, enabling students and professionals implement abstract structures and structure their ideas to suit different needs. This book elaborates the standard data structures using C as the basic programming tool. It is designed for a one semester course on Data Structures.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8131722384"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788131722381"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 324,
+        "printType": "BOOK",
+        "categories": [
+          "C (Computer program language)"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QUML-e2LfNIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QUML-e2LfNIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=QUML-e2LfNIC&printsec=frontcover&dq=datastructures&hl=&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=QUML-e2LfNIC&dq=datastructures&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Data_Structures_Using_C.html?hl=&id=QUML-e2LfNIC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QUML-e2LfNIC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book elaborates the standard data structures using C as the basic programming tool. It is designed for a one semester course on Data Structures."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UlzWDAAAQBAJ",
+      "etag": "/OgPZlq7eoU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UlzWDAAAQBAJ",
+      "volumeInfo": {
+        "title": "Compact Data Structures",
+        "authors": [
+          "Gonzalo Navarro"
+        ],
+        "publisher": "Cambridge University Press",
+        "publishedDate": "2016-09-08",
+        "description": "This practical, applications-oriented book describes essential tools for efficiently handling massive amounts of data.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781107152380"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1107152380"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 536,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UlzWDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UlzWDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=UlzWDAAAQBAJ&printsec=frontcover&dq=datastructures&hl=&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=UlzWDAAAQBAJ&dq=datastructures&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Compact_Data_Structures.html?hl=&id=UlzWDAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UlzWDAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This practical, applications-oriented book describes essential tools for efficiently handling massive amounts of data."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Mr59DwAAQBAJ",
+      "etag": "KDbIKi19T/M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Mr59DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Data Structures and Algorithms in Python",
+        "authors": [
+          "Michael T. Goodrich",
+          "Roberto Tamassia",
+          "Michael H. Goldwasser"
+        ],
+        "publisher": "John Wiley & Sons",
+        "publishedDate": "2013-03-18",
+        "description": "Based on the authors’ market leading data structures books in Java and C++, this book offers a comprehensive, definitive introduction to data structures in Python by authoritative authors. Data Structures and Algorithms in Python is the first authoritative object-oriented book available for Python data structures. Designed to provide a comprehensive introduction to data structures and algorithms, including their design, analysis, and implementation, the text will maintain the same general structure as Data Structures and Algorithms in Java and Data Structures and Algorithms in C++. Begins by discussing Python’s conceptually simple syntax, which allows for a greater focus on concepts. Employs a consistent object-oriented viewpoint throughout the text. Presents each data structure using ADTs and their respective implementations and introduces important design patterns as a means to organize those implementations into classes, methods, and objects. Provides a thorough discussion on the analysis and design of fundamental data structures. Includes many helpful Python code examples, with source code provided on the website. Uses illustrations to present data structures and algorithms, as well as their analysis, in a clear, visual manner. Provides hundreds of exercises that promote creativity, help readers learn how to think like programmers, and reinforce important concepts. Contains many Python-code and pseudo-code fragments, and hundreds of exercises, which are divided into roughly 40% reinforcement exercises, 40% creativity exercises, and 20% programming projects.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781118290279"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1118290275"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 768,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Mr59DwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Mr59DwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=Mr59DwAAQBAJ&pg=PP1&dq=datastructures&hl=&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=Mr59DwAAQBAJ&dq=datastructures&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Data_Structures_and_Algorithms_in_Python.html?hl=&id=Mr59DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Mr59DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "law2E-LPScIC",
+      "etag": "yl1bDi0+B28",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/law2E-LPScIC",
+      "volumeInfo": {
+        "title": "CLASSIC DATA STRUCTURES, 2nd ed.",
+        "subtitle": "",
+        "authors": [
+          "Samanta",
+          "Samanta Debasis"
+        ],
+        "publisher": "PHI Learning Pvt. Ltd.",
+        "publishedDate": "2008-12-01",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788120337312"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "812033731X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 940,
+        "printType": "BOOK",
+        "categories": [
+          "Computer algorithms"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=law2E-LPScIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=law2E-LPScIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=law2E-LPScIC&printsec=frontcover&dq=datastructures&hl=&cd=18&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=law2E-LPScIC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=law2E-LPScIC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 702.1,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 351.05,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=law2E-LPScIC&rdid=book-law2E-LPScIC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 702100000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 351050000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/CLASSIC_DATA_STRUCTURES_2nd_ed-sample-pdf.acsm?id=law2E-LPScIC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=law2E-LPScIC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book is the second edition of a text designed for undergraduate engineering courses in Data Structures."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Fkq2BpzRCVgC",
+      "etag": "sy5wEYh49os",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Fkq2BpzRCVgC",
+      "volumeInfo": {
+        "title": "Data Structures and Efficient Algorithms",
+        "subtitle": "Final Report on the DFG Special Joint Initiative",
+        "authors": [
+          "Burkhard Monien",
+          "Deutsche Forschungsgemeinschaft"
+        ],
+        "publisher": "Springer Science & Business Media",
+        "publishedDate": "1992-05-20",
+        "description": "Myocarditis and idiopathic dilated cardiomyopathy are being increasingly recognized as important causes of heart disease and heart failure. Immunological mechanisms have long been suspected as playing a role in thesediseases but direct evidence has been lacking. Recently, animal models have be- come available, in which myocarditis can be induced either by infection with cardiotropic viruses or by autoimmuniza- tion with heart-specific antigens. This book presents and analyzes the latest information obtained from experimental models, relating it to the practical problems of diagnosis and treatment of myocarditis.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "3540554882"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9783540554882"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 389,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.4.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Fkq2BpzRCVgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Fkq2BpzRCVgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=Fkq2BpzRCVgC&printsec=frontcover&dq=datastructures&hl=&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=Fkq2BpzRCVgC&dq=datastructures&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Data_Structures_and_Efficient_Algorithms.html?hl=&id=Fkq2BpzRCVgC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Data_Structures_and_Efficient_Algorithms-sample-pdf.acsm?id=Fkq2BpzRCVgC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Fkq2BpzRCVgC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book presents and analyzes the latest information obtained from experimental models, relating it to the practical problems of diagnosis and treatment of myocarditis."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "K3YzkgEACAAJ",
+      "etag": "zYXBedgVrF4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/K3YzkgEACAAJ",
+      "volumeInfo": {
+        "title": "Data Structures And Algorithms",
+        "authors": [
+          "Aho"
+        ],
+        "publishedDate": "1983",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8178081024"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788178081021"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 433,
+        "printType": "BOOK",
+        "categories": [
+          "Computer science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=K3YzkgEACAAJ&dq=datastructures&hl=&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=K3YzkgEACAAJ&dq=datastructures&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Data_Structures_And_Algorithms.html?hl=&id=K3YzkgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=K3YzkgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "iJY3qAAACAAJ",
+      "etag": "LfbhMpbhX/w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iJY3qAAACAAJ",
+      "volumeInfo": {
+        "title": "Data Structures and Algorithms Made Easy in Java",
+        "subtitle": "Data Structure and Algorithmic Puzzles, Second Edition",
+        "authors": [
+          "Narasimha Karumanchi"
+        ],
+        "publisher": "Createspace Independent Pub",
+        "publishedDate": "2011-12-16",
+        "description": "Peeling Data Structures and Algorithms for (Java, Second Edition): * Programming puzzles for interviews * Campus Preparation * Degree/Masters Course Preparation * Instructor's * GATE Preparation * Big job hunters: Microsoft, Google, Amazon, Yahoo, Flip Kart, Adobe, IBM Labs, Citrix, Mentor Graphics, NetApp, Oracle, Webaroo, De-Shaw, Success Factors, Face book, McAfee and many more * Reference Manual for working people",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1468101277"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781468101270"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 419,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=iJY3qAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=iJY3qAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=iJY3qAAACAAJ&dq=datastructures&hl=&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=iJY3qAAACAAJ&dq=datastructures&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Data_Structures_and_Algorithms_Made_Easy.html?hl=&id=iJY3qAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iJY3qAAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Peeling Data Structures and Algorithms for (Java, Second Edition): * Programming puzzles for interviews * Campus Preparation * Degree/Masters Course Preparation * Instructor&#39;s * GATE Preparation * Big job hunters: Microsoft, Google, Amazon, ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "e-GlaA7txB8C",
+      "etag": "gYlrPsw8/jk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/e-GlaA7txB8C",
+      "volumeInfo": {
+        "title": "Data Structures In C",
+        "publisher": "PHI Learning Pvt. Ltd.",
+        "publishedDate": "2009",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788120336421"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8120336429"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 281,
+        "printType": "BOOK",
+        "categories": [
+          "C (Computer program language)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=e-GlaA7txB8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=e-GlaA7txB8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=e-GlaA7txB8C&printsec=frontcover&dq=datastructures&hl=&cd=22&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=e-GlaA7txB8C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=e-GlaA7txB8C"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 295,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 140,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=e-GlaA7txB8C&rdid=book-e-GlaA7txB8C&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 295000000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 140000000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Data_Structures_In_C-sample-pdf.acsm?id=e-GlaA7txB8C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=e-GlaA7txB8C&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gJrdSueQjBEC",
+      "etag": "EjgAuLzWFJA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gJrdSueQjBEC",
+      "volumeInfo": {
+        "title": "Data Structures and Algorithms in C++",
+        "publisher": "Tata McGraw-Hill Education",
+        "publishedDate": "2010",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0070669104"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780070669109"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 360,
+        "printType": "BOOK",
+        "categories": [
+          "C++ (Computer program language)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gJrdSueQjBEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gJrdSueQjBEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=gJrdSueQjBEC&printsec=frontcover&dq=datastructures&hl=&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=gJrdSueQjBEC&dq=datastructures&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Data_Structures_and_Algorithms_in_C++.html?hl=&id=gJrdSueQjBEC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gJrdSueQjBEC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CYm3oQEACAAJ",
+      "etag": "4zoKk3E1y7w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CYm3oQEACAAJ",
+      "volumeInfo": {
+        "title": "Data Structures Using C",
+        "authors": [
+          "Reema Thareja"
+        ],
+        "publishedDate": "2014-07-11",
+        "description": "This second edition of Data Structures Using C has been developed to provide a comprehensive and consistent coverage of both the abstract concepts of data structures as well as the implementation of these concepts using C language. It begins with a thorough overview of the concepts of C programming followed by introduction of different data structures and methods to analyse the complexity of different algorithms. It then connects these concepts and applies them to the study of various data structures such as arrays, strings, linked lists, stacks, queues, trees, heaps, and graphs. The book utilizes a systematic approach wherein the design of each of the data structures is followed by algorithms of different operations that can be performed on them, and the analysis of these algorithms in terms of their running times. Each chapter includes a variety of end-chapter exercises in the form of MCQs with answers, review questions, and programming exercises to help readers testtheir knowledge.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0198099304"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780198099307"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 560,
+        "printType": "BOOK",
+        "categories": [
+          "C (Computer program language)"
+        ],
+        "averageRating": 1,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=CYm3oQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=CYm3oQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=CYm3oQEACAAJ&dq=datastructures&hl=&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=CYm3oQEACAAJ&dq=datastructures&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Data_Structures_Using_C.html?hl=&id=CYm3oQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CYm3oQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The second edition of Data Structures Using C is designed to serve as a textbook for undergraduate engineering students of computer science as well as postgraduate students of computer applications."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SxPzSTcTalAC",
+      "etag": "FqKcRD1DYOU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SxPzSTcTalAC",
+      "volumeInfo": {
+        "title": "Purely Functional Data Structures",
+        "authors": [
+          "Chris Okasaki"
+        ],
+        "publisher": "Cambridge University Press",
+        "publishedDate": "1999-06-13",
+        "description": "This book describes data structures and data structure design techniques for functional languages.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0521663504"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780521663502"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 220,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 5,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=SxPzSTcTalAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=SxPzSTcTalAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=SxPzSTcTalAC&printsec=frontcover&dq=datastructures&hl=&cd=25&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=SxPzSTcTalAC&dq=datastructures&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Purely_Functional_Data_Structures.html?hl=&id=SxPzSTcTalAC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SxPzSTcTalAC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book describes data structures and data structure design techniques for functional languages."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "k29pDQAAQBAJ",
+      "etag": "PAlC6obGLfo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/k29pDQAAQBAJ",
+      "volumeInfo": {
+        "title": "Data Structures and Algorithms",
+        "authors": [
+          "Shi Kuo Chang"
+        ],
+        "publisher": "World Scientific",
+        "publishedDate": "2003",
+        "description": "This is an excellent, up-to-date and easy-to-use text on data structures and algorithms that is intended for undergraduates in computer science and information science. The thirteen chapters, written by an international group of experienced teachers, cover the fundamental concepts of algorithms and most of the important data structures as well as the concept of interface design. The book contains many examples and diagrams. Whenever appropriate, program codes are included to facilitate learning.This book is supported by an international group of authors who are experts on data structures and algorithms, through its website at http: //www.cs.pitt.edu/ jung/GrowingBook/, so that both teachers and students can benefit from their expertise",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789812383488"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9812383484"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 347,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=k29pDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=k29pDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=k29pDQAAQBAJ&printsec=frontcover&dq=datastructures&hl=&cd=26&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=k29pDQAAQBAJ&dq=datastructures&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Data_Structures_and_Algorithms.html?hl=&id=k29pDQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=k29pDQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is an excellent, up-to-date and easy-to-use text on data structures and algorithms that is intended for undergraduates in computer science and information science."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VRaxY61mw5cC",
+      "etag": "NqI0gnGq+kg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VRaxY61mw5cC",
+      "volumeInfo": {
+        "title": "Data Structures and Algorithms Using C+",
+        "authors": [
+          "Akepogu Ananda Rao"
+        ],
+        "publisher": "Pearson Education India",
+        "publishedDate": "2010-09",
+        "description": "Data Structures and Algorithms Using C++ helps students to master data structures, their algorithms and the analysis of complexities of these algorithms. Each chapter includes an Abstract Data Type (ADT) and applications along with a detailed explanation of the topics. This book meets the requirements of the course curricula of all Indian universities.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8131755673"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788131755679"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 576,
+        "printType": "BOOK",
+        "categories": [
+          "Algorithms"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=VRaxY61mw5cC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=VRaxY61mw5cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=VRaxY61mw5cC&printsec=frontcover&dq=datastructures&hl=&cd=27&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=VRaxY61mw5cC&dq=datastructures&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Data_Structures_and_Algorithms_Using_C+.html?hl=&id=VRaxY61mw5cC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VRaxY61mw5cC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Each chapter includes an Abstract Data Type (ADT) and applications along with a detailed explanation of the topics. This book meets the requirements of the course curricula of all Indian universities."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qhaOxkQANEgC",
+      "etag": "RY92CT5n5MM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qhaOxkQANEgC",
+      "volumeInfo": {
+        "title": "Algorithms in a Nutshell",
+        "authors": [
+          "George T. Heineman",
+          "Gary Pollice",
+          "Stanley Selkow"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2008-10-14",
+        "description": "Creating robust software requires the use of efficient algorithms, but programmers seldom think about them until a problem occurs. Algorithms in a Nutshell describes a large number of existing algorithms for solving a variety of problems, and helps you select and implement the right algorithm for your needs -- with just enough math to let you understand and analyze algorithm performance. With its focus on application, rather than theory, this book provides efficient code solutions in several programming languages that you can easily adapt to a specific project. Each major algorithm is presented in the style of a design pattern that includes information to help you understand why and when the algorithm is appropriate. With this book, you will: Solve a particular coding problem or improve on the performance of an existing solution Quickly locate algorithms that relate to the problems you want to solve, and determine why a particular algorithm is the right one to use Get algorithmic solutions in C, C++, Java, and Ruby with implementation tips Learn the expected performance of an algorithm, and the conditions it needs to perform at its best Discover the impact that similar design decisions have on different algorithms Learn advanced data structures to improve the efficiency of algorithms With Algorithms in a Nutshell, you'll learn how to improve the performance of key algorithms essential for the success of your software applications.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781449391133"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1449391133"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 364,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 4,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.4.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qhaOxkQANEgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qhaOxkQANEgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=qhaOxkQANEgC&printsec=frontcover&dq=datastructures&hl=&cd=28&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=qhaOxkQANEgC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=qhaOxkQANEgC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2950,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 2950,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=qhaOxkQANEgC&rdid=book-qhaOxkQANEgC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2950000000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 2950000000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qhaOxkQANEgC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "With this book, you will: Solve a particular coding problem or improve on the performance of an existing solution Quickly locate algorithms that relate to the problems you want to solve, and determine why a particular algorithm is the right ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_UT1ZwEACAAJ",
+      "etag": "8rmAmNYgf4I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_UT1ZwEACAAJ",
+      "volumeInfo": {
+        "title": "Problem Solving with Algorithms and Data Structures Using Python",
+        "authors": [
+          "Bradley N. Miller",
+          "David L. Ranum"
+        ],
+        "publisher": "Franklin Beedle & Assoc",
+        "publishedDate": "2011",
+        "description": "THIS TEXTBOOK is about computer science. It is also about Python. However, there is much more. The study of algorithms and data structures is central to understanding what computer science is all about. Learning computer science is not unlike learning any other type of difficult subject matter. The only way to be successful is through deliberate and incremental exposure to the fundamental ideas. A beginning computer scientist needs practice so that there is a thorough understanding before continuing on to the more complex parts of the curriculum. In addition, a beginner needs to be given the opportunity to be successful and gain confidence. This textbook is designed to serve as a text for a first course on data structures and algorithms, typically taught as the second course in the computer science curriculum. Even though the second course is considered more advanced than the first course, this book assumes you are beginners at this level. You may still be struggling with some of the basic ideas and skills from a first computer science course and yet be ready to further explore the discipline and continue to practice problem solving. We cover abstract data types and data structures, writing algorithms, and solving problems. We look at a number of data structures and solve classic problems that arise. The tools and techniques that you learn here will be applied over and over as you continue your study of computer science.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1590282574"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781590282571"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 425,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_UT1ZwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_UT1ZwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=_UT1ZwEACAAJ&dq=datastructures&hl=&cd=29&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=_UT1ZwEACAAJ&dq=datastructures&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Problem_Solving_with_Algorithms_and_Data.html?hl=&id=_UT1ZwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_UT1ZwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Thes book has three key features : fundamental data structures and algorithms; algorithm analysis in terms of Big-O running time in introducied early and applied throught; pytohn is used to facilitates the success in using and mastering ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dg4CEAAAQBAJ",
+      "etag": "tMnnjc7KxpE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dg4CEAAAQBAJ",
+      "volumeInfo": {
+        "title": "A Common-Sense Guide to Data Structures and Algorithms, Second Edition",
+        "authors": [
+          "Jay Wengrow"
+        ],
+        "publisher": "Pragmatic Bookshelf",
+        "publishedDate": "2020-08-10",
+        "description": "Algorithms and data structures are much more than abstract concepts. Mastering them enables you to write code that runs faster and more efficiently, which is particularly important for todayâ€™s web and mobile apps. Take a practical approach to data structures and algorithms, with techniques and real-world scenarios that you can use in your daily production code, with examples in JavaScript, Python, and Ruby. This new and revised second edition features new chapters on recursion, dynamic programming, and using Big O in your daily work. Use Big O notation to measure and articulate the efficiency of your code, and modify your algorithm to make it faster. Find out how your choice of arrays, linked lists, and hash tables can dramatically affect the code you write. Use recursion to solve tricky problems and create algorithms that run exponentially faster than the alternatives. Dig into advanced data structures such as binary trees and graphs to help scale specialized applications such as social networks and mapping software. Youâ€™ll even encounter a single keyword that can give your code a turbo boost. Practice your new skills with exercises in every chapter, along with detailed solutions. Use these techniques today to make your code faster and more scalable.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781680508055"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1680508059"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 508,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dg4CEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dg4CEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=dg4CEAAAQBAJ&printsec=frontcover&dq=datastructures&hl=&cd=30&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=dg4CEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=dg4CEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2950,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 2950,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=dg4CEAAAQBAJ&rdid=book-dg4CEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2950000000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 2950000000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/A_Common_Sense_Guide_to_Data_Structures-sample-epub.acsm?id=dg4CEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/A_Common_Sense_Guide_to_Data_Structures-sample-pdf.acsm?id=dg4CEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dg4CEAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Algorithms and data structures are much more than abstract concepts."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XJ03PQAACAAJ",
+      "etag": "E4r84vJPu2w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XJ03PQAACAAJ",
+      "volumeInfo": {
+        "title": "Data Structures Through C In Depth",
+        "authors": [
+          "Suresh Kumar Srivastava",
+          "Deepali Srivastava"
+        ],
+        "publishedDate": "2004-05-01",
+        "description": "This book is written in very simple manner and is very easy to understand. It describes the theory with examples step by step. It contains the description of writing these steps in programs in very easy and understandable manner. The book gives full understanding of each therotical topic and easy implementaion in programming. This book will help the students in Self-Learning of Data structures and in understanding how these concepts are implemented in programs. This book is useful for any level of students. It covers the syllabus of B.E. ,B.Tech, DOEACC Society, IGNOU.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8176567418"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788176567411"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 454,
+        "printType": "BOOK",
+        "categories": [
+          "C (Computer program language)"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 9,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XJ03PQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XJ03PQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=XJ03PQAACAAJ&dq=datastructures&hl=&cd=31&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=XJ03PQAACAAJ&dq=datastructures&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Data_Structures_Through_C_In_Depth.html?hl=&id=XJ03PQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XJ03PQAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book will help the students in Self-Learning of Data structures and in understanding how these concepts are implemented in programs. This book is useful for any level of students."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "K_aEDwAAQBAJ",
+      "etag": "B13ycMDbb94",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/K_aEDwAAQBAJ",
+      "volumeInfo": {
+        "title": "JavaScript Data Structures and Algorithms",
+        "subtitle": "An Introduction to Understanding and Implementing Core Data Structure and Algorithm Fundamentals",
+        "authors": [
+          "Sammie Bae"
+        ],
+        "publisher": "Apress",
+        "publishedDate": "2019-01-23",
+        "description": "Explore data structures and algorithm concepts and their relation to everyday JavaScript development. A basic understanding of these ideas is essential to any JavaScript developer wishing to analyze and build great software solutions. You'll discover how to implement data structures such as hash tables, linked lists, stacks, queues, trees, and graphs. You'll also learn how a URL shortener, such as bit.ly, is developed and what is happening to the data as a PDF is uploaded to a webpage. This book covers the practical applications of data structures and algorithms to encryption, searching, sorting, and pattern matching. It is crucial for JavaScript developers to understand how data structures work and how to design algorithms. This book and the accompanying code provide that essential foundation for doing so. With JavaScript Data Structures and Algorithms you can start developing your knowledge and applying it to your JavaScript projects today. What You'll Learn Review core data structure fundamentals: arrays, linked-lists, trees, heaps, graphs, and hash-tableReview core algorithm fundamentals: search, sort, recursion, breadth/depth first search, dynamic programming, bitwise operators Examine how the core data structure and algorithms knowledge fits into context of JavaScript explained using prototypical inheritance and native JavaScript objects/data types Take a high-level look at commonly used design patterns in JavaScript Who This Book Is For Existing web developers and software engineers seeking to develop or revisit their fundamental data structures knowledge; beginners and students studying JavaScript independently or via a course or coding bootcamp.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781484239889"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1484239881"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 357,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=K_aEDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=K_aEDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=K_aEDwAAQBAJ&printsec=frontcover&dq=datastructures&hl=&cd=32&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=K_aEDwAAQBAJ&dq=datastructures&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/JavaScript_Data_Structures_and_Algorithm.html?hl=&id=K_aEDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/JavaScript_Data_Structures_and_Algorithm-sample-epub.acsm?id=K_aEDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/JavaScript_Data_Structures_and_Algorithm-sample-pdf.acsm?id=K_aEDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=K_aEDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book and the accompanying code provide that essential foundation for doing so. With JavaScript Data Structures and Algorithms you can start developing your knowledge and applying it to your JavaScript projects today."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HdlQAAAAMAAJ",
+      "etag": "0MeT8wEhee0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HdlQAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Data Structures",
+        "authors": [
+          "Edward M. Reingold",
+          "Wilfred J. Hansen"
+        ],
+        "publishedDate": "1983",
+        "description": "Data structures are central to computer science, and in particular to programming. In the analytic areas, appropriate data structures have been the key to advances in the design of algorithms. Once appropriate data structures are carefully defined, all that remains is routine coding. A comprehensive understanding of data structure techniques is essential in the design of algorithms and programs. This text presents a carefully chosen fraction of available material, but supplement it with a wide variety of exercises. No single book can discuss all known data structures or algorithms. This text presents the art of designing data structures, preparing the student to devise special-purpose structures for specific problems as they present themselves.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015006418647"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 450,
+        "printType": "BOOK",
+        "categories": [
+          "Data structures (Computer science)."
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HdlQAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HdlQAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=HdlQAAAAMAAJ&q=datastructures&dq=datastructures&hl=&cd=33&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=HdlQAAAAMAAJ&dq=datastructures&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Data_Structures.html?hl=&id=HdlQAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HdlQAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "No single book can discuss all known data structures or algorithms. This text presents the art of designing data structures, preparing the student to devise special-purpose structures for specific problems as they present themselves."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "iH-dswEACAAJ",
+      "etag": "+gnbxRR4Y6E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iH-dswEACAAJ",
+      "volumeInfo": {
+        "title": "Data Structures and Algorithms Made Easy",
+        "authors": [
+          "Narasimha Karumanchi"
+        ],
+        "publisher": "CreateSpace",
+        "publishedDate": "2011-03",
+        "description": "Product DescriptionSuccess key books for: Programming puzzles for interviews Campus Preparation Degree/Masters Course Preparation Instructor's GATE Preparation Big job hunters: Microsoft, Google, Amazon, Yahoo, Flip Kart, Adobe, IBM Labs, Citrix, Mentor Graphics, NetApp, Oracle, Webaroo, De-Shaw, Success Factors, Face book, McAfee and many more Reference Manual for working peopleFrom the AuthorWhat is unique? Main objective is not to give you the theorems and proofs about DS and Algorithms. I have followed a pattern of improving the problem solutions with different complexities (for each problem, you observe multiple solutions with different improved complexities). Basically, its an enumeration of possible solutions. With this approach, even if we get a new question it gives us a way to think about all possible solutions. Target Audience? These books are very much useful for interview preparation, GATE preparation, campus preparations. Specially for GATE, I included some extra chapters. Language? All code was written in C. I am planning to release the same in Java and as of now there is no time bound for this :) All the above details can also be seen at: CareerMonk.com Note: Before taking decision, I strongly recommend you to go through the sample chapters provided in site. That gives you an idea about the pattern of problems in the book. If you feel this will help others, please spread this mail. The main objective of this book is to make people aware of importance of data structures and algorithms. As a job seeker if you read the referenced books completely with good understanding, I am sure you will challenge the interviewers and that is the main objective.If you read as an instructor, you will give better lectures with easy go approach and a result your students will feel proud for selecting Computer Science/Information Technology as their degree.These books are very much useful for the students of Engineering and Masters during their academic preparations. All the chapters of this book contain theory and their related problems as many as possible. There are a total of approximately 700+ algorithmic problems and all of them are with solutions.And finally if you read as a student preparing for competition exams [like Graduate Aptitude Test for Engineering, DRDO or any other exam for Computer Science/Information Technology], then the content of this book covers all the required topics in full detail. While writing the book, an intense care has been taken to ensure that the content should help students who are preparing for these kinds of exams.In all the chapters you will see more importance given to problems and analyzing them instead of concentrating more on theory. For each chapter, first you will see the basic required theory and then problems.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "145654988X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781456549886"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 535,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=iH-dswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=iH-dswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=iH-dswEACAAJ&dq=datastructures&hl=&cd=34&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=iH-dswEACAAJ&dq=datastructures&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Data_Structures_and_Algorithms_Made_Easy.html?hl=&id=iH-dswEACAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iH-dswEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "All code written in C Data structure and algorithmic puzzles to improve thinking Enumeration of possible solutions for each problem Covers all topics for competitive exams Covers interview questions on data structures and algorithms ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "em9zz76i8C0C",
+      "etag": "51fKtABfzvc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/em9zz76i8C0C",
+      "volumeInfo": {
+        "title": "An Intro To Data Stru 2E",
+        "authors": [
+          "Tremblay"
+        ],
+        "publisher": "Tata McGraw-Hill Education",
+        "publishedDate": "2001",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0074624717"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780074624715"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 861,
+        "printType": "BOOK",
+        "averageRating": 5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.3.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=em9zz76i8C0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=em9zz76i8C0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=em9zz76i8C0C&printsec=frontcover&dq=datastructures&hl=&cd=35&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=em9zz76i8C0C&dq=datastructures&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/An_Intro_To_Data_Stru_2E.html?hl=&id=em9zz76i8C0C"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=em9zz76i8C0C&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "aQzboQEACAAJ",
+      "etag": "wijOKChrM/Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aQzboQEACAAJ",
+      "volumeInfo": {
+        "title": "Data Structures and Algorithms with Python",
+        "authors": [
+          "Kent D. Lee",
+          "Steve Hubbard"
+        ],
+        "publisher": "Springer",
+        "publishedDate": "2015-01-22",
+        "description": "This textbook explains the concepts and techniques required to write programs that can handle large amounts of data efficiently. Project-oriented and classroom-tested, the book presents a number of important algorithms supported by examples that bring meaning to the problems faced by computer programmers. The idea of computational complexity is also introduced, demonstrating what can and cannot be computed efficiently so that the programmer can make informed judgements about the algorithms they use. Features: includes both introductory and advanced data structures and algorithms topics, with suggested chapter sequences for those respective courses provided in the preface; provides learning goals, review questions and programming exercises in each chapter, as well as numerous illustrative examples; offers downloadable programs and supplementary files at an associated website, with instructor materials available from the author; presents a primer on Python for those from a different language background.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "3319130714"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9783319130712"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 363,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=aQzboQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=aQzboQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=aQzboQEACAAJ&dq=datastructures&hl=&cd=36&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=aQzboQEACAAJ&dq=datastructures&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Data_Structures_and_Algorithms_with_Pyth.html?hl=&id=aQzboQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aQzboQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book is also suitable as a refresher guide for computer programmers starting new jobs working with Python."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "O6FQAAAAMAAJ",
+      "etag": "hfsCfw0k9to",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/O6FQAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Algorithms + Data Structures",
+        "authors": [
+          "Niklaus Wirth"
+        ],
+        "publisher": "Prentice Hall",
+        "publishedDate": "1976",
+        "description": "Fundamental data structures; Sorting; Recursive algorithms; Dynamic information structures; Language structures and compilers.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015023837928"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 366,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 9,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=O6FQAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=O6FQAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=O6FQAAAAMAAJ&q=datastructures&dq=datastructures&hl=&cd=37&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=O6FQAAAAMAAJ&dq=datastructures&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Algorithms_+_Data_Structures.html?hl=&id=O6FQAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=O6FQAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Fundamental data structures; Sorting; Recursive algorithms; Dynamic information structures; Language structures and compilers."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wvQJzgEACAAJ",
+      "etag": "vnu3/e6k5wM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wvQJzgEACAAJ",
+      "volumeInfo": {
+        "title": "Data Structures and Algorithms in C++",
+        "authors": [
+          "Adam Drozdek"
+        ],
+        "publisher": "Cengage Learning",
+        "publishedDate": "2012-08-27",
+        "description": "Strengthen your understanding of data structures and their algorithms for the foundation you need to successfully design, implement and maintain virtually any software system. Theoretical, yet practical, DATA STRUCUTRES AND ALGORITHMS IN C++, 4E by experienced author Adam Drosdek highlights the fundamental connection between data structures and their algorithms, giving equal weight to the practical implementation of data structures and the theoretical analysis of algorithms and their efficiency. This edition provides critical new coverage of treaps, k-d trees and k-d B-trees, generational garbage collection, and other advanced topics such as sorting methods and a new hashing technique. Abundant C++ code examples and a variety of case studies provide valuable insights into data structures implementation. DATA STRUCTURES AND ALGORITHMS IN C++ provides the balance of theory and practice to prepare readers for a variety of applications in a modern, object-oriented paradigm. Important Notice: Media content referenced within the product description or the product text may not be available in the ebook version.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1133608426"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781133608424"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 784,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wvQJzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wvQJzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=wvQJzgEACAAJ&dq=datastructures&hl=&cd=38&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=wvQJzgEACAAJ&dq=datastructures&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Data_Structures_and_Algorithms_in_C++.html?hl=&id=wvQJzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wvQJzgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This edition provides critical new coverage of treaps, k-d trees and k-d B-trees, generational garbage collection, and other advanced topics such as sorting methods and a new hashing technique."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WnkGEAAAQBAJ",
+      "etag": "jM+oT/kC7x8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WnkGEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Algorithms and Data Structures",
+        "subtitle": "Foundations and Probabilistic Methods for Design and Analysis",
+        "authors": [
+          "Helmut Knebl"
+        ],
+        "publisher": "Springer Nature",
+        "publishedDate": "2020-10-31",
+        "description": "This is a central topic in any computer science curriculum. To distinguish this textbook from others, the author considers probabilistic methods as being fundamental for the construction of simple and efficient algorithms, and in each chapter at least one problem is solved using a randomized algorithm. Data structures are discussed to the extent needed for the implementation of the algorithms. The specific algorithms examined were chosen because of their wide field of application. This book originates from lectures for undergraduate and graduate students. The text assumes experience in programming algorithms, especially with elementary data structures such as chained lists, queues, and stacks. It also assumes familiarity with mathematical methods, although the author summarizes some basic notations and results from probability theory and related mathematical terminology in the appendices. He includes many examples to explain the individual steps of the algorithms, and he concludes each chapter with numerous exercises.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783030597580"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "303059758X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 349,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WnkGEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WnkGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=WnkGEAAAQBAJ&pg=PP1&dq=datastructures&hl=&cd=39&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=WnkGEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=WnkGEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 4200.8,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 4200.8,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=WnkGEAAAQBAJ&rdid=book-WnkGEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 4200800000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 4200800000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Algorithms_and_Data_Structures-sample-pdf.acsm?id=WnkGEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WnkGEAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book originates from lectures for undergraduate and graduate students. The text assumes experience in programming algorithms, especially with elementary data structures such as chained lists, queues, and stacks."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "i9u8_gHfh4gC",
+      "etag": "MiiryKYxp4M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/i9u8_gHfh4gC",
+      "volumeInfo": {
+        "title": "Data Structures Using C",
+        "authors": [
+          "R. Krishnamoorthy"
+        ],
+        "publisher": "Tata McGraw-Hill Education",
+        "publishedDate": "2008",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0070669198"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780070669192"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 604,
+        "printType": "BOOK",
+        "categories": [
+          "C (Computer program language)"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=i9u8_gHfh4gC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=i9u8_gHfh4gC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=i9u8_gHfh4gC&printsec=frontcover&dq=datastructures&hl=&cd=40&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=i9u8_gHfh4gC&dq=datastructures&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Data_Structures_Using_C.html?hl=&id=i9u8_gHfh4gC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=i9u8_gHfh4gC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

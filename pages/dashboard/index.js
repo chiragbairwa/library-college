@@ -1,7 +1,15 @@
+import Link from 'next/link'
 import Footer from '../footer'
 import Image from 'next/image'
-import Link from 'next/link'
+// import { useEffect, useState } from 'react'
 import { useAuth } from '../../firebase/authContext'
+
+// JSON
+import cpp from '../../books/cpp.json'
+import dbms from '../../books/dbms.json'
+import java from '../../books/java.json'
+import js from '../../books/javascript.json'
+import web from '../../books/webprog.json'
 
 function Dashboard() {
   const { user, logout } = useAuth()
@@ -33,40 +41,30 @@ function Dashboard() {
       <main className="dashboard-main">
         {/* New Books */}
         <div className="dashboard-title">
-          <h2>New Arrivals</h2>
-          <Link href="/collection">
+          <h2>Web Programming</h2>
+          <Link href="/dashboard">
             <a>view all {'>'}</a>
           </Link>
         </div>
         <div className="dashboard-new-arrivals">
-          <BookImage></BookImage>
-          <BookImage></BookImage>
-          <BookImage></BookImage>
-          <BookImage></BookImage>
+          <BookObject data={web.items[0]} />
+          <BookObject data={web.items[1]} />
+          <BookObject data={web.items[2]} />
+          <BookObject data={web.items[3]} />
+          <BookObject data={web.items[4]} />
         </div>
 
         {/* Books By Stream */}
         <div className="dashboard-title">
-          <h2>Books by Streams</h2>
+          <h2>Java</h2>
           <a href="#">view all {'>'}</a>
         </div>
         <div className="dashboard-stream">
-          <BookImage></BookImage>
-          <BookImage></BookImage>
-          <BookImage></BookImage>
-          <BookImage></BookImage>
-        </div>
-
-        {/* Books By Stream */}
-        <div className="dashboard-title">
-          <h2>Books by Streams</h2>
-          <a href="#">view all {'>'}</a>
-        </div>
-        <div className="dashboard-stream">
-          <BookImage></BookImage>
-          <BookImage></BookImage>
-          <BookImage></BookImage>
-          <BookImage></BookImage>
+          <BookObject data={cpp.items[0]} />
+          <BookObject data={cpp.items[1]} />
+          <BookObject data={cpp.items[2]} />
+          <BookObject data={cpp.items[3]} />
+          <BookObject data={cpp.items[4]} />
         </div>
       </main>
 
@@ -76,15 +74,26 @@ function Dashboard() {
   )
 }
 
-const BookImage = () => {
+const BookObject = (props) => {
+  const image = props.data.volumeInfo.imageLinks.thumbnail
+  const title = props.data.volumeInfo.title
+  const author = props.data.volumeInfo.author
+  const publisher = props.data.volumeInfo.publisher
+  const ISBN_13_10 = props.data.volumeInfo.industryIdentifiers
+
   return (
     <Link href="/collection/book">
       <a>
-        <div className="feature-books-card">
-          {/* <Image src="/vercel.svg" width="300px" height="250px" /> */}
-          <div></div>
-          <p>Book Name</p>
-          {/* <p>Author Name</p> */}
+        <div className="dashboard-books-card">
+          <Image
+            loader={() => image}
+            src={image}
+            width="160px"
+            height="190px"
+            unoptimized
+          />
+
+          <p>{title}</p>
         </div>
       </a>
     </Link>

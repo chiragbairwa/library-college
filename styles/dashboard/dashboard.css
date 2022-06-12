@@ -27,12 +27,24 @@
   display: flex;
   overflow-x: scroll;
 }
-
 .dashboard-books-card {
-  height: fit-content;
-  margin-right: 8px;
+  width: 160px;
+  height: 260px;
+
+  display: grid;
+  place-items: center;
+  grid-template-rows: 75% 25%;
+
+  text-align: center;
+  margin-right: 16px;
+  overflow: hidden;
   border-radius: 16px;
-  background-color: aquamarine;
+  background-color: gainsboro;
+}
+
+.dashboard-books-card > p {
+  padding: 2px 4px;
+  font-weight: 500;
 }
 
 .dashboard-stream {

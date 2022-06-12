@@ -1,0 +1,3086 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 2455,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "aGjaBTbT0o0C",
+      "etag": "ko8JNF52rhI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aGjaBTbT0o0C",
+      "volumeInfo": {
+        "title": "HTML and CSS",
+        "subtitle": "Design and Build Websites",
+        "authors": [
+          "Jon Duckett"
+        ],
+        "publisher": "John Wiley & Sons",
+        "publishedDate": "2011-11-08",
+        "description": "A full-color introduction to the basics of HTML and CSS from the publishers of Wrox! Every day, more and more people want to learn some HTML and CSS. Joining the professional web designers and programmers are new audiences who need to know a little bit of code at work (update a content management system or e-commerce store) and those who want to make their personal blogs more attractive. Many books teaching HTML and CSS are dry and only written for those who want to become programmers, which is why this book takes an entirely new approach. Introduces HTML and CSS in a way that makes them accessible to everyone—hobbyists, students, and professionals—and it’s full-color throughout Utilizes information graphics and lifestyle photography to explain the topics in a simple way that is engaging Boasts a unique structure that allows you to progress through the chapters from beginning to end or just dip into topics of particular interest at your leisure This educational book is one that you will enjoy picking up, reading, then referring back to. It will make you wish other technical topics were presented in such a simple, attractive and engaging way! This book is also available as part of a set in hardcover - Web Design with HTML, CSS, JavaScript and jQuery, 9781119038634; and in softcover - Web Design with HTML, CSS, JavaScript and jQuery, 9781118907443.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781118008188"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1118008189"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 512,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 9,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=aGjaBTbT0o0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=aGjaBTbT0o0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=aGjaBTbT0o0C&pg=PP1&dq=html&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=aGjaBTbT0o0C&dq=html&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/HTML_and_CSS.html?hl=&id=aGjaBTbT0o0C"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aGjaBTbT0o0C&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Many books teaching HTML and CSS are dry and only written for those who want to become programmers, which is why this book takes an entirely new approach."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BZIYQtV6yKsC",
+      "etag": "x866Q0bo9Ek",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BZIYQtV6yKsC",
+      "volumeInfo": {
+        "title": "Head First HTML and CSS",
+        "authors": [
+          "Elisabeth Robson",
+          "Eric Freeman"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2012",
+        "description": "Presents information on creating Web pages using HTML and CSS.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780596159900"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0596159900"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 723,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 8,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.1.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=BZIYQtV6yKsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=BZIYQtV6yKsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=BZIYQtV6yKsC&printsec=frontcover&dq=html&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=BZIYQtV6yKsC&dq=html&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Head_First_HTML_and_CSS.html?hl=&id=BZIYQtV6yKsC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BZIYQtV6yKsC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Presents information on creating Web pages using HTML and CSS."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RdrG1aJZ4lgC",
+      "etag": "MoNkRLEnDQU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RdrG1aJZ4lgC",
+      "volumeInfo": {
+        "title": "HTML & XHTML: The Definitive Guide",
+        "subtitle": "The Definitive Guide",
+        "authors": [
+          "Chuck Musciano",
+          "Bill Kennedy"
+        ],
+        "publisher": "O'Reilly Media",
+        "publishedDate": "2006-10-08",
+        "description": "\"...lucid, in-depth descriptions of the behavior of every HTML tag on every major browser and platform, plus enough dry humor to make the book a pleasure to read.\" --Edward Mendelson, PC Magazine \"When they say 'definitive' they're not kidding.\" --Linda Roeder, About.com Put everthing you need to know about HTML & XHTML at your fingertips. For nearly a decade, hundreds of thousands of web developers have turned to HTML & XHTML: The Definitive Guide to master standards-based web development. Truly a definitive guide, the book combines a unique balance of tutorial material with a comprehensive reference that even the most experienced web professionals keep close at hand. From basic syntax and semantics to guidelines aimed at helping you develop your own distinctive style, this classic is all you need to become fluent in the language of web design. The new sixth edition guides you through every element of HTML and XHTML in detail, explaining how each element works and how it interacts with other elements. You'll also find detailed discussions of CSS (Cascading Style Sheets), which is intricately related to web page development. The most all-inclusive, up-to-date book on these languages available, this edition covers HTML 4.01, XHTML 1.0, and CSS2, with a preview of the upcoming XHTML2 and CSS3. Other topics include the newer initiatives in XHTML (XForms, XFrames, and modularization) and the essentials of XML for advanced readers. You'll learn how to: Use style sheets to control your document's appearance Work with programmatically generated HTML Create tables, both simple and complex Use frames to coordinate sets of documents Design and build interactive forms and dynamic documents Insert images, sound files, video, Java applets, and JavaScript programs Create documents that look good on a variety of browsers The authors apply a natural learning approach that uses straightforward language and plenty of examples. Throughout the book, they offer suggestions for style and composition to help you decide how to best use HTML and XHTML to accomplish a variety of tasks. You'll learn what works and what doesn't, and what makes sense to those who view your web pages and what might be confusing. Written for anyone who wants to learn the language of the Web--from casual users to the full-time design professionals--this is the single most important book on HTML and XHTML you can own. Bill Kennedy is chief technical officer of MobileRobots, Inc. When not hacking new HTML pages or writing about them, \"Dr. Bill\" (Ph.D. in biophysics from Loyola University of Chicago) is out promoting the company's line of mobile, autonomous robots that can be used for artificial intelligence, fuzzy logic research, and education. Chuck Musciano began his career as a compiler writer and crafter of tools at Harris Corporations' Advanced Technology Group and is now a manager of Unix Systems in Harris' Corporate Data Center.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0596527322"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780596527327"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 678,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 6,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.1.0.0.preview.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RdrG1aJZ4lgC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RdrG1aJZ4lgC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=RdrG1aJZ4lgC&dq=html&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=RdrG1aJZ4lgC&dq=html&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/HTML_XHTML_The_Definitive_Guide.html?hl=&id=RdrG1aJZ4lgC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RdrG1aJZ4lgC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The most all-inclusive, up-to-date book on these languages available, this edition covers HTML 4.01, XHTML 1.0, and CSS2, with a preview of the upcoming XHTML2 and CSS3."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WVbajgEACAAJ",
+      "etag": "1BGgrmHakcE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WVbajgEACAAJ",
+      "volumeInfo": {
+        "title": "HTML and CSS",
+        "subtitle": "Design and Build Websites",
+        "authors": [
+          "Jon Duckett"
+        ],
+        "publisher": "Wiley",
+        "publishedDate": "2014-04-21",
+        "description": "A full-color introduction to the basics of HTML and CSS from the publishers of Wrox! Every day, more and more people want to learn some HTML and CSS. Joining the professional web designers and programmers are new audiences who need to know a little bit of code at work (update a content management system or e-commerce store) and those who want to make their personal blogs more attractive. Many books teaching HTML and CSS are dry and only written for those who want to become programmers, which is why this book takes an entirely new approach. Introduces HTML and CSS in a way that makes them accessible to everyone—hobbyists, students, and professionals—and it’s full-color throughout Utilizes information graphics and lifestyle photography to explain the topics in a simple way that is engaging Boasts a unique structure that allows you to progress through the chapters from beginning to end or just dip into topics of particular interest at your leisure This educational book is one that you will enjoy picking up, reading, then referring back to. It will make you wish other technical topics were presented in such a simple, attractive and engaging way! This book is also available as part of a set in hardcover - Web Design with HTML, CSS, JavaScript and jQuery, 9781119038634; and in softcover - Web Design with HTML, CSS, JavaScript and jQuery, 9781118907443.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1118871642"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781118871645"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 512,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WVbajgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WVbajgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=WVbajgEACAAJ&dq=html&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=WVbajgEACAAJ&dq=html&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/HTML_and_CSS.html?hl=&id=WVbajgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WVbajgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Many books teaching HTML and CSS are dry and only written for those who want to become programmers, which is why this book takes an entirely new approach."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PNFpAwAAQBAJ",
+      "etag": "GDcOAu85cg8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PNFpAwAAQBAJ",
+      "volumeInfo": {
+        "title": "Learn to Code HTML and CSS",
+        "subtitle": "Develop and Style Websites",
+        "authors": [
+          "Shay Howe"
+        ],
+        "publisher": "New Riders",
+        "publishedDate": "2014-04-22",
+        "description": "HTML and CSS can be a little daunting at first but fear not. This book, based on Shay Howe's popular workshop covers the basics and breaks down the barrier to entry, showing readers how they can start using HTML and CSS through practical techniques today. They'll find accompanying code examples online, while they explore topics such as the different structures of HTML and CSS, and common terms. After establishing a basic understanding of HTML and CSS a deeper dive is taken into the box model and how to work with floats. The book includes an exercise focused on cleaning up a web page by improving the user interface and design, solely using HTML and CSS. With a few quick changes the web page changes shape and comes to life. Interactive, technically up-to-the-minute and easy-to-understand, this book will advance a student's skills to a professional level.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780133477573"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0133477576"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 304,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=PNFpAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=PNFpAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=PNFpAwAAQBAJ&printsec=frontcover&dq=html&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=PNFpAwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=PNFpAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1270.19,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 635.1,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=PNFpAwAAQBAJ&rdid=book-PNFpAwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1270190000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 635100000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PNFpAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book, based on Shay Howe&#39;s popular workshop covers the basics and breaks down the barrier to entry, showing readers how they can start using HTML and CSS through practical techniques today."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WbQ-AAAAQBAJ",
+      "etag": "th1WoTFTres",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WbQ-AAAAQBAJ",
+      "volumeInfo": {
+        "title": "HTML and CSS",
+        "subtitle": "Visual QuickStart Guide",
+        "authors": [
+          "Elizabeth Castro",
+          "Bruce Hyslop"
+        ],
+        "publisher": "Peachpit Press",
+        "publishedDate": "2013-08-06",
+        "description": "Need to learn HTML and CSS fast? This best-selling reference's visual format and step-by-step, task-based instructions will have you up and running with HTML in no time. In this updated edition author Bruce Hyslop uses crystal-clear instructions and friendly prose to introduce you to all of today's HTML and CSS essentials. The book has been refreshed to feature current web design best practices. You'll learn how to design, structure, and format your website. You'll learn about the new elements and form input types in HTML5. You'll create and use images, links, styles, and forms; and you'll add video, audio, and other multimedia to your site. You'll learn how to add visual effects with CSS3. You'll understand web standards and learn from code examples that reflect today's best practices. Finally, you will test and debug your site, and publish it to the web. Throughout the book, the author covers all of HTML and offers essential coverage of HTML5 and CSS techniques.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780133438895"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0133438899"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 576,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.4.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WbQ-AAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WbQ-AAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=WbQ-AAAAQBAJ&printsec=frontcover&dq=html&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=WbQ-AAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=WbQ-AAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1678.8,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 1678.8,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=WbQ-AAAAQBAJ&rdid=book-WbQ-AAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1678800000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 1678800000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WbQ-AAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In this updated edition author Bruce Hyslop uses crystal-clear instructions and friendly prose to introduce you to all of today&#39;s HTML and CSS essentials. The book has been refreshed to feature current web design best practices."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QwnWLMtXU7cC",
+      "etag": "EAnxF1rn7Oc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QwnWLMtXU7cC",
+      "volumeInfo": {
+        "title": "Beginning HTML and CSS",
+        "authors": [
+          "Rob Larsen"
+        ],
+        "publisher": "John Wiley & Sons",
+        "publishedDate": "2013-03-08",
+        "description": "Everything you need to build websites with the newestversions of HTML and CSS If you develop websites, you know that the goal posts keepmoving, especially now that your website must work on not onlytraditional desktops, but also on an ever-changing range ofsmartphones and tablets. This step-by-step book efficiently guidesyou through the thicket. Teaching you the very latest bestpractices and techniques, this practical reference walks youthrough how to use HTML5 and CSS3 to develop attractive, modernwebsites for today's multiple devices. From handling text, forms,and video, to implementing powerful JavaScript functionality, thisbook covers it all. Serves as the ultimate beginners guide for anyone who wants tobuild websites with HTML5 and CSS3, whether as a hobbyist oraspiring professional developer Covers the basics, including the different versions of HTML andCSS and how modern websites use structure and semantics to describetheir contents Explains core processes, such as marking up text, images,lists, tables, forms, audio, and video Delves into CSS3, teaching you how to control or change the wayyour pages look and offer tips on how to create attractivedesigns Explores the jQuery library and how to implement powerfulJavaScript features, such as tabbed content, image carousels, andmore Get up to speed on HTML5, CSS3, and today's website design withthis practical guide. Then, keep it on your desk as areference!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781118416518"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1118416511"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 672,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QwnWLMtXU7cC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QwnWLMtXU7cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=QwnWLMtXU7cC&printsec=frontcover&dq=html&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=QwnWLMtXU7cC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=QwnWLMtXU7cC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 706.82,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 353.41,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=QwnWLMtXU7cC&rdid=book-QwnWLMtXU7cC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 706820000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 353410000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Beginning_HTML_and_CSS-sample-epub.acsm?id=QwnWLMtXU7cC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Beginning_HTML_and_CSS-sample-pdf.acsm?id=QwnWLMtXU7cC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QwnWLMtXU7cC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Beginning HTML and CSS: Covers different versions of HTML and CSS, including the latest: HTML5 and CSS3 Gets you started programming with JavaScript® and explains how to implement JavaScript features, such as tabbed content, form ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Z1QJvbMNbyAC",
+      "etag": "h+f7dAvbVoY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Z1QJvbMNbyAC",
+      "volumeInfo": {
+        "title": "HTML and CSS: the Complete Reference, Fifth Edition",
+        "authors": [
+          "Powell"
+        ],
+        "publisher": "Tata McGraw-Hill Education",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0070701946"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780070701946"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Z1QJvbMNbyAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Z1QJvbMNbyAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=Z1QJvbMNbyAC&printsec=frontcover&dq=html&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=Z1QJvbMNbyAC&dq=html&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/HTML_and_CSS_the_Complete_Reference_Fift.html?hl=&id=Z1QJvbMNbyAC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Z1QJvbMNbyAC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2w7_BOl1eL8C",
+      "etag": "LOcCAg77WjY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2w7_BOl1eL8C",
+      "volumeInfo": {
+        "title": "HTML & CSS: The Complete Reference, Fifth Edition",
+        "authors": [
+          "Thomas Powell"
+        ],
+        "publisher": "McGraw Hill Professional",
+        "publishedDate": "2010-01-08",
+        "description": "The Definitive Guide to HTML & CSS--Fully Updated Written by a Web development expert, the fifth edition of this trusted resource has been thoroughly revised and reorganized to address HTML5, the revolutionary new Web standard. The book covers all the elements supported in today's Web browsers--from the standard (X)HTML tags to the archaic and proprietary tags that may be encountered. HTML & CSS: The Complete Reference, Fifth Edition contains full details on CSS 2.1 as well as every proprietary and emerging CSS3 property currently supported. Annotated examples of correct markup and style show you how to use all of these technologies to build impressive Web pages. Helpful appendixes cover the syntax of character entities, fonts, colors, and URLs. This comprehensive reference is an essential tool for professional Web developers. Master transitional HTML 4.01 and XHTML 1.0 markup Write emerging standards-based markup with HTML5 Enhance presentation with Cascading Style Sheets (CSS1 and CSS 2.1) Learn proprietary and emerging CSS3 features Learn how to read (X)HTML document type definitions (DTDs) Apply everything in an open standards-focused fashion Thomas A. Powell is president of PINT, Inc. (pint.com), a nationally recognized Web agency. He developed the Web Publishing Certificate program for the University of California, San Diego Extension and is an instructor for the Computer Science Department at UCSD. He is the author of the previous bestselling editions of this book and Ajax: The Complete Reference, and co-author of JavaScript: The Complete Reference.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0071741704"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780071741705"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 856,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.16.8.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2w7_BOl1eL8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2w7_BOl1eL8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=2w7_BOl1eL8C&printsec=frontcover&dq=html&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=2w7_BOl1eL8C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=2w7_BOl1eL8C"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3621.94,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 3621.94,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=2w7_BOl1eL8C&rdid=book-2w7_BOl1eL8C&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3621940000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 3621940000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/HTML_CSS_The_Complete_Reference_Fifth_Ed-sample-epub.acsm?id=2w7_BOl1eL8C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/HTML_CSS_The_Complete_Reference_Fifth_Ed-sample-pdf.acsm?id=2w7_BOl1eL8C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2w7_BOl1eL8C&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "He is the author of the previous bestselling editions of this book and Ajax: The Complete Reference, and co-author of JavaScript: The Complete Reference."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gVjBDwAAQBAJ",
+      "etag": "Cbor2XAMfkw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gVjBDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The The HTML and CSS Workshop",
+        "subtitle": "Learn to build your own websites and kickstart your career as a web designer or developer",
+        "authors": [
+          "Lewis Coulson",
+          "Brett Jephson",
+          "Rob Larsen",
+          "Matt Park",
+          "Marian Zburlea"
+        ],
+        "publisher": "Packt Publishing Ltd",
+        "publishedDate": "2019-11-28",
+        "description": "The HTML and CSS Workshop equips you with the practical knowledge to create modern responsive websites. From mastering simple HTML markup and CSS tags, through to integrating media queries and animations to create a rich, engaging user experience, you'll build your skills with the help of hands-on examples and activities.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781838828134"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1838828133"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 700,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.7.8.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gVjBDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gVjBDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=gVjBDwAAQBAJ&printsec=frontcover&dq=html&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=gVjBDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=gVjBDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 683.21,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 341.6,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=gVjBDwAAQBAJ&rdid=book-gVjBDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 683210000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 341600000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gVjBDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The HTML and CSS Workshop equips you with the practical knowledge to create modern responsive websites."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Dq9L3KkDOFIC",
+      "etag": "CTWp0MvE0DA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Dq9L3KkDOFIC",
+      "volumeInfo": {
+        "title": "HTML for the World Wide Web",
+        "authors": [
+          "Elizabeth Castro"
+        ],
+        "publisher": "Peachpit Press",
+        "publishedDate": "2003",
+        "description": "Demonstrates the basics of HTML while explaining how to design Web sites, format text, add multimedia effects, and create forms, tables, lists, and style sheets.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0321130073"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780321130075"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 480,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 7,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Dq9L3KkDOFIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Dq9L3KkDOFIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=Dq9L3KkDOFIC&printsec=frontcover&dq=html&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=Dq9L3KkDOFIC&dq=html&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/HTML_for_the_World_Wide_Web.html?hl=&id=Dq9L3KkDOFIC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Dq9L3KkDOFIC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Demonstrates the basics of HTML while explaining how to design Web sites, format text, add multimedia effects, and create forms, tables, lists, and style sheets."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5VXXJuVq9ysC",
+      "etag": "QXFiTWEiBys",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5VXXJuVq9ysC",
+      "volumeInfo": {
+        "title": "Introduction to Web Development Using HTML 5",
+        "authors": [
+          "Kris Jamsa"
+        ],
+        "publisher": "Jones & Bartlett Publishers",
+        "publishedDate": "2013-05-01",
+        "description": "The HTML 5 Web Development book provides a hands-on experience that allows first-time Web-site developers to create their first Web pages and experienced developers to quickly master HTML 5. The book is filled with thousands of real-world examples. The book starts by introducing standard HTML and its use in creating traditional Web sites. Within this context, the book teaches developers how to format and style their pages using cascading style sheets (CSS) and how to automate pages using JavaScript and JQuery. HTML 5 allows Web developers to not only build pages for the World Wide Web, but also to build pages for mobile devices and tablet PCs. The second half of the book introduces developers to all aspects of HTML 5. Developers will learn to create location-aware applications that display content based on the user s current location, to drag and drop items within a Web page, and much more. Instructors will receive a Test Bank, while the Student Companion Website hosts chapter PowerPoints, assignments, learning objectives, a glossary of must-know terms and quizzes.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781284032895"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1284032892"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 600,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.0.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5VXXJuVq9ysC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=5VXXJuVq9ysC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=5VXXJuVq9ysC&printsec=frontcover&dq=html&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=5VXXJuVq9ysC&dq=html&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Introduction_to_Web_Development_Using_HT.html?hl=&id=5VXXJuVq9ysC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5VXXJuVq9ysC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Filled with thousands of real-world examples, this text: introduces Web development to first-time developers; covers all aspects of webpage design; provides detailed coverage of webpage formatting using CSS; presents the use of JavaScript ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YwEQoMAJjj8C",
+      "etag": "Df3lzz7iLKc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YwEQoMAJjj8C",
+      "volumeInfo": {
+        "title": "HTML Web Design in 7 Days",
+        "publisher": "Siamak Sarmady",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.0.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YwEQoMAJjj8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YwEQoMAJjj8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=YwEQoMAJjj8C&pg=PT3&dq=html&hl=&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=YwEQoMAJjj8C&dq=html&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/HTML_Web_Design_in_7_Days.html?hl=&id=YwEQoMAJjj8C"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YwEQoMAJjj8C&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "eb pages are ordinary files with “.htm” or “.\u003cb\u003ehtml\u003c/b\u003e” file extensions. They contain a code named &quot;hyper text mark-up language&quot; or \u003cb\u003ehtml\u003c/b\u003e. This codes when viewed in a browser like Internet Explorer or Firefox or other web browsers will be&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Mc5hDwAAQBAJ",
+      "etag": "Iws2lprXhRc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Mc5hDwAAQBAJ",
+      "volumeInfo": {
+        "title": "What Is HTML Code?",
+        "authors": [
+          "Patricia Harris, Ph.D."
+        ],
+        "publisher": "The Rosen Publishing Group, Inc",
+        "publishedDate": "2017-07-15",
+        "description": "Behind every website is a page of HTML code. Hypertext markup language is a scripting language and not a full programming language. However, it is still one of the most important coding systems in the world. This book shows readers how HTML provides the front end for even the biggest websites and gets them started on simple page design. Topics also include additional web languages and the future of HTML5. Readers will learn about the history of HTML code, as well as the key figures who made it possible.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781508155225"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1508155224"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 24,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Mc5hDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Mc5hDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=Mc5hDwAAQBAJ&printsec=frontcover&dq=html&hl=&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=Mc5hDwAAQBAJ&dq=html&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/What_Is_HTML_Code.html?hl=&id=Mc5hDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Mc5hDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "However, it is still one of the most important coding systems in the world. This book shows readers how HTML provides the front end for even the biggest websites and gets them started on simple page design."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1pkGtAEACAAJ",
+      "etag": "0ZWOjSKFs5g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1pkGtAEACAAJ",
+      "volumeInfo": {
+        "title": "HTML, CSS, and JavaScript All in One",
+        "subtitle": "Covering HTML5, CSS3, and ES6, Sams Teach Yourself",
+        "authors": [
+          "Julie C. Meloni",
+          "Jennifer Kyrnin"
+        ],
+        "publisher": "Sams Publishing",
+        "publishedDate": "2018-11-30",
+        "description": "Teach Yourself HTML, CSS, and JavaScript All in One combines these three fundamental web development technologies into one clearly written, carefully organized, step-by-step tutorial that expertly guides the beginner through these three interconnected technologies. In just a short time, you can learn how to use HTML, Cascading Style Sheets (CSS), and JavaScript together to design, create, and maintain world-class websites. Each lesson in this book builds on the previous ones, enabling you to learn the essentials from the ground up. Clear instructions and practical, hands-on examples show you how to use HTML to create the framework of your website, design your site's layout and typography with CSS, and then add interactivity with JavaScript and jQuery. Step-by-step instructions carefully walk you through the most common web development tasks. Practical, hands-on examples show you how to apply what you learn. Quizzes and exercises help you test your knowledge and stretch your skills. Learn how to... Build your own web page and get it online in an instant Format text for maximum clarity and readability Create links to other pages and to other sites Add graphics, color, and visual pizzazz to your web pages Work with transparent images and background graphics Design your site's layout and typography using CSS Make elements move on your page with CSS transformations and transitions Animate with CSS and the HTML5 Canvas element Write HTML that's responsive web design-ready Design a site for mobile devices Use CSS media queries and breakpoints Get user input with web-based forms Use JavaScript to build dynamic, interactive web pages Add AJAX effects to your web pages Leverage JavaScript libraries such as jQuery Make your site easy to maintain and update as it grows",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0672338084"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780672338083"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 800,
+        "printType": "BOOK",
+        "categories": [
+          "COMPUTERS"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1pkGtAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1pkGtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=1pkGtAEACAAJ&dq=html&hl=&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=1pkGtAEACAAJ&dq=html&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/HTML_CSS_and_JavaScript_All_in_One.html?hl=&id=1pkGtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1pkGtAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Each lesson in this book builds on the previous ones, enabling you to learn the essentials from the ground up."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5hhbBgAAQBAJ",
+      "etag": "zzAmPkhw5Ts",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5hhbBgAAQBAJ",
+      "volumeInfo": {
+        "title": "Web Coding Bible (HTML, CSS, Javascript, PHP, SQL, XML, SVG, Canvas, WebGL, Java Applet, ActionScript, jQuery, WordPress, SEO and many more)",
+        "subtitle": "An Accelerated Course",
+        "authors": [
+          "Chong Lip Phang"
+        ],
+        "publisher": "Chong Lip Phang",
+        "publishedDate": "2015-01-23",
+        "description": "This fixed-layout eBook teaches all essential web technologies from A to Z. Skillfully written, extremely succinct, with a lot of tables, diagrams, examples and screen output, it touches the latest experimental technology in action. Covering some hardly documented 'tricks' beyond the basics, this book guarantees to transform an Internet newcomer to an accomplished web developer. For every web developer, it is a handy must-have. As we know, various web technologies are interconnected and it is impossible to fully master one technology without knowing another. Traditionally, a serious web developer needs to rely on several books or sources when coding a website. This book represents an all-in-one solution. It presents to you a holistic view of all essential web technologies. It means spending less money and time in learning more. The topics include HTML, CSS, JavaScript, PHP, AJAX, SQL, XML, XPath, XSD, XQuery, XSLT, SVG, Canvas, WebGL, Java Applet, Flash ActionScript, Red5, Firebase, WebRTC, htaccess, mod rewrite, jQuery, cURL, WordPress, SEO etc. (This eBook should be read using a fixed-layout-compatible (epub3) reader such as the Gitden Reader in Android.)",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789671317518"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9671317510"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 474,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.6.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5hhbBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=5hhbBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=5hhbBgAAQBAJ&printsec=frontcover&dq=html&hl=&cd=16&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=5hhbBgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=5hhbBgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1513.22,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 1513.22,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=5hhbBgAAQBAJ&rdid=book-5hhbBgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1513220000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 1513220000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Web_Coding_Bible_HTML_CSS_Javascript_PHP-sample-epub.acsm?id=5hhbBgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Web_Coding_Bible_HTML_CSS_Javascript_PHP-sample-pdf.acsm?id=5hhbBgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5hhbBgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Traditionally, a serious web developer needs to rely on several books or sources when coding a website. This book represents an all-in-one solution. It presents to you a holistic view of all essential web technologies."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pR87s9L42JUC",
+      "etag": "4lk3NM6bbqo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pR87s9L42JUC",
+      "volumeInfo": {
+        "title": "Learn HTML and CSS with w3Schools",
+        "authors": [
+          "W3Schools"
+        ],
+        "publisher": "John Wiley & Sons",
+        "publishedDate": "2010-12-07",
+        "description": "A fast, simple tutorial from the leading Web developer instruction site W3Schools.com is the number one online education source for beginning Web developers. This book packages W3Schools content in an attractive two-color design that gets beginning Web developers and designers up and running with the core Web development technologies. To-the-point tutorials with clear examples and simple explanations give novices the knowledge they need to get going with confidence. W3Schools is the top Google search result for instruction on HTML, CSS, and other key Web technologies; this book presents W3Schools tutorials in an easy-to-follow format for quick learning Features a thorough reference section for easy review of such items as lists of tags, attributes, and symbols Covers elements and attributes, headings and paragraphs, formatting and styles, links and images, tables, lists, forms, colors, fonts, frames, entities, head and meta, style sheets, style tags, and more Designed to get beginning Web developers up and running as quickly as possible, Learn HTML and CSS with W3Schools presents a proven, highly focused course of instruction in an easy-to-use format.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0470880872"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780470880876"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 300,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=pR87s9L42JUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=pR87s9L42JUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=pR87s9L42JUC&pg=PP1&dq=html&hl=&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=pR87s9L42JUC&dq=html&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Learn_HTML_and_CSS_with_w3Schools.html?hl=&id=pR87s9L42JUC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Learn_HTML_and_CSS_with_w3Schools-sample-pdf.acsm?id=pR87s9L42JUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pR87s9L42JUC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book packages W3Schools content inan attractive two-color design that gets beginning Web developersand designers up and running with the core Web developmenttechnologies."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vOZLwYJHymQC",
+      "etag": "1oafXod21P8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vOZLwYJHymQC",
+      "volumeInfo": {
+        "title": "Beginning HTML, XHTML, CSS, and JavaScript",
+        "authors": [
+          "Jon Duckett"
+        ],
+        "publisher": "John Wiley & Sons",
+        "publishedDate": "2011-02-17",
+        "description": "An indispensable introductory guide to creating web pages using the most up-to-date standards This beginner guide shows you how to use XHTML, CSS, and JavaScript to create compelling Web sites. While learning these technologies, you will discover coding practices such as writing code that works on multiple browsers including mobile devices, how to use AJAX frameworks to add interactivity to your pages, and how to ensure your pages meet accessible requirements. Packed with real-world examples, the book not only teaches you how to write Web sites using XHTML, CSS and JavaScript, but it also teaches you design principles that help you create attractive web sites and practical advice on how to make web pages more usable. In addition, special checklists and appendices review key topics and provide helpful references that re-enforce the basics you've learned. Serves as an ideal beginners guide to writing web pages using XHTML Explains how to use CSS to make pages more appealing and add interactivity to pages using JavaScript and AJAX frameworks Share advice on design principles and how to make pages more attractive and offers practical help with usability and accessibility Features checklists and appendices that review key topics This introductory guide is essential reading for getting started with using XHTML, CSS and JavaScript to create exciting and compelling Web sites. Note: CD-ROM/DVD and other supplementary materials are not included as part of eBook file.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781118057322"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1118057325"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 864,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 2,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.10.7.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=vOZLwYJHymQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=vOZLwYJHymQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=vOZLwYJHymQC&printsec=frontcover&dq=html&hl=&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=vOZLwYJHymQC&dq=html&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Beginning_HTML_XHTML_CSS_and_JavaScript.html?hl=&id=vOZLwYJHymQC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Beginning_HTML_XHTML_CSS_and_JavaScript-sample-epub.acsm?id=vOZLwYJHymQC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Beginning_HTML_XHTML_CSS_and_JavaScript-sample-pdf.acsm?id=vOZLwYJHymQC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vOZLwYJHymQC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "An indispensable introductory guide to creating web pages using the most up-to-date standards This beginner guide shows you how to use XHTML, CSS, and JavaScript to create compelling Web sites."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hxB9jwEACAAJ",
+      "etag": "tSLRXYeeeJQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hxB9jwEACAAJ",
+      "volumeInfo": {
+        "title": "Html Beginner's Crash Course",
+        "subtitle": "Html for Beginner's Guide to Learning Html, Html & Css, & Web Design",
+        "authors": [
+          "Quick Start Guides"
+        ],
+        "publisher": "Createspace Independent Publishing Platform",
+        "publishedDate": "2015-12-03",
+        "description": "Your ABC Guide to HTMLWhat if you could learn HTML in a simple, straightforward way? Can you imagine the possibilities and doors that will open to you once you do? If there is one thing you need to know about HTML coding, is that it's easy, and the learning process is very approachable. You can learn yourself through extensive research, but then we, at Quick Start Guides, like to make things easier for you by developing this book! HTML Beginner's Crash Course is made to make the task simpler for you. In these pages you'll find complete detailed information for your learning. What are the advantages of being able to code HTML?1. Putting up your own website. 2. Making a career out of it. 3. Building a business. 4. Understanding (in-depth) of how computers and coding work. These are just a few examples of what you can do, when you become a pro, the possibilities are endless. What Will You Learn in this Book? -HTML Editors and Elements -Attributes -Formatting -Phrase tags -Meta Tags -Comments -Tables -Colors -Background -Fonts -Marquees -Cascading Style Sheets (CSS) Why hire someone and spend money, if you can perform HTML coding by yourself? Read this book now to save time, customize your plans, and open yourself up to a whole new world of possibilities and opportunities!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1519672772"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781519672773"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 190,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=hxB9jwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=hxB9jwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=hxB9jwEACAAJ&dq=html&hl=&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=hxB9jwEACAAJ&dq=html&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Html_Beginner_s_Crash_Course.html?hl=&id=hxB9jwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hxB9jwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Building a business. 4. Understanding (in-depth) of how computers and coding work. These are just a few examples of what you can do, when you become a pro, the possibilities are endless. What Will You Learn in this Book?"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mN0ymwfmM5QC",
+      "etag": "NdwsUUTUCe0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mN0ymwfmM5QC",
+      "volumeInfo": {
+        "title": "Head First HTML with CSS & XHTML",
+        "authors": [
+          "Elisabeth Freeman",
+          "Eric Freeman"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2006",
+        "description": "\"A complete learning experience for creating industry standard Web pages - but you won't be just reading: you'll be playing games, solving puzzles, pondering mysteries and creating Web pages like you never imagined. You'll be also learning how HTML works with CSS . . . if you're going to create Web pages in the 21st century, then you want to know and to understand CSS, too.\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780596101978"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "059610197X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 658,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 14,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "3.4.0.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mN0ymwfmM5QC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mN0ymwfmM5QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=mN0ymwfmM5QC&printsec=frontcover&dq=html&hl=&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=mN0ymwfmM5QC&dq=html&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Head_First_HTML_with_CSS_XHTML.html?hl=&id=mN0ymwfmM5QC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mN0ymwfmM5QC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;A complete learning experience for creating industry standard Web pages - but you won&#39;t be just reading: you&#39;ll be playing games, solving puzzles, pondering mysteries and creating Web pages like you never imagined."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pvwVH2fQKWQC",
+      "etag": "QLju4lIwnok",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pvwVH2fQKWQC",
+      "volumeInfo": {
+        "title": "Kenya National Assembly Official Record (Hansard)",
+        "publishedDate": "1986-03-04",
+        "description": "The official records of the proceedings of the Legislative Council of the Colony and Protectorate of Kenya, the House of Representatives of the Government of Kenya and the National Assembly of the Republic of Kenya.",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 896,
+        "printType": "MAGAZINE",
+        "averageRating": 3,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=pvwVH2fQKWQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=pvwVH2fQKWQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=pvwVH2fQKWQC&printsec=frontcover&dq=html&hl=&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=pvwVH2fQKWQC&dq=html&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Kenya_National_Assembly_Official_Record.html?hl=&id=pvwVH2fQKWQC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pvwVH2fQKWQC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The official records of the proceedings of the Legislative Council of the Colony and Protectorate of Kenya, the House of Representatives of the Government of Kenya and the National Assembly of the Republic of Kenya."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TYc_AQAAIAAJ",
+      "etag": "PLAlwos6a5w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TYc_AQAAIAAJ",
+      "volumeInfo": {
+        "title": "HTML Unleashed",
+        "authors": [
+          "Rick Darnell"
+        ],
+        "publisher": "Sams",
+        "publishedDate": "1997",
+        "description": "A comprehensive reference on HTML encompasses the latest developments in HTML specification, as well as Microsoft and Netscape extensions, covering such topics as effective Web page design, HTML 3.2 language, development tools and site administration, and more. Original. (Advanced).",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCSD:31822025577941"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1030,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=TYc_AQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=TYc_AQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=TYc_AQAAIAAJ&q=html&dq=html&hl=&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=TYc_AQAAIAAJ&dq=html&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/HTML_Unleashed.html?hl=&id=TYc_AQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TYc_AQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Abstract The Hypertext Markup Language (\u003cb\u003eHTML\u003c/b\u003e) is a simple markup language used to create hypertext documents that are portable from one platform to another. \u003cb\u003eHTML\u003c/b\u003e documents are SGML documents with generic semantics that are appropriate&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Dkr_V9ruJyEC",
+      "etag": "t1YL6kXpuMQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Dkr_V9ruJyEC",
+      "volumeInfo": {
+        "title": "Basic HTML Teacher Resources",
+        "authors": [
+          "K. Hayhow"
+        ],
+        "publisher": "Payne Gallway",
+        "publishedDate": "2005-04-04",
+        "description": "This Teacher's book provides invaluable help for teachers and parents to give children a head start in the basics of HTML. It accompanies the pupil's book Basic HTML and features additional tips and advice on preparation, and photocopiable worksheets comprising 16 assignments, complete with answers, some of which can be completed away from the computer. Each assignment provides extra practice on topics learned in the corresponding Pupil's book chapter.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781904467441"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "190446744X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 102,
+        "printType": "BOOK",
+        "categories": [
+          "HTML (Document markup language)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Dkr_V9ruJyEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Dkr_V9ruJyEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=Dkr_V9ruJyEC&pg=SL1-PA2&dq=html&hl=&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=Dkr_V9ruJyEC&dq=html&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Basic_HTML_Teacher_Resources.html?hl=&id=Dkr_V9ruJyEC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Dkr_V9ruJyEC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Basic \u003cb\u003eHTML\u003c/b\u003e Teacher Resources Worksheet 1 A - \u003cb\u003eHTML\u003c/b\u003e and the Internet Teacher&#39;s notes Topics covered in this worksheet • Uses of web sites on the Internet • Differences between browsers and editors • Advantages of writing \u003cb\u003eHTML\u003c/b\u003e (rather than&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3A-SDZTWGIUC",
+      "etag": "tn1Gt+rcGVE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3A-SDZTWGIUC",
+      "volumeInfo": {
+        "title": "Mastering Integrated HTML and CSS",
+        "authors": [
+          "Virginia DeBolt"
+        ],
+        "publisher": "John Wiley & Sons",
+        "publishedDate": "2007-03-31",
+        "description": "This unique approach to learning HTML and CSS simultaneously shows you how to save time and be more productive by learning to structure your (X) HTML content for best effect with CSS styles. You’ll discover how to create websites that are accessible to the widest range of visitors, build CSS for print and handheld devices, and work with a variety of CSS-based layouts. Using the latest standards, best practices, and real-world examples, this book offers you with a thorough grounding in the basics and also includes advanced techniques.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780470147931"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0470147938"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 600,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.2.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3A-SDZTWGIUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3A-SDZTWGIUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=3A-SDZTWGIUC&pg=PA272&dq=html&hl=&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=3A-SDZTWGIUC&dq=html&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mastering_Integrated_HTML_and_CSS.html?hl=&id=3A-SDZTWGIUC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Mastering_Integrated_HTML_and_CSS-sample-pdf.acsm?id=3A-SDZTWGIUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3A-SDZTWGIUC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The XHTML merely needs a link, for example: &lt;a href=&quot;index.\u003cb\u003ehtml\u003c/b\u003e&quot;&gt;Home3/a2 The CSS rules set different background images for the different pseudo states of that hyperlink. You did something similar to this in Chapter 7,&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cCYDj6vEReAC",
+      "etag": "39rlgArhHPg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cCYDj6vEReAC",
+      "volumeInfo": {
+        "title": "Beginning Web Programming with HTML, XHTML, and CSS",
+        "authors": [
+          "Jon Duckett"
+        ],
+        "publisher": "John Wiley & Sons",
+        "publishedDate": "2011-02-09",
+        "description": "What is this book about? Beginning Web Programming with HTML, XHTML, and CSS teaches you how to write Web pages using HTML, XHTML, and CSS. It follows standards-based principles, but also teaches readers ways around problems they are likely to face using (X)HTML. While XHTML is the \"current\" standard, the book still covers HTML because many people do not yet understand that XHTML is the official successor to HTML, and many readers will still stick with HTML for backward compatibility and simpler/informal Web pages that don't require XHTML compliance. The book teaches basic principles of usability and accessibility along the way, to get users into the mode of developing Web pages that will be available to as many viewers as possible from the start. The book also covers the most commonly used programming/scripting language — JavaScript — and provides readers with a roadmap of other Web technologies to learn after mastering this book to add more functionality to their sites.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781118058794"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1118058798"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 840,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.8.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cCYDj6vEReAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cCYDj6vEReAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=cCYDj6vEReAC&pg=PT39&dq=html&hl=&cd=25&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=cCYDj6vEReAC&dq=html&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Beginning_Web_Programming_with_HTML_XHTM.html?hl=&id=cCYDj6vEReAC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Beginning_Web_Programming_with_HTML_XHTM-sample-epub.acsm?id=cCYDj6vEReAC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Beginning_Web_Programming_with_HTML_XHTM-sample-pdf.acsm?id=cCYDj6vEReAC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cCYDj6vEReAC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "When the W3C released \u003cb\u003eHTML\u003c/b\u003e 4.1, almost all of the markup that had been used to style documents had been marked as deprecated, meaning that it would be removed from future versions of \u003cb\u003eHTML\u003c/b\u003e and therefore Web page authors should stop using&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ym8nKP7JdHwC",
+      "etag": "KmO2G8kMb1Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ym8nKP7JdHwC",
+      "volumeInfo": {
+        "title": "Mastering HTML and XHTML",
+        "authors": [
+          "Deborah S. Ray",
+          "Eric J. Ray"
+        ],
+        "publisher": "John Wiley & Sons",
+        "publishedDate": "2006-02-20",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0782152465"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780782152463"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1107,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.0.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ym8nKP7JdHwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ym8nKP7JdHwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=ym8nKP7JdHwC&pg=PA438&dq=html&hl=&cd=26&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=ym8nKP7JdHwC&dq=html&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mastering_HTML_and_XHTML.html?hl=&id=ym8nKP7JdHwC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Mastering_HTML_and_XHTML-sample-pdf.acsm?id=ym8nKP7JdHwC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ym8nKP7JdHwC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "NET ◇ JavaServlet Pages (JSP) ◇ PHP Tip For a thorough review of server-side scripting languages, see “Server-Side Scripting Shootout” at http://hotwired.lycos.com/webmonkey/99/46/index1a.\u003cb\u003ehtml\u003c/b\u003e?tw=programming."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zARk6zT0twYC",
+      "etag": "drDROhox1iM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zARk6zT0twYC",
+      "volumeInfo": {
+        "title": "HTML and XHTML Pocket Reference",
+        "authors": [
+          "Jennifer Niederst Robbins"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2006-05-08",
+        "description": "After years of using spacer GIFs, layers of nested tables, and other improvised solutions for building your web sites, getting used to the more stringent \"standards-compliant\" design that is de rigueur among professionals today can be intimidating. With standards-driven design, keeping style separate from content is not just a possibility but a reality. You no longer use HTML and XHTML as design tools, but strictly as ways to define the meaning and structure of web content. And Cascading Style Sheets (CSS) are no longer just something interesting to tinker with, but a reliable method for handling all matters of presentation, from fonts and colors to page layout. When you follow the standards, both the site's design and underlying code are much cleaner. But how do you keep all those HTML and XHTML tags and CSS values straight? Jennifer Niederst-Robbins, the author of our definitive guide on standards-compliant design, Web Design in a Nutshell, offers you the perfect little guide when you need answers immediately: HTML and XHTML Pocket Reference. This revised and updated new edition takes the top 20% of vital reference information from her Nutshell book, augments it judiciously, cross-references everything, and organizes it according to the most common needs of web developers. The result is a handy book that offers the bare essentials on web standards in a small, concise format that you can use carry anywhere for quick reference. This guide will literally fit into your back pocket. Inside HTML and XHTML Pocket Reference, you'll find instantly accessible alphabetical listings of every element and attribute in the HTML 4.01 and XHTML 1.0 Recommendations. This is an indispensable reference for any serious web designer, author, or programmer who needs a fast on-the-job resource when working with established web standards.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780596551483"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0596551487"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 108,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.3.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zARk6zT0twYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zARk6zT0twYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=zARk6zT0twYC&pg=PA1&dq=html&hl=&cd=27&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=zARk6zT0twYC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=zARk6zT0twYC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 814.2,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 407.1,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=zARk6zT0twYC&rdid=book-zARk6zT0twYC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 814200000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 407100000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zARk6zT0twYC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "\u003cb\u003eHTML\u003c/b\u003e. and. XHTML. Pocket. Reference. This pocket reference provides a concise yet thorough listing of the elements and attributes specified in the \u003cb\u003eHTML\u003c/b\u003e 4.01 and XHTML 1.0 Recommendations. The text uses the shorthand “(X)\u003cb\u003eHTML\u003c/b\u003e” for&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gkBLI3xHYMUC",
+      "etag": "iAL69BniajI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gkBLI3xHYMUC",
+      "volumeInfo": {
+        "title": "HTML & CSS: The Good Parts",
+        "subtitle": "Better Ways to Build Websites That Work",
+        "authors": [
+          "Ben Henick"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2010-02-18",
+        "description": "HTML and CSS are the workhorses of web design, and using them together to build consistent, reliable web pages requires both skill and knowledge. The task is more difficult if you're relying on outdated, confusing, and unnecessary HTML hacks and workarounds. Author Ben Henick shows you how to avoid those traps by going beyond the standard tips, tricks, and techniques to connect the underlying theory and design of HTML and CSS to your everyday work habits. With this practical book, you'll learn how to work with these tools far more effectively than is standard practice for most web developers. Whether you handcraft individual pages or build templates, HTML & CSS: The Good Parts will help you get the most out of these tools in all aspects of web page design-from layout to typography and to color. Structure HTML markup to maximize the power of CSS Implement complex multi-column layouts from scratch Improve site production values with advanced CSS techniques Support formal usability and accessibility requirements with tools built into HTML and CSS Avoid the most annoying browser and platform limitations",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1449388752"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781449388751"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 352,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.6.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gkBLI3xHYMUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gkBLI3xHYMUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=gkBLI3xHYMUC&printsec=frontcover&dq=html&hl=&cd=28&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=gkBLI3xHYMUC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=gkBLI3xHYMUC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2065,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 2065,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=gkBLI3xHYMUC&rdid=book-gkBLI3xHYMUC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2065000000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 2065000000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gkBLI3xHYMUC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "With this practical book, you&#39;ll learn how to work with these tools far more effectively than is standard practice for most web developers."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jBCa5CiussUC",
+      "etag": "2oeWPMzrGUc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jBCa5CiussUC",
+      "volumeInfo": {
+        "title": "The Guru's Guide to SQL Server Stored Procedures, XML, and HTML",
+        "authors": [
+          "Ken Henderson"
+        ],
+        "publisher": "Addison-Wesley Professional",
+        "publishedDate": "2002",
+        "description": "Explores the foundations of SQL and Transact-SQL programming to teach readers how to develop coding techniques and discover solutions to programming problems, then covers practices, design considerations, and advanced topics.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0201700468"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780201700466"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 774,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jBCa5CiussUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jBCa5CiussUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=jBCa5CiussUC&pg=PA358&dq=html&hl=&cd=29&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=jBCa5CiussUC&dq=html&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Guru_s_Guide_to_SQL_Server_Stored_Pr.html?hl=&id=jBCa5CiussUC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jBCa5CiussUC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "XML : A Brief History With the explosion the Web and the massive amount of \u003cb\u003eHTML\u003c/b\u003e development that consequently began to be undertaken , people began running into HTMLs manv shortcomings very quickly . At the same time , SGML proponents&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EKVVAAAAMAAJ",
+      "etag": "f5v5ZxLF/SE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EKVVAAAAMAAJ",
+      "volumeInfo": {
+        "title": "HTML",
+        "subtitle": "Your Visual Blueprint for Designing Web Pages with HTML, CSS, and XHTML",
+        "authors": [
+          "Paul Whitehead",
+          "James H. Russell"
+        ],
+        "publisher": "Visual",
+        "publishedDate": "2005-05-27",
+        "description": "A visual approach to using HTML to create Web pages that attract attention includes setting up a Web page, reducing image resolution, creating radio buttons, adding a hit counter, creating an inline frame, and adding an embedded sound. Original. (Intermediate)",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015060881011"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 305,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=EKVVAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=EKVVAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=EKVVAAAAMAAJ&q=html&dq=html&hl=&cd=30&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=EKVVAAAAMAAJ&dq=html&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/HTML.html?hl=&id=EKVVAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EKVVAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "\u003cb\u003eHTML\u003c/b\u003e Read Less - Learn More Visual Welcome to the only guidebook series that takes a visual approach to professional - level computer topics . Open the book and you &#39; ll discover step - by - step screen shots that demonstrate over 130&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "x4rQueL7oWcC",
+      "etag": "+IDNoDugDdQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/x4rQueL7oWcC",
+      "volumeInfo": {
+        "title": "CSS Pocket Reference",
+        "subtitle": "Visual Presentation for the Web",
+        "authors": [
+          "Eric A. Meyer"
+        ],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2011-07-12",
+        "description": "When you're working with CSS and need a quick answer, CSS Pocket Reference delivers. This handy, concise book provides all of the essential information you need to implement CSS on the fly. Ideal for intermediate to advanced web designers and developers, the 4th edition is revised and updated for CSS3, the latest version of the Cascading Style Sheet specification. Along with a complete alphabetical reference to CSS3 selectors and properties, you'll also find a short introduction to the key concepts of CSS. Based on Cascading Style Sheets: The Definitive Guide, this reference is an easy-to-use cheatsheet of the CSS specifications you need for any task at hand. This book helps you: Quickly find and adapt the style elements you need Learn how CSS3 features complement and extend your CSS practices Discover new value types and new CSS selectors Implement drop shadows, multiple backgrounds, rounded corners, and border images Get new information about transforms and transitions",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781449313050"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1449313051"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 252,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.6.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=x4rQueL7oWcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=x4rQueL7oWcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=x4rQueL7oWcC&printsec=frontcover&dq=html&hl=&cd=31&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=x4rQueL7oWcC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=x4rQueL7oWcC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 885,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 442.5,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=x4rQueL7oWcC&rdid=book-x4rQueL7oWcC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 885000000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 442500000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=x4rQueL7oWcC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "When you&#39;re working with CSS and need a quick answer, CSS Pocket Reference delivers. This handy, concise book provides all of the essential information you need to implement CSS on the fly."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SpRfPQAACAAJ",
+      "etag": "esCi1msFKmE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SpRfPQAACAAJ",
+      "volumeInfo": {
+        "title": "HTML Basics",
+        "authors": [
+          "Karl Barksdale",
+          "E. Shane Turner"
+        ],
+        "publisher": "Course Technology Ptr",
+        "publishedDate": "2005",
+        "description": "This book \"provides a step-by-step introduction to all aspects of HTML programming. Everything is covered from essential HTML concepts and skills to advanced topics and power techniques.\"--Back cover.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0619266260"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780619266264"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 128,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=SpRfPQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=SpRfPQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=SpRfPQAACAAJ&dq=html&hl=&cd=32&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=SpRfPQAACAAJ&dq=html&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/HTML_Basics.html?hl=&id=SpRfPQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SpRfPQAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book &quot;provides a step-by-step introduction to all aspects of HTML programming. Everything is covered from essential HTML concepts and skills to advanced topics and power techniques.&quot;--Back cover."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-LdlRI0fT_UC",
+      "etag": "4IkNmXneWnw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-LdlRI0fT_UC",
+      "volumeInfo": {
+        "title": "HTML, XHTML and CSS All-In-One For Dummies",
+        "authors": [
+          "Andy Harris"
+        ],
+        "publisher": "John Wiley & Sons",
+        "publishedDate": "2010-10-26",
+        "description": "A complete and fully updated reference for these key Web technologies HTML, XHTML, and CSS are essential tools for creating dynamic Web sites. This friendly, all-in-one guide covers what programmers need to know about each of the technologies and how to use them together. Like the bestselling first edition, HTML, XHTML, and CSS All-in-One For Dummies, 2nd Edition makes it easy to grasp the fundamentals and start building effective Web pages. With new information about Web 2.0 and Ajax, it's the perfect reference as well. HTML, XHTML, and CSS are the key technologies for building dynamic Web pages This friendly, all-in-one guide explains each technology, shows how to use them together, and examines quality Web design and layout Six self-contained minibooks cover HTML, CSS, design and layout, client-side JavaScript, Ajax and server-side, and putting it all together Covers new Web development advancements including new technologies and changes to the standards Includes a CD with additional valuable Web development programs and a companion Web site featuring the code used in the book Web programmers and designers will find what they most need to know in HTML, XHTML, and CSS All-in-One For Dummies, 2nd Edition, helping them create the type of Web sites that today's market demands. CD-ROM and other supplementary materials are not included as part of eBook file. These materials will be made available for download upon purchase of the digital edition",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0470937181"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780470937181"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 1080,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.13.7.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-LdlRI0fT_UC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-LdlRI0fT_UC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=-LdlRI0fT_UC&pg=PA123&dq=html&hl=&cd=33&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=-LdlRI0fT_UC&dq=html&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/HTML_XHTML_and_CSS_All_In_One_For_Dummie.html?hl=&id=-LdlRI0fT_UC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/HTML_XHTML_and_CSS_All_In_One_For_Dummie-sample-epub.acsm?id=-LdlRI0fT_UC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/HTML_XHTML_and_CSS_All_In_One_For_Dummie-sample-pdf.acsm?id=-LdlRI0fT_UC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-LdlRI0fT_UC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "All the form elements must be embedded inside a &lt;form&gt;&lt;/form&gt; pair. The code for basicForm.\u003cb\u003ehtml\u003c/b\u003e illustrates the simplest possible form: &lt;!DOCTYPE \u003cb\u003ehtml\u003c/b\u003e PUBLIC “-//W3C//DTD XHTML 1.0 Strict//EN”&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UoIFEAAAQBAJ",
+      "etag": "Cv2ZpTrLRg8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UoIFEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Hypertext Markup Language (HTML) Fundamentals",
+        "subtitle": "How to Master HTML with Ease",
+        "authors": [
+          "Steven Bright"
+        ],
+        "publisher": "Lulu Press, Inc",
+        "publishedDate": "2020-09-13",
+        "description": "This tech manual guides you in learning and perfecting your Hypertext Markup Language (HTML) Skills. It uses a step by step approach and clean sample codes to help you get the best always. These are what you will learn: *HTML Structure *HTML Terminology *HTML File Naming Conventions *HTML Tags and their Description *HTML List *HTML Links *HTML Form *HTML Table *HTML Image *HTML Audio and Video *My Clean Sample Codes to Guide You *And some other Important Tips.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781716585913"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1716585910"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UoIFEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UoIFEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=UoIFEAAAQBAJ&printsec=frontcover&dq=html&hl=&cd=34&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=UoIFEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=UoIFEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 259.27,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 181.49,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=UoIFEAAAQBAJ&rdid=book-UoIFEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 259270000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 181490000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Hypertext_Markup_Language_HTML_Fundament-sample-epub.acsm?id=UoIFEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Hypertext_Markup_Language_HTML_Fundament-sample-pdf.acsm?id=UoIFEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UoIFEAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This tech manual guides you in learning and perfecting your Hypertext Markup Language (HTML) Skills."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KswiYgEACAAJ",
+      "etag": "HskYFI9b6Qk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KswiYgEACAAJ",
+      "volumeInfo": {
+        "title": "Html 5 In Simple Steps",
+        "authors": [
+          "Kogent Learning Solutions Inc."
+        ],
+        "publishedDate": "2010-10-05",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9350040867"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789350040867"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 256,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=KswiYgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=KswiYgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=KswiYgEACAAJ&dq=html&hl=&cd=35&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=KswiYgEACAAJ&dq=html&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Html_5_In_Simple_Steps.html?hl=&id=KswiYgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KswiYgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dyM2kv5r7-gC",
+      "etag": "/Pgafr8Qm/s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dyM2kv5r7-gC",
+      "volumeInfo": {
+        "title": "New Scientist",
+        "publishedDate": "1983-02-17",
+        "description": "New Scientist magazine was launched in 1956 \"for all those men and women who are interested in scientific discovery, and in its industrial, commercial and social consequences\". The brand's mission is no different today - for its consumers, New Scientist reports, explores and interprets the results of human endeavour set in the context of society and culture.",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 80,
+        "printType": "MAGAZINE",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dyM2kv5r7-gC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dyM2kv5r7-gC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=dyM2kv5r7-gC&printsec=frontcover&dq=html&hl=&cd=36&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=dyM2kv5r7-gC&dq=html&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/New_Scientist.html?hl=&id=dyM2kv5r7-gC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dyM2kv5r7-gC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "New Scientist magazine was launched in 1956 &quot;for all those men and women who are interested in scientific discovery, and in its industrial, commercial and social consequences&quot;."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-Ik_AQAAIAAJ",
+      "etag": "TJCYFiAKuKA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-Ik_AQAAIAAJ",
+      "volumeInfo": {
+        "title": "More HTML for Dummies",
+        "authors": [
+          "Ed Tittel",
+          "Stephen N. James"
+        ],
+        "publisher": "For Dummies",
+        "publishedDate": "1997",
+        "description": "Explains how to use advanced HTML extensions, offers advice for Web site management tools and techniques, covers animation and 3-D effects, and explores chat rooms and search engines",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCSD:31822025578469"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 390,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-Ik_AQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-Ik_AQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=-Ik_AQAAIAAJ&q=html&dq=html&hl=&cd=37&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=-Ik_AQAAIAAJ&dq=html&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/More_HTML_for_Dummies.html?hl=&id=-Ik_AQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-Ik_AQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Today everybody has a Web site, so everybody wants to know MORE than basic \u003cb\u003eHTML\u003c/b\u003e markup. MORE \u003cb\u003eHTML\u003c/b\u003e For Dummies&#39; 2nd Edition, picks up where \u003cb\u003eHTML\u003c/b\u003e For Dummies&#39;, 3rd Edition, left off by demystifying the Web authoring process and giving you&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3nm7BQAAQBAJ",
+      "etag": "MYpxb3b0BUc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3nm7BQAAQBAJ",
+      "volumeInfo": {
+        "title": "HTML",
+        "subtitle": "",
+        "authors": [
+          "MOHAMMED IRFANULLAH"
+        ],
+        "publisher": "sanria Books",
+        "publishedDate": "2014-12-10",
+        "description": "With HTML you can create your own Web site.This book teaches you everything about HTML. HTML is easy to learn - You will enjoy it.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781503389304"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1503389308"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 342,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3nm7BQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3nm7BQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=3nm7BQAAQBAJ&pg=PA2&dq=html&hl=&cd=38&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=3nm7BQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=3nm7BQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 0,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=3nm7BQAAQBAJ&rdid=book-3nm7BQAAQBAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/HTML-sample-pdf.acsm?id=3nm7BQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3nm7BQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "12 \u003cb\u003eHTML\u003c/b\u003e ELEMENTS . ... 36 \u003cb\u003eHTML\u003c/b\u003e TEXT FORMATTING ELEMENTS ..................................................................... 41 \u003cb\u003eHTML\u003c/b\u003e QUOTATION AND CITATION ELEMENTS......................................................... 47 \u003cb\u003eHTML\u003c/b\u003e&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "iuIDAAAAMBAJ",
+      "etag": "FkWeKt0xyF8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iuIDAAAAMBAJ",
+      "volumeInfo": {
+        "title": "Popular Mechanics",
+        "publishedDate": "1930-08",
+        "description": "Popular Mechanics inspires, instructs and influences readers to help them master the modern world. Whether it’s practical DIY home-improvement tips, gadgets and digital technology, information on the newest cars or the latest breakthroughs in science -- PM is the ultimate guide to our high-tech lifestyle.",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 272,
+        "printType": "MAGAZINE",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=iuIDAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=iuIDAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=iuIDAAAAMBAJ&printsec=frontcover&dq=html&hl=&cd=39&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=iuIDAAAAMBAJ&dq=html&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Popular_Mechanics.html?hl=&id=iuIDAAAAMBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iuIDAAAAMBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Whether it’s practical DIY home-improvement tips, gadgets and digital technology, information on the newest cars or the latest breakthroughs in science -- PM is the ultimate guide to our high-tech lifestyle."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LS3qWhojG2gC",
+      "etag": "NRGerfZpBC8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LS3qWhojG2gC",
+      "volumeInfo": {
+        "title": "Sams Teach Yourself HTML, CSS, and JavaScript All in One",
+        "authors": [
+          "Julie C. Meloni"
+        ],
+        "publisher": "Sams Publishing",
+        "publishedDate": "2011-11-21",
+        "description": "Sams Teach Yourself HTML, CSS and JavaScript All in One The all-in-one HTML, CSS and JavaScript beginner's guide: covering the three most important languages for web development. Covers everything beginners need to know about the HTML and CSS standards and today's JavaScript and Ajax libraries - all in one book, for the first time Integrated, well-organized coverage expertly shows how to use all these key technologies together Short, simple lessons teach hands-on skills readers can apply immediately By best-selling author Julie Meloni Mastering HTML, CSS, and JavaScript is vital for any beginning web developer - and the importance of these technologies is growing as web development moves away from proprietary alternatives such as Flash. Sams Teach Yourself HTML, CSS, and JavaScript All in One brings together everything beginners need to build powerful web applications with the HTML and CSS standards and the latest JavaScript and Ajax libraries. With this book, beginners can get all the modern web development knowledge you need from one expert source. Bestselling author Julie Meloni (Sams Teach Yourself PHP, MySQL and Apache All in One) teaches simply and clearly, through brief, hands-on lessons focused on knowledge you can apply immediately. Meloni covers all the building blocks of practical web design and development, integrating new techniques and features into every chapter. Each lesson builds on what's come before, showing you exactly how to use HTML, CSS, and JavaScript together to create great web sites.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780672332036"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0672332035"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 656,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "averageRating": 2,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.5.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LS3qWhojG2gC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LS3qWhojG2gC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=LS3qWhojG2gC&printsec=frontcover&dq=html&hl=&cd=40&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=LS3qWhojG2gC&dq=html&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sams_Teach_Yourself_HTML_CSS_and_JavaScr.html?hl=&id=LS3qWhojG2gC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LS3qWhojG2gC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "With this book, beginners can get all the modern web development knowledge you need from one expert source."
+      }
+    }
+  ]
+}

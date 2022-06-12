@@ -1,6 +1,7 @@
 import { useRouter } from 'next/router'
 import { useEffect, useState } from 'react'
 import { useAuth } from '../../firebase/authContext'
+import { auth } from '../../firebase/firebase'
 
 function Auth() {
   const [value, setValue] = useState(1)
@@ -14,7 +15,7 @@ function Auth() {
       password: '',
     })
     const router = useRouter()
-    const { user, login } = useAuth()
+    const { user, login, loginWithGoogle } = useAuth()
 
     const handleLogin = async (e) => {
       e.preventDefault()
@@ -22,6 +23,14 @@ function Auth() {
       try {
         await login(loginInfo.email, loginInfo.password)
         router.push('/dashboard')
+      } catch (err) {
+        console.log(err)
+      }
+    }
+
+    const handleGoogle = async () => {
+      try {
+        await loginWithGoogle()
       } catch (err) {
         console.log(err)
       }
@@ -58,15 +67,19 @@ function Auth() {
 
           {/* Login button */}
 
-          <input type="submit" value="Login" className="btn login-btn" />
+          <button type="submit" value="Login" className="btn login-btn">
+            Login
+          </button>
           <br></br>
 
           {/* Create Account button*/}
-          <input
+          <button
             onClick={() => setValue(!value)}
-            className="btn"
             defaultValue="Register"
-          />
+            className="btn login-register-btn"
+          >
+            Register
+          </button>
         </form>
 
         {/* Additional Options */}
@@ -78,9 +91,9 @@ function Auth() {
           }}
         ></div>
 
-        <a href="#" className="btn auth-options">
+        <button className="btn google-btn" onClick={handleGoogle}>
           Continue with Google
-        </a>
+        </button>
       </div>
     )
   }
@@ -97,11 +110,12 @@ function Auth() {
       e.preventDefault()
       try {
         await signup(registerInfo.email, registerInfo.password)
+
         setValue(!value)
+        alert('SignUp Completed')
       } catch (err) {
         console.log(err)
       }
-      console.log('SignUp Completed')
     }
 
     return (
@@ -114,6 +128,18 @@ function Auth() {
 
         <form onSubmit={handleRegister} className="register-form">
           <p>Register</p>
+
+          <input
+            value={registerInfo.name}
+            onChange={(e) =>
+              setregisterInfo({ ...registerInfo, name: e.target.value })
+            }
+            type="name"
+            className="input-field"
+            placeholder="Enter Username"
+            required
+          />
+          <br></br>
           <input
             value={registerInfo.email}
             onChange={(e) =>
