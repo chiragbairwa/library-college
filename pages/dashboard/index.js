@@ -2,7 +2,7 @@ import Link from 'next/link'
 import Footer from '../footer'
 import Image from 'next/image'
 // import { useEffect, useState } from 'react'
-import { useAuth } from '../../firebase/authContext'
+import { MenuBar } from './menu'
 
 // JSON
 import cpp from '../../books/cpp.json'
@@ -12,26 +12,14 @@ import js from '../../books/javascript.json'
 import web from '../../books/webprog.json'
 
 function Dashboard() {
-  const { user, logout } = useAuth()
-
-  var today = new Date()
-  var dd = String(today.getDate()).padStart(2, '0')
-  var mm = String(today.getMonth() + 1).padStart(2, '0') //January is 0!
-  var yyyy = today.getFullYear()
-
   return (
     <div className="dashboard">
       {/* HEADER */}
       <div className="dashboard-header">
-        <div className="dashboard-header-time">
-          <p>{dd}&nbsp;</p>
-          <p>{mm}&nbsp;</p>
-          <p>{yyyy}&nbsp;</p>
-        </div>
+        <MenuBar />
         <div>
           <div className="dashboard-header-search"></div>
           <div className="dashboard-header-profile"></div>
-          <button onClick={logout}>LOGOUT</button>
         </div>
 
         {/* <input type="search" placeholder="Search a book or an author" /> */}
@@ -41,7 +29,7 @@ function Dashboard() {
       <main className="dashboard-main">
         {/* New Books */}
         <div className="dashboard-title">
-          <h2>Web Programming</h2>
+          <p>Web Programming</p>
           <Link href="/dashboard">
             <a>view all {'>'}</a>
           </Link>
@@ -54,9 +42,9 @@ function Dashboard() {
           <BookObject data={web.items[4]} />
         </div>
 
-        {/* Books By Stream */}
+        {/* C */}
         <div className="dashboard-title">
-          <h2>Java</h2>
+          <p>C / C++</p>
           <a href="#">view all {'>'}</a>
         </div>
         <div className="dashboard-stream">
@@ -66,10 +54,50 @@ function Dashboard() {
           <BookObject data={cpp.items[3]} />
           <BookObject data={cpp.items[4]} />
         </div>
+
+        {/* Cpp */}
+        <div className="dashboard-title">
+          <p>Java</p>
+          <a href="#">view all {'>'}</a>
+        </div>
+        <div className="dashboard-stream">
+          <BookObject data={java.items[0]} />
+          <BookObject data={java.items[1]} />
+          <BookObject data={java.items[2]} />
+          <BookObject data={java.items[3]} />
+          <BookObject data={java.items[4]} />
+        </div>
+
+        {/* Javascript */}
+        <div className="dashboard-title">
+          <p>Javascript</p>
+          <a href="#">view all {'>'}</a>
+        </div>
+        <div className="dashboard-stream">
+          <BookObject data={js.items[0]} />
+          <BookObject data={js.items[1]} />
+          <BookObject data={js.items[2]} />
+          <BookObject data={js.items[3]} />
+          <BookObject data={js.items[4]} />
+        </div>
+
+        {/* DBMS */}
+        <div className="dashboard-title">
+          <p>DBMS</p>
+          <a href="#">view all {'>'}</a>
+        </div>
+        <div className="dashboard-stream">
+          <BookObject data={dbms.items[0]} />
+          <BookObject data={dbms.items[2]} />
+          <BookObject data={dbms.items[3]} />
+          <BookObject data={dbms.items[4]} />
+          <BookObject data={dbms.items[5]} />
+        </div>
       </main>
 
       {/* Footer */}
       <Footer></Footer>
+      {/* </Menu> */}
     </div>
   )
 }

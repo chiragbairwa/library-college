@@ -3,6 +3,10 @@
   display: grid;
   grid-template-rows: 10vh 82vh 8vh;
 }
+/* Menu */
+/* .burger-menu {
+
+} */
 
 .dashboard-main {
   padding: 0 0 8px 16px;
@@ -19,6 +23,10 @@
 
 .dashboard-title > a {
   margin-right: 16px;
+}
+.dashboard-title > p {
+  font-weight: 600;
+  font-size: larger;
 }
 
 .dashboard-new-arrivals {
@@ -43,8 +51,9 @@
 }
 
 .dashboard-books-card > p {
-  padding: 2px 4px;
-  font-weight: 500;
+  /* padding: 2px 4px 0 4px; */
+
+  font-weight: 400;
 }
 
 .dashboard-stream {
