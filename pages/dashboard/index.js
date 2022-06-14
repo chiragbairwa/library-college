@@ -1,8 +1,6 @@
 import Link from 'next/link'
 import Footer from '../footer'
 import Image from 'next/image'
-// import { useEffect, useState } from 'react'
-import { MenuBar } from './menu'
 
 // JSON
 import cpp from '../../books/cpp.json'
@@ -16,7 +14,6 @@ function Dashboard() {
     <div className="dashboard">
       {/* HEADER */}
       <div className="dashboard-header">
-        <MenuBar />
         <div>
           <div className="dashboard-header-search"></div>
           <div className="dashboard-header-profile"></div>
@@ -30,7 +27,12 @@ function Dashboard() {
         {/* New Books */}
         <div className="dashboard-title">
           <p>Web Programming</p>
-          <Link href="/dashboard">
+          <Link
+            href={{
+              pathname: '/book/books',
+              query: { subjectName: 'WebProgramming' },
+            }}
+          >
             <a>view all {'>'}</a>
           </Link>
         </div>
@@ -45,7 +47,14 @@ function Dashboard() {
         {/* C */}
         <div className="dashboard-title">
           <p>C / C++</p>
-          <a href="#">view all {'>'}</a>
+          <Link
+            href={{
+              pathname: '/book/books',
+              query: { subjectName: 'C/C++' },
+            }}
+          >
+            <a>view all {'>'}</a>
+          </Link>
         </div>
         <div className="dashboard-stream">
           <BookObject data={cpp.items[0]} />
@@ -58,7 +67,14 @@ function Dashboard() {
         {/* Cpp */}
         <div className="dashboard-title">
           <p>Java</p>
-          <a href="#">view all {'>'}</a>
+          <Link
+            href={{
+              pathname: '/book/books',
+              query: { subjectName: 'Java' },
+            }}
+          >
+            <a>view all {'>'}</a>
+          </Link>
         </div>
         <div className="dashboard-stream">
           <BookObject data={java.items[0]} />
@@ -71,7 +87,14 @@ function Dashboard() {
         {/* Javascript */}
         <div className="dashboard-title">
           <p>Javascript</p>
-          <a href="#">view all {'>'}</a>
+          <Link
+            href={{
+              pathname: '/book/books',
+              query: { subjectName: 'JavaScript' },
+            }}
+          >
+            <a>view all {'>'}</a>
+          </Link>
         </div>
         <div className="dashboard-stream">
           <BookObject data={js.items[0]} />
@@ -84,7 +107,14 @@ function Dashboard() {
         {/* DBMS */}
         <div className="dashboard-title">
           <p>DBMS</p>
-          <a href="#">view all {'>'}</a>
+          <Link
+            href={{
+              pathname: '/book/books',
+              query: { subjectName: 'DBMS' },
+            }}
+          >
+            <a>view all {'>'}</a>
+          </Link>
         </div>
         <div className="dashboard-stream">
           <BookObject data={dbms.items[0]} />
