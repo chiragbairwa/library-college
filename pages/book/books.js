@@ -47,7 +47,10 @@ const SubjectBooks = () => {
         }}
       >
         {[...Array(40)].map((e, i) => (
-          <BookObject data={data.items[i]} />
+          <BookObject
+            data={data.items[i]}
+            key={`${props.data.volumeInfo.title} + ${i}`}
+          />
         ))}
       </div>
     </div>
