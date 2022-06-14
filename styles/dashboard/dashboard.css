@@ -1,12 +1,15 @@
 .dashboard {
-  height: -webkit-fill-available;
   display: grid;
   grid-template-rows: 10vh 82vh 8vh;
 }
 /* Menu */
-/* .burger-menu {
-
-} */
+.burger-menu {
+  display: flex;
+  flex-direction: column;
+}
+.burger-menu > div:first-child {
+  display: none;
+}
 
 .dashboard-main {
   padding: 0 0 8px 16px;

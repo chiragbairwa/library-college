@@ -9,11 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "burger-menu": "^1.0.13",
     "firebase": "^9.8.3",
     "next": "12.1.0",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "react-qr-reader": "^3.0.0-beta-1"
   },
   "devDependencies": {
     "eslint": "8.10.0",

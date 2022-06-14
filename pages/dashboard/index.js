@@ -97,7 +97,6 @@ function Dashboard() {
 
       {/* Footer */}
       <Footer></Footer>
-      {/* </Menu> */}
     </div>
   )
 }
@@ -119,6 +118,7 @@ const BookObject = (props) => {
             width="160px"
             height="190px"
             unoptimized
+            alt={title}
           />
 
           <p>{title}</p>

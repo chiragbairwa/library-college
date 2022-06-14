@@ -1,7 +1,6 @@
 import { useRouter } from 'next/router'
 import { useEffect, useState } from 'react'
 import { useAuth } from '../../firebase/authContext'
-import { auth } from '../../firebase/firebase'
 
 function Auth() {
   const [value, setValue] = useState(1)
@@ -103,7 +102,6 @@ function Auth() {
     const [registerInfo, setregisterInfo] = useState({
       email: '',
       password: '',
-      name: '',
     })
 
     const handleRegister = async (e) => {

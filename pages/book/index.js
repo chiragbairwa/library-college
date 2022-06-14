@@ -1,6 +1,8 @@
 import Link from 'next/link'
 
-const BookInfo = () => {
+const BookInfo = (props) => {
+  const booksearch = `https://www.googleapis.com/books/v1/volumes?q=${props.isbn}&maxResults=1`
+
   return (
     <>
       <div className="top-bar">
@@ -9,6 +11,8 @@ const BookInfo = () => {
         </Link>
         <p>Shelves Collection</p>
       </div>
+
+      <p>{props.isbn}</p>
     </>
   )
 }
