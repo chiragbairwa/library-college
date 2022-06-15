@@ -1,6 +1,8 @@
 import Link from 'next/link'
 import { useRouter } from 'next/router'
 import Image from 'next/image'
+
+// json
 import cpp from '../../books/cpp.json'
 import dbms from '../../books/dbms.json'
 import java from '../../books/java.json'
@@ -43,13 +45,13 @@ const SubjectBooks = () => {
           marginLeft: '16px',
           display: 'grid',
           gridTemplateColumns: 'repeat(2,1fr)',
-          rowGap: '16px',
+          gap: '16px',
         }}
       >
         {[...Array(40)].map((e, i) => (
           <BookObject
             data={data.items[i]}
-            key={`${props.data.volumeInfo.title} + ${i}`}
+            key={`${data.items[i].volumeInfo.title} + ${i}`}
           />
         ))}
       </div>

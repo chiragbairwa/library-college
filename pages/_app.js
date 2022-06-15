@@ -8,7 +8,11 @@ import '../styles/dashboard/dashboard.css'
 // Login
 import './login/login.css'
 
+// Collection
 import './collection/collection.css'
+
+// Book
+import './book/book.css'
 
 // Auth
 import { useRouter } from 'next/router'

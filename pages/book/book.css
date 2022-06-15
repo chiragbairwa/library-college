@@ -1,0 +1,47 @@
+.individual-book {
+  padding: 8px 8px 0 8px;
+  /* background-color: aqua; */
+}
+.book-image-container {
+  height: 240px;
+
+  background-color: antiquewhite;
+}
+.book-image {
+  position: relative;
+  top: 40px;
+  left: 7em;
+
+  width: 160px;
+  height: 240px;
+  background-color: aquamarine;
+
+  border-radius: 16px;
+}
+
+.individual-book-info {
+  margin: 40px 16px;
+  display: flex;
+  flex-direction: column;
+}
+.individual-book-info :is(h2, h3) {
+  text-align: center;
+}
+.individual-book-info > p {
+  margin-left: 32px;
+}
+
+.individual-book-info > p:first-of-type {
+  font-weight: 500;
+  font-size: large;
+  margin-bottom: 0;
+}
+
+.individual-book-info > div > div > p {
+  font-weight: 500;
+}
+
+.individual-book-info > div {
+  display: flex;
+  justify-content: space-around;
+}

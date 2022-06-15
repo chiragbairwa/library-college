@@ -1,7 +1,7 @@
 import Link from 'next/link'
 import Footer from '../footer'
 import Image from 'next/image'
-
+import { useAuth } from '../../firebase/authContext'
 // JSON
 import cpp from '../../books/cpp.json'
 import dbms from '../../books/dbms.json'
@@ -10,6 +10,8 @@ import js from '../../books/javascript.json'
 import web from '../../books/webprog.json'
 
 function Dashboard() {
+  const { user, logout } = useAuth()
+
   return (
     <div className="dashboard">
       {/* HEADER */}
@@ -17,6 +19,7 @@ function Dashboard() {
         <div>
           <div className="dashboard-header-search"></div>
           <div className="dashboard-header-profile"></div>
+          <button onClick={logout}>Logout</button>
         </div>
 
         {/* <input type="search" placeholder="Search a book or an author" /> */}
@@ -143,7 +146,7 @@ const BookObject = (props) => {
       <a>
         <div className="dashboard-books-card">
           <Image
-            loader={() => image}
+            loader={({ src: image }) => image}
             src={image}
             width="160px"
             height="190px"
