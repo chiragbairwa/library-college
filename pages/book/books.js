@@ -48,7 +48,7 @@ const SubjectBooks = () => {
           gap: '16px',
         }}
       >
-        {[...Array(40)].map((e, i) => (
+        {[...Array(20)].map((e, i) => (
           <BookObject
             data={data.items[i]}
             key={`${data.items[i].volumeInfo.title} + ${i}`}

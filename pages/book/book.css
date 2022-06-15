@@ -1,34 +1,36 @@
 .individual-book {
-  padding: 8px 8px 0 8px;
+  padding: 8px;
+  display: grid;
+  grid-template-rows: 8vh 84vh auto;
+
   /* background-color: aqua; */
 }
 .book-image-container {
   height: 240px;
-
+  margin-bottom: 32px;
   background-color: antiquewhite;
 }
 .book-image {
   position: relative;
   top: 40px;
-  left: 7em;
 
   width: 160px;
   height: 240px;
-  background-color: aquamarine;
+  background-color: white;
 
   border-radius: 16px;
 }
 
 .individual-book-info {
-  margin: 40px 16px;
   display: flex;
+  overflow-y: scroll;
   flex-direction: column;
 }
 .individual-book-info :is(h2, h3) {
   text-align: center;
 }
 .individual-book-info > p {
-  margin-left: 32px;
+  margin-left: 16px;
 }
 
 .individual-book-info > p:first-of-type {

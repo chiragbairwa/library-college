@@ -1,43 +1,77 @@
 import Link from 'next/link'
 import Footer from '../footer'
+import { useRouter } from 'next/router'
+import Image from 'next/image'
+
+import { useEffect, useState } from 'react'
+
 const BookInfo = (props) => {
-  const booksearch = `https://www.googleapis.com/books/v1/volumes?q=${props.isbn}&maxResults=1`
+  const router = useRouter()
+  let data = router.query
+  // data = data.stringify()
+  // data = data.replace(/\s/g, '')
+  console.log(typeof data)
+
+  const booksearch = `https://www.googleapis.com/books/v1/volumes?q=${data.title}&maxResults=1`
+
+  const [bookData, setBookData] = useState({})
+  const [imageUrl, setImageUrl] = useState(undefined)
+
+  useEffect(async () => {
+    await fetch(booksearch)
+      .then((res) => res.json())
+      .then((result) => {
+        setBookData(result.items[0].volumeInfo)
+        setImageUrl(result.items[0].volumeInfo.imageLinks.thumbnail)
+      })
+  }, [imageUrl])
 
   return (
     <div className="individual-book">
       <div className="top-bar">
-        <Link href="#" replace className="register-back-btn">
+        <Link href="/dashboard" className="register-back-btn">
           <a>{'<'}</a>
         </Link>
         <p>Book</p>
       </div>
 
-      <div className="book-image-container">
-        <div className="book-image"></div>
-      </div>
-
       <section className="individual-book-info">
-        <h2>{props.title}Name</h2>
-        <h3>{props.author}Author</h3>
+        <div className="book-image-container">
+          {/* Book Image */}
+
+          {imageUrl ? (
+            <div
+              className="book-image"
+              alt={bookData.title}
+              style={{
+                backgroundImage: `url(${imageUrl})`,
+              }}
+            ></div>
+          ) : (
+            <div className="book-image" alt={bookData.title}></div>
+          )}
+        </div>
+
+        <h2 style={{ marginBottom: '0' }}>{bookData.title}</h2>
+        <h3>{bookData.authors ? bookData.authors : bookData.publisher}</h3>
         <div>
           <div>
             <label>Year</label>
-            <p>{props.year}2002</p>
+            <p>{bookData.publishedDate}</p>
           </div>
           <div>
             <label>Language</label>
-            <p>{props.language}language</p>
+            <p>{bookData.language}</p>
           </div>
           <div>
             <label>Page</label>
-            <p>{props.page}204</p>
+            <p>{bookData.pageCount}</p>
           </div>
         </div>
 
         <p>Description :</p>
-        <p>{props.description} scslkcsmk</p>
+        <p>{bookData.description}</p>
       </section>
-
       <Footer></Footer>
     </div>
   )

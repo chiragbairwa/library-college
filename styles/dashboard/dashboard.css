@@ -1,21 +1,12 @@
 .dashboard {
   display: grid;
-  grid-template-rows: 10vh 82vh 8vh;
+  grid-template-rows: 10vh 82vh auto;
 }
 /* Menu */
-.burger-menu {
-  display: flex;
-  flex-direction: column;
-}
-.burger-menu > div:first-child {
-  display: none;
-}
 
 .dashboard-main {
   padding: 0 0 8px 16px;
   overflow-y: scroll;
-  -ms-overflow-style: none; /* IE and Edge */
-  scrollbar-width: none; /* Firefox */
 }
 
 .dashboard-title {
@@ -32,12 +23,6 @@
   font-size: larger;
 }
 
-.dashboard-new-arrivals {
-  width: 100%;
-  height: fit-content;
-  display: flex;
-  overflow-x: scroll;
-}
 .dashboard-books-card {
   width: 160px;
   height: 260px;
@@ -54,17 +39,10 @@
 }
 
 .dashboard-books-card > p {
-  /* padding: 2px 4px 0 4px; */
-
   font-weight: 400;
 }
 
-.dashboard-stream {
+.dashboard-subject {
   display: flex;
   overflow-x: scroll;
-}
-.stream-container {
-  margin-right: 16px;
-  /* width: 140px; */
-  background-color: aquamarine;
 }

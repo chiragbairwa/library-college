@@ -17,10 +17,22 @@ function Dashboard() {
       {/* HEADER */}
       <div className="dashboard-header">
         <div>
-          <div className="dashboard-header-search"></div>
-          <div className="dashboard-header-profile"></div>
-          <button onClick={logout}>Logout</button>
+          {/* <div className="dashboard-header-search"></div> */}
+          {/* <div className="dashboard-header-profile"></div> */}
+          <h3>Hello! </h3>
         </div>
+        <button
+          onClick={logout}
+          style={{
+            float: 'right',
+            padding: '8px 16px',
+            borderRadius: '8px',
+            fontSize: '16px',
+            backgroundColor: 'white',
+          }}
+        >
+          Logout
+        </button>
 
         {/* <input type="search" placeholder="Search a book or an author" /> */}
       </div>
@@ -39,7 +51,7 @@ function Dashboard() {
             <a>view all {'>'}</a>
           </Link>
         </div>
-        <div className="dashboard-new-arrivals">
+        <div className="dashboard-subject">
           <BookObject data={web.items[0]} />
           <BookObject data={web.items[1]} />
           <BookObject data={web.items[2]} />
@@ -59,7 +71,7 @@ function Dashboard() {
             <a>view all {'>'}</a>
           </Link>
         </div>
-        <div className="dashboard-stream">
+        <div className="dashboard-subject">
           <BookObject data={cpp.items[0]} />
           <BookObject data={cpp.items[1]} />
           <BookObject data={cpp.items[2]} />
@@ -79,7 +91,7 @@ function Dashboard() {
             <a>view all {'>'}</a>
           </Link>
         </div>
-        <div className="dashboard-stream">
+        <div className="dashboard-subject">
           <BookObject data={java.items[0]} />
           <BookObject data={java.items[1]} />
           <BookObject data={java.items[2]} />
@@ -99,7 +111,7 @@ function Dashboard() {
             <a>view all {'>'}</a>
           </Link>
         </div>
-        <div className="dashboard-stream">
+        <div className="dashboard-subject">
           <BookObject data={js.items[0]} />
           <BookObject data={js.items[1]} />
           <BookObject data={js.items[2]} />
@@ -119,7 +131,7 @@ function Dashboard() {
             <a>view all {'>'}</a>
           </Link>
         </div>
-        <div className="dashboard-stream">
+        <div className="dashboard-subject">
           <BookObject data={dbms.items[0]} />
           <BookObject data={dbms.items[2]} />
           <BookObject data={dbms.items[3]} />
@@ -137,12 +149,14 @@ function Dashboard() {
 const BookObject = (props) => {
   const image = props.data.volumeInfo.imageLinks.thumbnail
   const title = props.data.volumeInfo.title
-  const author = props.data.volumeInfo.author
-  const publisher = props.data.volumeInfo.publisher
-  const ISBN_13_10 = props.data.volumeInfo.industryIdentifiers
 
   return (
-    <Link href="/collection/book">
+    <Link
+      href={{
+        pathname: '/book',
+        query: props.data.volumeInfo,
+      }}
+    >
       <a>
         <div className="dashboard-books-card">
           <Image
