@@ -20,14 +20,18 @@ const BookInfo = () => {
       await fetch(booksearch)
         .then((res) => res.json())
         .then((result) => {
-          setBookData(result.items[0].volumeInfo)
-
           try {
-            setImageUrl(result.items[0].volumeInfo.imageLinks.thumbnail)
+            setBookData(result.items[0].volumeInfo)
+            try {
+              setImageUrl(result.items[0].volumeInfo.imageLinks.thumbnail)
+            } catch (err) {
+              setImageUrl(
+                `http://books.google.com/books/content?id=XXdyQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api`,
+              )
+            }
           } catch (err) {
-            setImageUrl(
-              `http://books.google.com/books/content?id=XXdyQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api`,
-            )
+            router.push('/barcode')
+            alert('Cannot Find the Book')
           }
         })
 
@@ -73,7 +77,11 @@ const BookInfo = () => {
         </div>
 
         <p>Description :</p>
-        <p>{bookData.description}</p>
+        <p>
+          {bookData.description
+            ? bookData.description
+            : 'Description not provided'}
+        </p>
       </section>
       <Footer></Footer>
     </div>

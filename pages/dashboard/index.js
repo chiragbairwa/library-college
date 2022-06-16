@@ -14,12 +14,20 @@ function Dashboard() {
 
   return (
     <div className="dashboard">
+      {/* MAIN */}
       {/* HEADER */}
       <div className="dashboard-header">
         <div>
           {/* <div className="dashboard-header-search"></div> */}
           {/* <div className="dashboard-header-profile"></div> */}
-          <h3>Hello! </h3>
+          <p
+            style={{
+              fontWeight: '500',
+              fontSize: '20px',
+            }}
+          >
+            Hello! Learner
+          </p>
         </div>
         <button
           onClick={logout}
@@ -36,8 +44,6 @@ function Dashboard() {
 
         {/* <input type="search" placeholder="Search a book or an author" /> */}
       </div>
-
-      {/* MAIN */}
       <main className="dashboard-main">
         {/* New Books */}
         <div className="dashboard-title">

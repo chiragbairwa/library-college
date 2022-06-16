@@ -16,74 +16,78 @@ const Collection = () => {
 
   return (
     <div className="book-collection">
-      {/* Header */}
-      <Header headerName="Shelves Collection" />
-      <div className="collection-tab-container">
-        {/* Feature tab */}
-        <a
-          className="collection-tab feature-tab"
-          style={feature}
-          onClick={() => {
-            if (selected !== 1) {
-              setSelected(1)
+      <div>
+        {/* Header */}
+        <Header headerName="Shelves Collection" />
 
-              setFeature(selectedTab)
-              setOwned({})
-              setReviews({})
-            }
-          }}
-        >
-          Featured
-        </a>
+        <div className="collection-tab-container">
+          {/* Feature tab */}
+          <button
+            className="collection-tab feature-tab"
+            style={feature}
+            onClick={() => {
+              if (selected !== 1) {
+                setSelected(1)
 
-        {/* Owned tab */}
-        <a
-          className="collection-tab Owned-tab"
-          style={owned}
-          onClick={() => {
-            if (selected !== 2) {
-              setSelected(2)
+                setFeature(selectedTab)
+                setOwned({})
+                setReviews({})
+              }
+            }}
+          >
+            Featured
+          </button>
 
-              setFeature({})
-              setOwned(selectedTab)
-              setReviews({})
-            }
-          }}
-        >
-          Owned
-        </a>
+          {/* Owned tab */}
+          <button
+            className="collection-tab Owned-tab"
+            style={owned}
+            onClick={() => {
+              if (selected !== 2) {
+                setSelected(2)
 
-        {/* Reviews tab */}
-        <a
-          className="collection-tab reviews-tab"
-          style={reviews}
-          onClick={() => {
-            if (selected !== 3) {
-              setSelected(3)
-              setFeature({})
-              setOwned({})
-              setReviews(selectedTab)
-            }
-          }}
-        >
-          Reviews
-        </a>
+                setFeature({})
+                setOwned(selectedTab)
+                setReviews({})
+              }
+            }}
+          >
+            Owned
+          </button>
+
+          {/* Reviews tab */}
+          <button
+            className="collection-tab reviews-tab"
+            style={reviews}
+            onClick={() => {
+              if (selected !== 3) {
+                setSelected(3)
+                setFeature({})
+                setOwned({})
+                setReviews(selectedTab)
+              }
+            }}
+          >
+            Reviews
+          </button>
+        </div>
+
+        <main>
+          {/* Rendering Tabs Content */}
+          <div className="content">
+            {selected == 1 ? (
+              // Featured Content
+              <Featured />
+            ) : selected == 2 ? (
+              // Owned Content
+              <Owned />
+            ) : (
+              // Reviews Content
+              <Reviews />
+            )}
+          </div>
+        </main>
       </div>
-
-      {/* Rendering Tabs Content */}
-      <div className="content">
-        {selected == 1 ? (
-          // Featured Content
-          <Featured />
-        ) : selected == 2 ? (
-          // Owned Content
-          <Owned />
-        ) : (
-          // Reviews Content
-          <Reviews />
-        )}
-      </div>
-
       {/* Footer */}
       <Footer />
     </div>
@@ -91,7 +95,7 @@ const Collection = () => {
 }
 const BookImage = () => {
   return (
-    <Link href="/collection/book">
+    <Link href="/book">
       <a>
         <div className="feature-books-card">
           {/* <Image src="/vercel.svg" width="300px" height="250px" /> */}
@@ -108,8 +112,8 @@ const Featured = () => {
   return (
     <>
       <div className="collection-heading">
-        <span>Reading Now</span>
-        <span>{'5 books >'}</span>
+        <span>Reading now</span>
+        <span>{'5 books'}</span>
       </div>
 
       {/* Reading Books/ issued  */}
@@ -122,7 +126,7 @@ const Featured = () => {
       {/* Favourites */}
       <div className="collection-heading">
         <span>Favourites</span>
-        <span>{'6 books >'}</span>
+        <span>{'6 books'}</span>
       </div>
 
       <div className="reading-books-container">
@@ -136,68 +140,48 @@ const Featured = () => {
 }
 
 const Owned = () => {
+  let number = 5
   return (
     <>
       <div className="collection-heading">
-        <span>3 books</span>
+        <span>{number} books</span>
       </div>
 
       {/* Reading Books/ issued  */}
-      <div className="owned-cards">
-        <div className="owned-card">
-          {/* <img src="/vercel.svg" alt="Book Image" /> */}
-          <div></div>
-          <p>Book Name</p>
-        </div>
-        <div className="owned-card">
-          {/* <img src="/vercel.svg" alt="Book Image" /> */}
-          <div></div>
-          <p>Book Name</p>
-        </div>
-        <div className="owned-card">
-          {/* <img src="/vercel.svg" alt="Book Image" /> */}
-          <div></div>
-          <p>Book Name</p>
-        </div>
-      </div>
+      <main className="owned-books">
+        {[...Array(number)].map((e, i) => (
+          <BookImage />
+        ))}
+      </main>
     </>
   )
 }
 
 const Reviews = () => {
+  const ReviewCard = () => (
+    <div className="reviews-card">
+      <div className="div-image"></div>
+
+      <div className="reviews-card-info">
+        <p>Book Name</p>
+        <p>******25/10/2002</p>
+        <p>lorem ipsum</p>
+      </div>
+    </div>
+  )
+
+  let number = 5
   return (
     <>
       <div className="collection-heading">
         <span>3 Reviews</span>
       </div>
+
       {/* Reviews */}
       <div className="reviews-cards">
-        <div className="reviews-card">
-          <div className="div-image"></div>
-
-          <div className="reviews-card-info">
-            <p>Book Name</p>
-            <p>******25/10/2002</p>
-            <p>lorem ipsum</p>
-          </div>
-        </div>
-        <div className="reviews-card">
-          <div className="div-image"></div>
-
-          <div className="reviews-card-info">
-            <p>Book Name</p>
-            <p>******25/10/2002</p>
-            <p>lorem ipsum</p>
-          </div>
-        </div>
-        <div className="reviews-card">
-          <div className="div-image"></div>
-          <div className="reviews-card-info">
-            <p>Book Name</p>
-            <p>******25/10/2002</p>
-            <p>lorem ipsum</p>
-          </div>
-        </div>
+        {[...Array(number)].map((e, i) => (
+          <ReviewCard />
+        ))}
       </div>
     </>
   )
