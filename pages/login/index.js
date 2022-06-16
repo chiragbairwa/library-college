@@ -4,6 +4,14 @@ import { useAuth } from '../../firebase/authContext'
 
 function Auth() {
   const [value, setValue] = useState(1)
+  const router = useRouter()
+
+  const { user } = useAuth()
+
+  // if there is an user Redirect to Dashboard
+  if (user) {
+    router.push('/dashboard')
+  }
 
   useEffect(() => {}, [value])
 
@@ -81,7 +89,7 @@ function Auth() {
           </button>
         </form>
 
-        {/* Additional Options */}
+        {/* Additional Options
         <div
           style={{
             width: '10rem',
@@ -92,7 +100,7 @@ function Auth() {
 
         <button className="btn google-btn" onClick={handleGoogle}>
           Continue with Google
-        </button>
+        </button> */}
       </div>
     )
   }

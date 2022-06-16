@@ -1,9 +1,10 @@
 import Link from 'next/link'
+import Footer from '../../components/footer'
 import { useState, useEffect } from 'react'
 import Header from '../../components/header'
 
 const Collection = () => {
-  let selectedTab = { borderBottom: '1px solid #4e6ee0' }
+  let selectedTab = { backgroundColor: 'rgb(132, 210, 184)' }
 
   const [feature, setFeature] = useState(selectedTab)
   const [owned, setOwned] = useState({})
@@ -16,10 +17,8 @@ const Collection = () => {
   return (
     <div className="book-collection">
       {/* Header */}
-
       <Header headerName="Shelves Collection" />
-
-      <div className="collection-tabs">
+      <div className="collection-tab-container">
         {/* Feature tab */}
         <a
           className="collection-tab feature-tab"
@@ -84,6 +83,9 @@ const Collection = () => {
           <Reviews />
         )}
       </div>
+
+      {/* Footer */}
+      <Footer />
     </div>
   )
 }
@@ -123,7 +125,7 @@ const Featured = () => {
         <span>{'6 books >'}</span>
       </div>
 
-      <div className="dashboard-new-arrivals">
+      <div className="reading-books-container">
         <BookImage></BookImage>
         <BookImage></BookImage>
         <BookImage></BookImage>

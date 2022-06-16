@@ -1,23 +1,10 @@
-.book-collection {
-  height: 100vh;
-  padding: 8px;
-}
-
-.top-bar {
-  margin-bottom: 16px;
-  display: flex;
-  align-items: center;
-}
-.top-bar > p {
-  margin-left: 24px;
-}
-.collection-tabs {
-  width: 100%;
-  text-align: center;
-
+.collection-tab-container {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   background-color: aquamarine;
+  border-radius: 16px;
+
+  overflow: hidden;
 }
 
 .collection-tab {
@@ -27,15 +14,14 @@
 }
 
 .content {
-  margin: 8px;
+  padding: 16px;
 }
 .collection-heading {
   margin: 16px 16px 8px 0;
   font-size: large;
   font-weight: bold;
 }
-/* .collection-heading > span {
-} */
+
 .collection-heading > span:nth-child(2) {
   float: right;
   font-weight: normal;

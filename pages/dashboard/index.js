@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import Footer from '../footer'
+import Footer from '../../components/footer'
 import Image from 'next/image'
 import { useAuth } from '../../firebase/authContext'
 // JSON

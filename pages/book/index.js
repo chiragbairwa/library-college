@@ -1,11 +1,10 @@
-import Footer from '../footer'
-import Header from '../header'
+import Footer from '../../components/footer'
+import Header from '../../components/header'
 
 import { useRouter } from 'next/router'
-
 import { useEffect, useState } from 'react'
 
-const BookInfo = (props) => {
+const BookInfo = () => {
   const router = useRouter()
   let data = router.query
 
@@ -16,20 +15,23 @@ const BookInfo = (props) => {
   const [bookData, setBookData] = useState({})
   const [imageUrl, setImageUrl] = useState(undefined)
 
-  useEffect(async () => {
-    await fetch(booksearch)
-      .then((res) => res.json())
-      .then((result) => {
-        setBookData(result.items[0].volumeInfo)
+  useEffect(() => {
+    const apiFetch = async () =>
+      await fetch(booksearch)
+        .then((res) => res.json())
+        .then((result) => {
+          setBookData(result.items[0].volumeInfo)
 
-        try {
-          setImageUrl(result.items[0].volumeInfo.imageLinks.thumbnail)
-        } catch (err) {
-          setImageUrl(
-            `http://books.google.com/books/content?id=XXdyQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api`,
-          )
-        }
-      })
+          try {
+            setImageUrl(result.items[0].volumeInfo.imageLinks.thumbnail)
+          } catch (err) {
+            setImageUrl(
+              `http://books.google.com/books/content?id=XXdyQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api`,
+            )
+          }
+        })
+
+    apiFetch()
   }, [imageUrl])
 
   return (

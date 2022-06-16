@@ -1,9 +1,9 @@
 import '../styles/globals.css'
 import '../styles/footer.css'
+import '../styles/header.css'
 
 // Dashboard
-import '../styles/dashboard/header.css'
-import '../styles/dashboard/dashboard.css'
+import './dashboard/dashboard.css'
 
 // Login
 import './login/login.css'

@@ -5,8 +5,6 @@ import {
   signInWithEmailAndPassword,
   signOut,
   signInWithRedirect,
-  getRedirectResult,
-  GoogleAuthProvider,
 } from 'firebase/auth'
 import { auth } from './firebase'
 

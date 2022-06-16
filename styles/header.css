@@ -1,0 +1,22 @@
+.header {
+  padding: 0 0 0 8px;
+  margin-bottom: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: baseline;
+  background-color: rgb(151, 205, 207);
+}
+
+.previous-page-btn {
+  margin-right: 16px;
+  margin-top: 4px;
+  padding: 6px 8px 2px 6px;
+  font-size: x-large;
+
+  border-radius: 8px;
+}
+
+.header > p {
+  font-size: larger;
+  font-weight: 500;
+}

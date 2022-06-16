@@ -33,26 +33,27 @@ const SubjectBooks = () => {
       break
   }
   return (
-    <div className="book-collection">
+    <>
       {/* Header */}
       <Header headerName={`${subject.subjectName} Books`} />
-
-      <div
-        style={{
-          marginLeft: '16px',
-          display: 'grid',
-          gridTemplateColumns: 'repeat(2,1fr)',
-          gap: '16px',
-        }}
-      >
-        {[...Array(20)].map((e, i) => (
-          <BookObject
-            data={data.items[i]}
-            key={`${data.items[i].volumeInfo.title} + ${i}`}
-          />
-        ))}
+      <div className="book-collection">
+        <div
+          style={{
+            marginLeft: '16px',
+            display: 'grid',
+            gridTemplateColumns: 'repeat(2,1fr)',
+            gap: '16px',
+          }}
+        >
+          {[...Array(20)].map((e, i) => (
+            <BookObject
+              data={data.items[i]}
+              key={`${data.items[i].volumeInfo.title} + ${i}`}
+            />
+          ))}
+        </div>
       </div>
-    </div>
+    </>
   )
 }
 
