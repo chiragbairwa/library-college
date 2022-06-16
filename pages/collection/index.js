@@ -150,7 +150,7 @@ const Owned = () => {
       {/* Reading Books/ issued  */}
       <main className="owned-books">
         {[...Array(number)].map((e, i) => (
-          <BookImage />
+          <BookImage key={'OwnedCard' + i} />
         ))}
       </main>
     </>
@@ -180,7 +180,7 @@ const Reviews = () => {
       {/* Reviews */}
       <div className="reviews-cards">
         {[...Array(number)].map((e, i) => (
-          <ReviewCard />
+          <ReviewCard key={'ReviewCard' + i} />
         ))}
       </div>
     </>
