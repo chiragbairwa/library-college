@@ -1,9 +1,6 @@
 .individual-book {
-  padding: 8px;
   display: grid;
   grid-template-rows: 8vh 84vh auto;
-
-  /* background-color: aqua; */
 }
 .book-image-container {
   height: 240px;
@@ -22,6 +19,7 @@
 }
 
 .individual-book-info {
+  padding: 8px;
   display: flex;
   overflow-y: scroll;
   flex-direction: column;

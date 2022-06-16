@@ -1,7 +1,6 @@
-import { useState } from 'react'
-import Book from '../book/index'
-import Link from 'next/link'
 import dynamic from 'next/dynamic'
+import Header from '../../components/header'
+import { useRouter } from 'next/router'
 
 const QrReader = dynamic(
   () => import('react-qr-reader').then((mod) => mod.QrReader),
@@ -9,27 +8,23 @@ const QrReader = dynamic(
 )
 
 export default function Scanner() {
-  const [data, setData] = useState('')
-  const [isIsbn, setIsbn] = useState(false)
+  const router = useRouter()
 
-  return isIsbn ? (
-    <Book isbn={data} />
-  ) : (
+  return (
     <div className="barcode-scanner" style={{ padding: '16px' }}>
       {/* Header */}
-      <div className="top-bar">
-        <Link href="/dashboard">
-          <a className="register-back-btn">{'<'}</a>
-        </Link>
-        <p>ISBN Code Scanner</p>
-      </div>
+      <Header headerName="ISBN Code Scanner"></Header>
+
       <QrReader
+        constraints={{ facingMode: 'environment' }}
         onResult={(result, error) => {
           if (!!result) {
-            setData(result?.text)
-            setIsbn(true)
+            console.log(result?.text)
+            router.push({
+              pathname: '/book',
+              query: { title: result?.text },
+            })
           }
-
           if (!!error) {
             console.info(error)
           }

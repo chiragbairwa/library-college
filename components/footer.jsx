@@ -4,7 +4,7 @@ function Footer() {
   return (
     <div className="footer-container">
       {/* Home */}
-      <Link href="">
+      <Link href="/dashboard">
         <a>
           <svg fill="currentColor" viewBox="0 0 16 16">
             <path

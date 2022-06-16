@@ -156,6 +156,7 @@ const BookObject = (props) => {
         pathname: '/book',
         query: props.data.volumeInfo,
       }}
+      as={`/book?${title}`}
     >
       <a>
         <div className="dashboard-books-card">

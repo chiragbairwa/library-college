@@ -1,4 +1,5 @@
 import Link from 'next/link'
+import Header from '../../components/header'
 import { useRouter } from 'next/router'
 import Image from 'next/image'
 
@@ -34,12 +35,8 @@ const SubjectBooks = () => {
   return (
     <div className="book-collection">
       {/* Header */}
-      <div className="top-bar">
-        <Link href="/dashboard">
-          <a className="register-back-btn">{'<'}</a>
-        </Link>
-        <p>{subject.subjectName} Books</p>
-      </div>
+      <Header headerName={`${subject.subjectName} Books`} />
+
       <div
         style={{
           marginLeft: '16px',
@@ -61,26 +58,30 @@ const SubjectBooks = () => {
 
 const BookObject = (props) => {
   let image
-  let title
+  let title = props.data.volumeInfo.title
   let author
   let publisher
-  let ISBN_13_10
+  // let ISBN_13_10
   try {
     image = props.data.volumeInfo.imageLinks.thumbnail
-    title = props.data.volumeInfo.title
     author = props.data.volumeInfo.author
     publisher = props.data.volumeInfo.publisher
-    ISBN_13_10 = props.data.volumeInfo.industryIdentifiers
+    // ISBN_13_10 = props.data.volumeInfo.industryIdentifiers
   } catch (err) {
     image = `http://books.google.com/books/content?id=XXdyQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api`
-    title = 'Sample'
     author = 'Sample'
     publisher = 'Sample'
-    ISBN_13_10 = 'Sample'
+    // ISBN_13_10 = 'Sample'
   }
 
   return (
-    <Link href="/collection/book">
+    <Link
+      href={{
+        pathname: '/book',
+        query: props.data.volumeInfo,
+      }}
+      as={`/book?${title}`}
+    >
       <a>
         <div className="dashboard-books-card">
           <Image

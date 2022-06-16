@@ -1,18 +1,17 @@
-import Link from 'next/link'
 import Footer from '../footer'
+import Header from '../header'
+
 import { useRouter } from 'next/router'
-import Image from 'next/image'
 
 import { useEffect, useState } from 'react'
 
 const BookInfo = (props) => {
   const router = useRouter()
   let data = router.query
-  // data = data.stringify()
-  // data = data.replace(/\s/g, '')
-  console.log(typeof data)
 
-  const booksearch = `https://www.googleapis.com/books/v1/volumes?q=${data.title}&maxResults=1`
+  let bookSearchId = data.title
+
+  const booksearch = `https://www.googleapis.com/books/v1/volumes?q=${bookSearchId}&maxResults=1`
 
   const [bookData, setBookData] = useState({})
   const [imageUrl, setImageUrl] = useState(undefined)
@@ -22,18 +21,20 @@ const BookInfo = (props) => {
       .then((res) => res.json())
       .then((result) => {
         setBookData(result.items[0].volumeInfo)
-        setImageUrl(result.items[0].volumeInfo.imageLinks.thumbnail)
+
+        try {
+          setImageUrl(result.items[0].volumeInfo.imageLinks.thumbnail)
+        } catch (err) {
+          setImageUrl(
+            `http://books.google.com/books/content?id=XXdyQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api`,
+          )
+        }
       })
   }, [imageUrl])
 
   return (
     <div className="individual-book">
-      <div className="top-bar">
-        <Link href="/dashboard" className="register-back-btn">
-          <a>{'<'}</a>
-        </Link>
-        <p>Book</p>
-      </div>
+      <Header headerName="Book" />
 
       <section className="individual-book-info">
         <div className="book-image-container">

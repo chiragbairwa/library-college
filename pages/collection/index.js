@@ -1,5 +1,6 @@
-import { useState, useEffect } from 'react'
 import Link from 'next/link'
+import { useState, useEffect } from 'react'
+import Header from '../../components/header'
 
 const Collection = () => {
   let selectedTab = { borderBottom: '1px solid #4e6ee0' }
@@ -15,12 +16,9 @@ const Collection = () => {
   return (
     <div className="book-collection">
       {/* Header */}
-      <div className="top-bar">
-        <Link href="/dashboard">
-          <a className="register-back-btn">{'<'}</a>
-        </Link>
-        <p>Shelves Collection</p>
-      </div>
+
+      <Header headerName="Shelves Collection" />
+
       <div className="collection-tabs">
         {/* Feature tab */}
         <a
