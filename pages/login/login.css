@@ -1,95 +1,122 @@
 /* LOGIN.JS */
 
 .auth-container {
-  padding-top: 8rem;
+  background-image: url('/login-bg-mob.svg');
   display: flex;
   align-items: center;
   flex-direction: column;
-  justify-content: center;
-  color: #4e6ee0;
+  color: white;
+  height: 100vh;
 }
 
 .image {
-  width: 100px;
-  height: 100px;
-
+  margin-top: 6rem;
+  padding: 24px;
+  display: grid;
+  place-items: center;
   border-radius: 12px;
-  margin-bottom: 48px;
-  background-color: #4e6ee0;
+  margin-bottom: 24px;
+  background: rgba(255, 253, 253, 0.4);
+
+  border-radius: 16px;
+  border: 1px solid rgba(255, 255, 255, 0.5);
 }
 
 .btn {
-  width: 16rem;
-  color: #4e6ee0;
-
+  width: 14rem;
   align-self: center;
   padding: 1rem 2.5rem;
 
   text-align: center;
   border-radius: 25em;
-  border: 2px solid #4e6ee0;
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
-    Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  border: none;
 }
 .login-form {
-  width: 18rem;
+  padding: 16px 24px 24px 24px;
+  width: fit-content;
+
   display: flex;
   flex-direction: column;
 }
 
+/* glass effect */
+.login-form {
+  background: rgba(255, 253, 253, 0.4);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+
+  border-radius: 16px;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+}
+.login-form > p {
+  font-size: 20px;
+  font-weight: 600;
+  text-align: center;
+  letter-spacing: 1px;
+}
+
 .input-field {
   height: 50px;
-
   padding: 0 16px;
-  font-size: large;
-  letter-spacing: 0.8px;
-  border: 2px solid grey;
-  border-radius: 8px;
+  width: 17rem;
+  font-size: 16px;
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  border-radius: 10px;
 }
 
-.input-field:focus-visible {
-  background-color: ghostwhite;
-}
-
-.login-register-btn,
-.google-btn {
+.login-register-btn {
   background-color: white;
+  cursor: pointer;
 }
 .login-btn {
+  cursor: pointer;
   margin: 8px 0 0 0;
   color: white;
-  background-color: #4e6ee0;
+  background-color: var(--second);
 }
 
 /* REGISTER.JS */
 .register-container {
   padding: 16px;
+  color: white;
+  height: 100vh;
+  background-image: url('/login-bg-mob.svg');
 }
 .register-back-btn {
   font-size: 24px;
   font-weight: 600;
-}
-
-.register-container > h2 {
-  margin-top: 48px;
+  cursor: pointer;
 }
 
 .register-form {
-  margin: 32px 0 0 32px;
+  margin: 7rem auto 0 auto;
+  padding: 16px 24px 24px 24px;
+
   width: fit-content;
   display: flex;
   flex-direction: column;
   align-items: center;
 }
+.register-form {
+  background: rgba(255, 253, 253, 0.4);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  border-radius: 16px;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+}
+
 .register-form > p {
-  align-self: flex-start;
+  font-size: 20px;
+  font-weight: 600;
+  text-align: center;
+  color: white;
+  letter-spacing: 1px;
 }
 .register-form > input {
-  width: 18rem;
+  width: 17rem;
 }
 .register-btn {
-  /* width: 16rem; */
+  cursor: pointer;
+  width: 14rem;
+  margin: 8px 0 0 0;
   color: white;
-  margin-top: 24px;
-  background-color: #4e6ee0;
+  background-color: var(--second);
 }

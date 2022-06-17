@@ -20,14 +20,7 @@ function Dashboard() {
         <div>
           {/* <div className="dashboard-header-search"></div> */}
           {/* <div className="dashboard-header-profile"></div> */}
-          <p
-            style={{
-              fontWeight: '500',
-              fontSize: '20px',
-            }}
-          >
-            Hello! Learner
-          </p>
+          <p>Hello! Learner</p>
         </div>
         <button
           onClick={logout}

@@ -4,7 +4,7 @@ import { useState, useEffect } from 'react'
 import Header from '../../components/header'
 
 const Collection = () => {
-  let selectedTab = { backgroundColor: 'rgb(132, 210, 184)' }
+  let selectedTab = { backgroundColor: '#2071ff' }
 
   const [feature, setFeature] = useState(selectedTab)
   const [owned, setOwned] = useState({})

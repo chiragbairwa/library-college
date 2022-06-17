@@ -1,7 +1,7 @@
 import { useRouter } from 'next/router'
 import { useEffect, useState } from 'react'
 import { useAuth } from '../../firebase/authContext'
-
+import Image from 'next/image'
 function Auth() {
   const [value, setValue] = useState(1)
   const router = useRouter()
@@ -22,7 +22,8 @@ function Auth() {
       password: '',
     })
     const router = useRouter()
-    const { user, login, loginWithGoogle } = useAuth()
+    const { user, login } = useAuth()
+    // const { user, loginWithGoogle } = useAuth()
 
     const handleLogin = async (e) => {
       e.preventDefault()
@@ -35,20 +36,21 @@ function Auth() {
       }
     }
 
-    const handleGoogle = async () => {
-      try {
-        await loginWithGoogle()
-      } catch (err) {
-        console.log(err)
-      }
-    }
+    // const handleGoogle = async () => {
+    //   try {
+    //     await loginWithGoogle()
+    //   } catch (err) {
+    //     console.log(err)
+    //   }
+    // }
     return (
       <div className="auth-container">
-        {/* <img src="/vercel.svg"></img> */}
-        <div className="image">LOGO</div>
+        <div className="image">
+          <Image src="/login-dp.png" width={100} height="100" />
+        </div>
 
         <form onSubmit={handleLogin} className="login-form">
-          <p>Login</p>
+          <p>Sign In</p>
           <input
             value={loginInfo.email}
             onChange={(e) =>
@@ -75,7 +77,7 @@ function Auth() {
           {/* Login button */}
 
           <button type="submit" value="Login" className="btn login-btn">
-            Login
+            Sign In
           </button>
           <br></br>
 
@@ -85,7 +87,7 @@ function Auth() {
             defaultValue="Register"
             className="btn login-register-btn"
           >
-            Register
+            Sign Up
           </button>
         </form>
 
@@ -172,7 +174,9 @@ function Auth() {
 
           {/* Register button */}
 
-          <input type="submit" value="Register" className="btn register-btn" />
+          <botton type="submit" className="btn register-btn">
+            Register
+          </botton>
         </form>
       </div>
     )

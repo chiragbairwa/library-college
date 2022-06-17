@@ -31,7 +31,7 @@ function Footer() {
       {/* Favourites */}
       <Link href="/collection">
         <a>
-          <svg viewBox="0 0 16 16">
+          <svg fill="currentColor" viewBox="0 0 16 16">
             <path
               fillRule="evenodd"
               d="M8 4.41c1.387-1.425 4.854 1.07 0 4.277C3.146 5.48 6.613 2.986 8 4.412z"
@@ -41,7 +41,7 @@ function Footer() {
         </a>
       </Link>
 
-      {/* Profile */}
+      {/* Profile
       <Link href="">
         <a>
           <svg fill="currentColor" viewBox="0 0 16 16">
@@ -52,7 +52,7 @@ function Footer() {
             />
           </svg>
         </a>
-      </Link>
+      </Link> */}
     </div>
   )
 }
