@@ -19,7 +19,15 @@ export default function Scanner() {
       {/* Header */}
       <Header headerName="ISBN Code Scanner"></Header>
 
-      <div className="barcode-scanner" style={{ padding: '16px' }}>
+      <div
+        style={{
+          paddingBottom: '10vh',
+          height: '70vh',
+          display: 'flex',
+          flexDirection: 'column',
+          alignItems: 'center',
+        }}
+      >
         <QrReader
           torch={torchOn}
           delay="500"
@@ -35,8 +43,8 @@ export default function Scanner() {
               console.info(err)
             }
           }}
-          style={{ width: '100px' }}
         />
+
         <p>{data}</p>
         <button onClick={() => setTorchOn(!torchOn)}>
           Switch Torch {torchOn ? 'Off' : 'On'}

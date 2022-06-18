@@ -1,10 +1,12 @@
-import Link from 'next/link'
 import Footer from '../../components/footer'
-import { useState, useEffect } from 'react'
 import Header from '../../components/header'
+import Link from 'next/link'
+import { useState, useEffect } from 'react'
+import personalJson from '../../books/person.json'
+import Image from 'next/image'
 
 const Collection = () => {
-  let selectedTab = { backgroundColor: '#2071ff' }
+  let selectedTab = { backgroundColor: 'var(--forth)' }
 
   const [feature, setFeature] = useState(selectedTab)
   const [owned, setOwned] = useState({})
@@ -93,15 +95,37 @@ const Collection = () => {
     </div>
   )
 }
-const BookImage = () => {
+const BookObject = (props) => {
+  const image = ''
+  const title = ''
+  try {
+    image = props.data.volumeInfo.imageLinks.thumbnail
+    title = props.data.volumeInfo.title
+  } catch (err) {
+    image =
+      'http://books.google.com/books/content?id=XXdyQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api'
+  }
+
   return (
-    <Link href="/book">
+    <Link
+      href={{
+        pathname: '/book',
+        query: props.data.volumeInfo,
+      }}
+      as={`/book?${title}`}
+    >
       <a>
-        <div className="feature-books-card">
-          {/* <Image src="/vercel.svg" width="300px" height="250px" /> */}
-          <div></div>
-          <p>Book Name</p>
-          {/* <p>Author Name</p> */}
+        <div className="dashboard-books-card">
+          <Image
+            loader={({ src: image }) => image}
+            src={image}
+            width="160px"
+            height="190px"
+            unoptimized
+            alt={title}
+          />
+
+          <p>{title}</p>
         </div>
       </a>
     </Link>
@@ -109,38 +133,39 @@ const BookImage = () => {
 }
 
 const Featured = () => {
+  let fav_book_num = personalJson.items.length
+
   return (
     <>
       <div className="collection-heading">
         <span>Reading now</span>
-        <span>{'5 books'}</span>
+        <span>{'3 books'}</span>
       </div>
 
       {/* Reading Books/ issued  */}
       <div className="reading-books-container">
-        <BookImage></BookImage>
-        <BookImage></BookImage>
-        <BookImage></BookImage>
+        <BookObject data={personalJson.items[4]} />
+        <BookObject data={personalJson.items[5]} />
+        <BookObject data={personalJson.items[2]} />
       </div>
 
       {/* Favourites */}
       <div className="collection-heading">
         <span>Favourites</span>
-        <span>{'6 books'}</span>
+        <span>{`${fav_book_num} books`}</span>
       </div>
 
       <div className="reading-books-container">
-        <BookImage></BookImage>
-        <BookImage></BookImage>
-        <BookImage></BookImage>
-        <BookImage></BookImage>
+        {[...Array(fav_book_num)].map((e, i) => (
+          <BookObject data={personalJson.items[i]} key={'FavCard' + i} />
+        ))}
       </div>
     </>
   )
 }
 
 const Owned = () => {
-  let number = 5
+  let number = 6
   return (
     <>
       <div className="collection-heading">
@@ -150,7 +175,7 @@ const Owned = () => {
       {/* Reading Books/ issued  */}
       <main className="owned-books">
         {[...Array(number)].map((e, i) => (
-          <BookImage key={'OwnedCard' + i} />
+          <BookObject data={personalJson.items[i]} key={'OwnedCard' + i} />
         ))}
       </main>
     </>
@@ -158,32 +183,72 @@ const Owned = () => {
 }
 
 const Reviews = () => {
-  const ReviewCard = () => (
-    <div className="reviews-card">
-      <div className="div-image"></div>
-
-      <div className="reviews-card-info">
-        <p>Book Name</p>
-        <p>******25/10/2002</p>
-        <p>lorem ipsum</p>
-      </div>
-    </div>
-  )
-
-  let number = 5
+  let number = 4
   return (
     <>
       <div className="collection-heading">
-        <span>3 Reviews</span>
+        <span>{`${number} Reviews`}</span>
       </div>
 
       {/* Reviews */}
       <div className="reviews-cards">
         {[...Array(number)].map((e, i) => (
-          <ReviewCard key={'ReviewCard' + i} />
+          <ReviewCard data={personalJson.items[i + 6]} key={'ReviewCard' + i} />
         ))}
       </div>
     </>
+  )
+}
+const ReviewCard = (props) => {
+  const image = ''
+  const title = ''
+  const date = 'Not Defined'
+  const description = 'Not Defined'
+  try {
+    image = props.data.volumeInfo.imageLinks.thumbnail
+    title = props.data.volumeInfo.title
+    date = props.data.volumeInfo.publishedDate
+    description = props.data.volumeInfo.description
+  } catch (err) {
+    image =
+      'http://books.google.com/books/content?id=XXdyQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api'
+  }
+
+  return (
+    <Link
+      href={{
+        pathname: '/book',
+        query: props.data.volumeInfo,
+      }}
+      as={`/book?${title}`}
+    >
+      <a>
+        <div className="reviews-card">
+          <div className="div-image">
+            <Image
+              loader={({ src: image }) => image}
+              src={image}
+              width="100%"
+              height="120px"
+              unoptimized
+              alt={title}
+            />
+          </div>
+
+          <div className="reviews-card-info">
+            <p>{title}</p>
+            <p>{`🌟🌟🌟🌟`}</p>
+            <p
+              style={{
+                fontSize: '15px',
+              }}
+            >
+              {description}
+            </p>
+          </div>
+        </div>
+      </a>
+    </Link>
   )
 }
 export default Collection

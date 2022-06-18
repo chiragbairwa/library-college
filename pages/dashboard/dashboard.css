@@ -1,6 +1,6 @@
 .dashboard {
-  display: grid;
-  grid-template-rows: 10vh 82.4vh auto;
+  padding-bottom: 52px;
+  background-color: var(--background);
 }
 /* Header */
 .dashboard-header {
@@ -45,11 +45,11 @@
   display: grid;
   place-items: center;
   grid-template-rows: 190px auto;
-
+  color: white;
   margin-right: 16px;
   overflow: hidden;
   border-radius: 10px;
-  background-color: rgba(0, 0, 255, 0.227);
+  background-color: var(--cardTextBg);
 }
 
 .dashboard-books-card > p {
@@ -59,4 +59,10 @@
 .dashboard-subject {
   display: flex;
   overflow-x: scroll;
+}
+
+@media screen and (min-width: 480px) {
+  .dashboard-subject {
+    justify-content: space-around;
+  }
 }

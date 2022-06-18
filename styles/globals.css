@@ -1,19 +1,25 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 :root {
-  --header: #8ecae6;
+  /* --header: #8ecae6;
   --footer: #219ebc;
   --dark: #023047;
-  --yellowPallet: #ffb703;
-  --cardTextBg: rgb(211, 221, 236);
-  --background: rgb(236, 240, 247);
+  --yellowPallet: #ffb703; */
+  --background: #eaebed;
 
+  --cardTextBg: #5b8291;
   --first: #004cbb;
   --second: #0056d6;
   --third: #0061f1;
-  --forth: #2071ff;
+  --forth: #2e424d;
   --fifth: #4385ff;
-  --sixth: #6198ff;
+  --sixth: #5b8291;
   --seventh: #93b9fe;
+
+  /* --one: #2e424d;
+  --two: #5b8291;
+  --three: #98dad9;
+  --four: #eaebed;
+ */
 }
 
 html,

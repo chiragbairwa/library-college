@@ -3,6 +3,7 @@ import Header from '../../components/header'
 
 import { useRouter } from 'next/router'
 import { useEffect, useState } from 'react'
+import personalJson from '../../books/person.json'
 
 const BookInfo = () => {
   const router = useRouter()
@@ -11,7 +12,7 @@ const BookInfo = () => {
   let bookSearchId = data.title
 
   const booksearch = `https://www.googleapis.com/books/v1/volumes?q=${bookSearchId}&maxResults=1`
-
+  const [rawBookData, setRawBookData] = useState({})
   const [bookData, setBookData] = useState({})
   const [imageUrl, setImageUrl] = useState(undefined)
 
@@ -23,6 +24,7 @@ const BookInfo = () => {
           try {
             setBookData(result.items[0].volumeInfo)
             try {
+              setRawBookData(result)
               setImageUrl(result.items[0].volumeInfo.imageLinks.thumbnail)
             } catch (err) {
               setImageUrl(
@@ -36,7 +38,12 @@ const BookInfo = () => {
         })
 
     apiFetch()
-  }, [imageUrl])
+  }, [])
+
+  const addToShelve = () => {
+    personalJson.write
+    personalJson.items.push(rawBookData.items[0])
+  }
 
   return (
     <div className="individual-book">
@@ -58,7 +65,6 @@ const BookInfo = () => {
             <div className="book-image" alt={bookData.title}></div>
           )}
         </div>
-
         <h2 style={{ marginBottom: '0' }}>{bookData.title}</h2>
         <h3>{bookData.authors ? bookData.authors : bookData.publisher}</h3>
         <div>
@@ -75,13 +81,13 @@ const BookInfo = () => {
             <p>{bookData.pageCount}</p>
           </div>
         </div>
-
         <p>Description :</p>
         <p>
           {bookData.description
             ? bookData.description
             : 'Description not provided'}
         </p>
+        <button onClick={addToShelve}>Add To Shelve</button>
       </section>
       <Footer></Footer>
     </div>

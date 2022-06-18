@@ -1,0 +1,1005 @@
+{
+  "kind": "books#volumes",
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "4RChxt67lvwC",
+      "etag": "naK3zeDkIsI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4RChxt67lvwC",
+      "volumeInfo": {
+        "title": "JavaScript",
+        "subtitle": "The Definitive Guide",
+        "authors": ["David Flanagan"],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2011-04-25",
+        "description": "A revised and updated edition offers comprehensive coverage of ECMAScript 5 (the new JavaScript language standard) and also the new APIs introduced in HTML5, with chapters on functions and classes completely rewritten and updated to match current best practices and a new chapter on language extensions and subsets. Original.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780596805524"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0596805527"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 1078,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "averageRating": 5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.7.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4RChxt67lvwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4RChxt67lvwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=4RChxt67lvwC&printsec=frontcover&dq=javascript&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=4RChxt67lvwC&dq=javascript&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/JavaScript.html?hl=&id=4RChxt67lvwC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4RChxt67lvwC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A revised and updated edition offers comprehensive coverage of ECMAScript 5 (the new JavaScript language standard) and also the new APIs introduced in HTML5, with chapters on functions and classes completely rewritten and updated to match ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uybQTGKDfgEC",
+      "etag": "BJOD+opkNaY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uybQTGKDfgEC",
+      "volumeInfo": {
+        "title": "A Book On C, 4/E",
+        "authors": ["Kelley", "Pohl"],
+        "publisher": "Pearson Education India",
+        "publishedDate": "1998-09",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8131724344"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788131724347"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=uybQTGKDfgEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=uybQTGKDfgEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=uybQTGKDfgEC&printsec=frontcover&dq=c&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=uybQTGKDfgEC&dq=c&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Book_On_C_4_E.html?hl=&id=uybQTGKDfgEC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uybQTGKDfgEC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yjRlDwAAQBAJ",
+      "etag": "AY7BQC52WVk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yjRlDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Database Management System (DBMS): A Practical Approach, 5th Edition",
+        "authors": ["Chopra Rajiv"],
+        "publisher": "S. Chand Publishing",
+        "publishedDate": "2016",
+        "description": "This comprehensive book, now in its Fifth Edition, continues to discuss the principles and concept of Database Management System (DBMS). It introduces the students to the different kinds of database management systems and explains in detail the implementation of DBMS. The book provides practical examples and case studies for better understanding of concepts and also incorporates the experiments to be performed in the DBMS lab. A competitive pedagogy includes Summary, MCQs, Conceptual Short Questions (with answers) and Exercise Questions.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789385676345"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9385676342"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yjRlDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yjRlDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=yjRlDwAAQBAJ&printsec=frontcover&dq=dbms&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=yjRlDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=yjRlDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 531,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 330.4,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=yjRlDwAAQBAJ&rdid=book-yjRlDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 531000000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 330400000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Database_Management_System_DBMS_A_Practi-sample-pdf.acsm?id=yjRlDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yjRlDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This comprehensive book, now in its Fifth Edition, continues to discuss the principles and concept of Database Management System (DBMS)."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ybwcwQEACAAJ",
+      "etag": "b2Xz2/utsnk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ybwcwQEACAAJ",
+      "volumeInfo": {
+        "title": "Advanced Data Structures",
+        "authors": ["Peter Brass"],
+        "publisher": "Cambridge University Press",
+        "publishedDate": "2019-05-16",
+        "description": "Advanced Data Structures presents a comprehensive look at the ideas, analysis, and implementation details of data structures as a specialized topic in applied algorithms. Data structures are how data is stored within a computer, and how one can go about searching for data within. This text examines efficient ways to search and update sets of numbers, intervals, or strings by various data structures, such as search trees, structures for sets of intervals or piece-wise constant functions, orthogonal range search structures, heaps, union-find structures, dynamization and persistence of structures, structures for strings, and hash tables. This is the first volume to show data structures as a crucial algorithmic topic, rather than relegating them as trivial material used to illustrate object-oriented programming methodology, filling a void in the ever-increasing computer science market. Numerous code examples in C and more than 500 references make Advanced Data Structures an indispensable text. topic. Numerous code examples in C and more than 500 references make Advanced Data Structures an indispensable text.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1108735517"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781108735513"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 472,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ybwcwQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ybwcwQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=ybwcwQEACAAJ&dq=datastructures&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=ybwcwQEACAAJ&dq=datastructures&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Advanced_Data_Structures.html?hl=&id=ybwcwQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ybwcwQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This text examines efficient ways to search and update sets of numbers, intervals, or strings by various data structures, such as search trees, structures for sets of intervals or piece-wise constant functions, orthogonal range search ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gJEC2q7DzpQC",
+      "etag": "ULUbzs0cB4s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gJEC2q7DzpQC",
+      "volumeInfo": {
+        "title": "The History of Java",
+        "authors": ["Sir Thomas Stamford Raffles"],
+        "publishedDate": "1830",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "HARVARD:32044021066998"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 868,
+        "printType": "BOOK",
+        "categories": ["Java (Indonesia)"],
+        "averageRating": 4.5,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.3.0.full.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gJEC2q7DzpQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gJEC2q7DzpQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pl/books?id=gJEC2q7DzpQC&printsec=frontcover&dq=java&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=gJEC2q7DzpQC&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-gJEC2q7DzpQC"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=gJEC2q7DzpQC&rdid=book-gJEC2q7DzpQC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.pl/books/download/The_History_of_Java.epub?id=gJEC2q7DzpQC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.pl/books/download/The_History_of_Java.pdf?id=gJEC2q7DzpQC&hl=&output=pdf&sig=ACfU3U1FeZs0WwTQ2Z_X_IqhvzCelUN01A&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gJEC2q7DzpQC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WVbajgEACAAJ",
+      "etag": "1BGgrmHakcE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WVbajgEACAAJ",
+      "volumeInfo": {
+        "title": "HTML and CSS",
+        "subtitle": "Design and Build Websites",
+        "authors": ["Jon Duckett"],
+        "publisher": "Wiley",
+        "publishedDate": "2014-04-21",
+        "description": "A full-color introduction to the basics of HTML and CSS from the publishers of Wrox! Every day, more and more people want to learn some HTML and CSS. Joining the professional web designers and programmers are new audiences who need to know a little bit of code at work (update a content management system or e-commerce store) and those who want to make their personal blogs more attractive. Many books teaching HTML and CSS are dry and only written for those who want to become programmers, which is why this book takes an entirely new approach. Introduces HTML and CSS in a way that makes them accessible to everyone—hobbyists, students, and professionals—and it’s full-color throughout Utilizes information graphics and lifestyle photography to explain the topics in a simple way that is engaging Boasts a unique structure that allows you to progress through the chapters from beginning to end or just dip into topics of particular interest at your leisure This educational book is one that you will enjoy picking up, reading, then referring back to. It will make you wish other technical topics were presented in such a simple, attractive and engaging way! This book is also available as part of a set in hardcover - Web Design with HTML, CSS, JavaScript and jQuery, 9781119038634; and in softcover - Web Design with HTML, CSS, JavaScript and jQuery, 9781118907443.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1118871642"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781118871645"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 512,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "averageRating": 5,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WVbajgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WVbajgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=WVbajgEACAAJ&dq=html&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=WVbajgEACAAJ&dq=html&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/HTML_and_CSS.html?hl=&id=WVbajgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WVbajgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Many books teaching HTML and CSS are dry and only written for those who want to become programmers, which is why this book takes an entirely new approach."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WbQ-AAAAQBAJ",
+      "etag": "th1WoTFTres",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WbQ-AAAAQBAJ",
+      "volumeInfo": {
+        "title": "HTML and CSS",
+        "subtitle": "Visual QuickStart Guide",
+        "authors": ["Elizabeth Castro", "Bruce Hyslop"],
+        "publisher": "Peachpit Press",
+        "publishedDate": "2013-08-06",
+        "description": "Need to learn HTML and CSS fast? This best-selling reference's visual format and step-by-step, task-based instructions will have you up and running with HTML in no time. In this updated edition author Bruce Hyslop uses crystal-clear instructions and friendly prose to introduce you to all of today's HTML and CSS essentials. The book has been refreshed to feature current web design best practices. You'll learn how to design, structure, and format your website. You'll learn about the new elements and form input types in HTML5. You'll create and use images, links, styles, and forms; and you'll add video, audio, and other multimedia to your site. You'll learn how to add visual effects with CSS3. You'll understand web standards and learn from code examples that reflect today's best practices. Finally, you will test and debug your site, and publish it to the web. Throughout the book, the author covers all of HTML and offers essential coverage of HTML5 and CSS techniques.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780133438895"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0133438899"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 576,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.4.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WbQ-AAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WbQ-AAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=WbQ-AAAAQBAJ&printsec=frontcover&dq=html&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=WbQ-AAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=WbQ-AAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1678.8,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 1678.8,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=WbQ-AAAAQBAJ&rdid=book-WbQ-AAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1678800000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 1678800000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WbQ-AAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In this updated edition author Bruce Hyslop uses crystal-clear instructions and friendly prose to introduce you to all of today&#39;s HTML and CSS essentials. The book has been refreshed to feature current web design best practices."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "p1v6DwAAQBAJ",
+      "etag": "f0/xT+1+91E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/p1v6DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Eloquent JavaScript, 3rd Edition",
+        "subtitle": "A Modern Introduction to Programming",
+        "authors": ["Marijn Haverbeke"],
+        "publisher": "No Starch Press",
+        "publishedDate": "2018-12-04",
+        "description": "Completely revised and updated, this best-selling introduction to programming in JavaScript focuses on writing real applications. JavaScript lies at the heart of almost every modern web application, from social apps like Twitter to browser-based game frameworks like Phaser and Babylon. Though simple for beginners to pick up and play with, JavaScript is a flexible, complex language that you can use to build full-scale applications. This much anticipated and thoroughly revised third edition of Eloquent JavaScript dives deep into the JavaScript language to show you how to write beautiful, effective code. It has been updated to reflect the current state of Java¬Script and web browsers and includes brand-new material on features like class notation, arrow functions, iterators, async functions, template strings, and block scope. A host of new exercises have also been added to test your skills and keep you on track. As with previous editions, Haverbeke continues to teach through extensive examples and immerses you in code from the start, while exercises and full-chapter projects give you hands-on experience with writing your own programs. You start by learning the basic structure of the JavaScript language as well as control structures, functions, and data structures to help you write basic programs. Then you'll learn about error handling and bug fixing, modularity, and asynchronous programming before moving on to web browsers and how JavaScript is used to program them. As you build projects such as an artificial life simulation, a simple programming language, and a paint program, you'll learn how to: - Understand the essential elements of programming, including syntax, control, and data - Organize and clarify your code with object-oriented and functional programming techniques - Script the browser and make basic web applications - Use the DOM effectively to interact with browsers - Harness Node.js to build servers and utilities Isn't it time you became fluent in the language of the Web? * All source code is available online in an inter¬active sandbox, where you can edit the code, run it, and see its output instantly.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781593279509"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1593279507"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 472,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "averageRating": 3.5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=p1v6DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=p1v6DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=p1v6DwAAQBAJ&printsec=frontcover&dq=javascript&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=p1v6DwAAQBAJ&dq=javascript&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Eloquent_JavaScript_3rd_Edition.html?hl=&id=p1v6DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=p1v6DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "As with previous editions, Haverbeke continues to teach through extensive examples and immerses you in code from the start, while exercises and full-chapter projects give you hands-on experience with writing your own programs."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qU3rAgAAQBAJ",
+      "etag": "pSSaqexPhjI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qU3rAgAAQBAJ",
+      "volumeInfo": {
+        "title": "Speaking JavaScript",
+        "subtitle": "An In-Depth Guide for Programmers",
+        "authors": ["Axel Rauschmayer"],
+        "publisher": "\"O'Reilly Media, Inc.\"",
+        "publishedDate": "2014-02-25",
+        "description": "Like it or not, JavaScript is everywhere these days—from browser to server to mobile—and now you, too, need to learn the language or dive deeper than you have. This concise book guides you into and through JavaScript, written by a veteran programmer who once found himself in the same position. Speaking JavaScript helps you approach the language with four standalone sections. First, a quick-start guide teaches you just enough of the language to help you be productive right away. More experienced JavaScript programmers will find a complete and easy-to-read reference that covers each language feature in depth. Complete contents include: JavaScript quick start: Familiar with object-oriented programming? This part helps you learn JavaScript quickly and properly. JavaScript in depth: Learn details of ECMAScript 5, from syntax, variables, functions, and object-oriented programming to regular expressions and JSON with lots of examples. Pick a topic and jump in. Background: Understand JavaScript’s history and its relationship with other programming languages. Tips, tools, and libraries: Survey existing style guides, best practices, advanced techniques, module systems, package managers, build tools, and learning resources.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781449364991"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1449364993"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 460,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qU3rAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qU3rAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=qU3rAgAAQBAJ&printsec=frontcover&dq=javascript&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=qU3rAgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=qU3rAgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1475,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 737.5,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=qU3rAgAAQBAJ&rdid=book-qU3rAgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1475000000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 737500000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qU3rAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This concise book guides you into and through JavaScript, written by a veteran programmer who once found himself in the same position. Speaking JavaScript helps you approach the language with four standalone sections."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0gbuDwAAQBAJ",
+      "etag": "c8tSwcUxDNs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0gbuDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Learn C Programming",
+        "subtitle": "A beginner's guide to learning C programming the easy and disciplined way",
+        "authors": ["Jeff Szuhay"],
+        "publisher": "Packt Publishing Ltd",
+        "publishedDate": "2020-06-26",
+        "description": "Get started with writing simple programs in C while learning the skills that will help you work with practically any programming language Key Features Learn essential C concepts such as variables, data structures, functions, loops, and pointers Get to grips with the core programming aspects that form the base of many modern programming languages Explore the expressiveness and versatility of the C language with the help of sample programs Book Description C is a powerful general-purpose programming language that is excellent for beginners to learn. This book will introduce you to computer programming and software development using C. If you're an experienced developer, this book will help you to become familiar with the C programming language. This C programming book takes you through basic programming concepts and shows you how to implement them in C. Throughout the book, you'll create and run programs that make use of one or more C concepts, such as program structure with functions, data types, and conditional statements. You'll also see how to use looping and iteration, arrays, pointers, and strings. As you make progress, you'll cover code documentation, testing and validation methods, basic input/output, and how to write complete programs in C. By the end of the book, you'll have developed basic programming skills in C, that you can apply to other programming languages and will develop a solid foundation for you to advance as a programmer. What you will learn Understand fundamental programming concepts and implement them in C Write working programs with an emphasis on code indentation and readability Break existing programs intentionally and learn how to debug code Adopt good coding practices and develop a clean coding style Explore general programming concepts that are applicable to more advanced projects Discover how you can use building blocks to make more complex and interesting programs Use C Standard Library functions and understand why doing this is desirable Who this book is for This book is written for two very diverse audiences. If you're an absolute beginner who only has basic familiarity with operating a computer, this book will help you learn the most fundamental concepts and practices you need to know to become a successful C programmer. If you're an experienced programmer, you'll find the full range of C syntax as well as common C idioms. You can skim through the explanations and focus primarily on the source code provided.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781789348637"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1789348633"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 646,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.3.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0gbuDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0gbuDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=0gbuDwAAQBAJ&pg=PP1&dq=c&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=0gbuDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=0gbuDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 683.21,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 341.6,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=0gbuDwAAQBAJ&rdid=book-0gbuDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 683210000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 341600000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0gbuDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book provides an introduction to computer programming using the C programming language. It aims to educate readers new to software development, as well as help experienced developers become familiar with C syntax and idioms."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FTUJNA4lLdAC",
+      "etag": "Pn5avshwaLc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FTUJNA4lLdAC",
+      "volumeInfo": {
+        "title": "Database Management System (DBMS)A Practical Approach",
+        "authors": ["Rajiv Chopra"],
+        "publisher": "S. Chand Publishing",
+        "publishedDate": "2010-01-01",
+        "description": "Many books on Database Management Systems (DBMS) are available in the market, they are incomplete very formal and dry. My attempt is to make DBMS very simple so that a student feels as if the teacher is sitting behind him and guiding him. This text is bolstered with many examples and Case Studies. In this book, the experiments are also included which are to be performed in DBMS lab. Every effort has been made to alleviate the treatment of the book for easy flow of understanding of the students as well as the professors alike. This textbook of DBMS for all graduate and post-graduate programmes of Delhi University, GGSIPU, Rajiv Gandhi Technical University, UPTU, WBTU, BPUT, PTU and so on. The salient features of this book are: - 1. Multiple Choice Questions 2. Conceptual Short Questions 3. Important Points are highlighted / Bold faced. 4. Very lucid and simplified approach 5.Bolstered with numerous examples and CASE Studies 6. Experiments based on SQL incorporated. 7. DBMS Projects added Question Papers of various universities are also included.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788121932455"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8121932459"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 704,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FTUJNA4lLdAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FTUJNA4lLdAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=FTUJNA4lLdAC&printsec=frontcover&dq=dbms&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=FTUJNA4lLdAC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=FTUJNA4lLdAC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 472,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 330.4,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=FTUJNA4lLdAC&rdid=book-FTUJNA4lLdAC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 472000000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 330400000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Database_Management_System_DBMS_A_Practi-sample-pdf.acsm?id=FTUJNA4lLdAC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FTUJNA4lLdAC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This text is bolstered with many examples and Case Studies. In this book, the experiments are also included which are to be performed in DBMS lab."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "iaYFQb-HmDwC",
+      "etag": "9ghF4BPphnI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iaYFQb-HmDwC",
+      "volumeInfo": {
+        "title": "Data Structures and Program Design in C",
+        "authors": ["Robert Kruse", "Cl Tondo"],
+        "publisher": "Pearson Education India",
+        "publishedDate": "2007-09",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8177584235"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788177584233"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 624,
+        "printType": "BOOK",
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=iaYFQb-HmDwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=iaYFQb-HmDwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=iaYFQb-HmDwC&printsec=frontcover&dq=datastructures&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=iaYFQb-HmDwC&dq=datastructures&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Data_Structures_and_Program_Design_in_C.html?hl=&id=iaYFQb-HmDwC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iaYFQb-HmDwC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "u67rbsVqB1oC",
+      "etag": "pkHdZLgfKfw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/u67rbsVqB1oC",
+      "volumeInfo": {
+        "title": "Monumental Java",
+        "authors": ["J.F. Scheltema"],
+        "publisher": "Asian Educational Services",
+        "publishedDate": "1996-12-01",
+        "description": "With Illustrations And Vignettes After Drawings Of Javanese Chandi Ornaments.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8120602226"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788120602229"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 302,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=u67rbsVqB1oC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=u67rbsVqB1oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.pl/books?id=u67rbsVqB1oC&printsec=frontcover&dq=java&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.pl/books?id=u67rbsVqB1oC&dq=java&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Monumental_Java.html?hl=&id=u67rbsVqB1oC"
+      },
+      "saleInfo": {
+        "country": "PL",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "PL",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=u67rbsVqB1oC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "With Illustrations And Vignettes After Drawings Of Javanese Chandi Ornaments."
+      }
+    }
+  ]
+}

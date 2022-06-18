@@ -44,9 +44,10 @@ function Auth() {
     //   }
     // }
     return (
-      <div className="auth-container">
+      <div className="login-container">
         <div className="image">
           <Image src="/login-dp.png" width={100} height="100" />
+          <p>Library Genie</p>
         </div>
 
         <form onSubmit={handleLogin} className="login-form">
@@ -107,6 +108,7 @@ function Auth() {
     )
   }
 
+  // Register Function
   const Register = () => {
     const { user, signup } = useAuth()
     const [registerInfo, setregisterInfo] = useState({
@@ -131,8 +133,10 @@ function Auth() {
         <a className="register-back-btn" onClick={() => setValue(!value)}>
           {'<'}
         </a>
-        <h2>Create account</h2>
-        <p>Please fill the following details</p>
+        <div>
+          <h2>Create account</h2>
+          <p>Please fill the following details</p>
+        </div>
 
         <form onSubmit={handleRegister} className="register-form">
           <p>Register</p>
@@ -183,7 +187,9 @@ function Auth() {
   }
 
   // if value true Login Or Register
-  return value ? <Login /> : <Register />
+  return (
+    <div className="auth-container">{value ? <Login /> : <Register />}</div>
+  )
 }
 
 export default Auth

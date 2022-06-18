@@ -1,21 +1,24 @@
-/* LOGIN.JS */
-
 .auth-container {
   background-image: url('/login-bg-mob.svg');
+}
+
+/* LOGIN.JS */
+.login-container {
+  height: 100vh;
   display: flex;
   align-items: center;
   flex-direction: column;
   color: white;
-  height: 100vh;
 }
 
 .image {
+  width: fit-content;
   margin-top: 6rem;
-  padding: 24px;
+  padding: 24px 40px;
+  margin-bottom: 24px;
+
   display: grid;
   place-items: center;
-  border-radius: 12px;
-  margin-bottom: 24px;
   background: rgba(255, 253, 253, 0.4);
 
   border-radius: 16px;
@@ -79,7 +82,7 @@
   padding: 16px;
   color: white;
   height: 100vh;
-  background-image: url('/login-bg-mob.svg');
+  letter-spacing: 0.5px;
 }
 .register-back-btn {
   font-size: 24px;
@@ -88,7 +91,7 @@
 }
 
 .register-form {
-  margin: 7rem auto 0 auto;
+  margin: 7.3rem auto 0 auto;
   padding: 16px 24px 24px 24px;
 
   width: fit-content;
@@ -119,4 +122,46 @@
   margin: 8px 0 0 0;
   color: white;
   background-color: var(--second);
+}
+
+@media screen and (min-width: 480px) {
+  .auth-container {
+    background-image: url('/login-bg.svg');
+    background-size: cover;
+  }
+  .login-container {
+    display: grid;
+    place-items: center;
+    grid-template-columns: 50% 50%;
+  }
+  .login-form {
+    margin-left: -16px;
+    margin-top: -4px;
+  }
+
+  /* Register */
+  .register-container {
+    display: grid;
+    place-items: center;
+    grid-template-columns: 50% 50%;
+  }
+  .register-form {
+    margin: 0;
+  }
+  .register-back-btn {
+    position: absolute;
+    top: 30px;
+    left: 50px;
+  }
+  .register-back-btn::after {
+    content: 'Sign In';
+    margin-left: 10px;
+    font-size: medium;
+  }
+  .register-container > div > h2 {
+    font-size: 40px;
+  }
+  .register-container > div > p {
+    font-size: 24px;
+  }
 }

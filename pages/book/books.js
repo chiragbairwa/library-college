@@ -36,15 +36,8 @@ const SubjectBooks = () => {
     <>
       {/* Header */}
       <Header headerName={`${subject.subjectName} Books`} />
-      <div className="book-collection">
-        <div
-          style={{
-            marginLeft: '16px',
-            display: 'grid',
-            gridTemplateColumns: 'repeat(2,1fr)',
-            gap: '16px',
-          }}
-        >
+      <div className="books-collection">
+        <div>
           {[...Array(20)].map((e, i) => (
             <BookObject
               data={data.items[i]}

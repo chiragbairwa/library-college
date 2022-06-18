@@ -1,3 +1,7 @@
+.book-collection {
+  background-color: var(--background);
+}
+
 .collection-tab-container {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -41,9 +45,9 @@
   margin-top: 16px;
   overflow-x: scroll;
 }
-.feature-books-card {
-  width: 170px;
-  height: 250px;
+/* .feature-books-card {
+  width: 160px;
+  height: 200px;
   text-align: center;
   margin-right: 8px;
   overflow: hidden;
@@ -56,7 +60,7 @@
 }
 .feature-books-card > p {
   padding: 2px 4px;
-}
+} */
 
 /* Owned */
 .owned-books {
@@ -69,27 +73,56 @@
 /* Reviews */
 
 .reviews-cards {
-  display: flex;
-  flex-direction: column;
   margin-right: 16px;
 }
 
 .reviews-card {
-  margin: 8px 0;
-  padding: 16px;
+  margin: 16px 0;
+  padding: 0 16px;
   height: 160px;
-  display: flex;
-  overflow: hidden;
+
+  display: grid;
+  grid-template-columns: 30% 70%;
   border-radius: 15px;
-  background-color: aquamarine;
+  background-color: var(--sixth);
+  overflow: hidden;
 }
 .div-image {
-  width: 6em;
-  height: 8em;
-  border-radius: 15px;
-  background-color: yellow;
+  margin: 16px 0;
+
+  overflow: hidden;
+  height: 130px;
+  border-radius: 10px;
 }
 
 .reviews-card-info {
+  margin-top: 16px;
   margin-left: 24px;
+  height: 130px;
+  overflow: hidden;
+  color: white;
+  /* background-color: aqua; */
+}
+.reviews-card-info > p {
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+
+@media screen and (min-width: 480px) {
+  /* Featured */
+  .reading-books-container {
+    justify-content: space-evenly;
+  }
+
+  /* Owned */
+  .owned-books {
+    grid-template-columns: repeat(4, 1fr);
+  }
+
+  /* Review */
+  .reviews-cards {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    column-gap: 16px;
+  }
 }
