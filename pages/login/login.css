@@ -1,10 +1,10 @@
 .auth-container {
   background-image: url('/login-bg-mob.svg');
+  height: 100vh;
 }
 
 /* LOGIN.JS */
 .login-container {
-  height: 100vh;
   display: flex;
   align-items: center;
   flex-direction: column;
@@ -13,8 +13,8 @@
 
 .image {
   width: fit-content;
-  margin-top: 6rem;
-  padding: 24px 40px;
+  margin-top: 4rem;
+  padding: 24px 40px 16px 40px;
   margin-bottom: 24px;
 
   display: grid;
@@ -81,7 +81,6 @@
 .register-container {
   padding: 16px;
   color: white;
-  height: 100vh;
   letter-spacing: 0.5px;
 }
 .register-back-btn {
@@ -91,7 +90,7 @@
 }
 
 .register-form {
-  margin: 7.3rem auto 0 auto;
+  margin: 8.3rem auto 0 auto;
   padding: 16px 24px 24px 24px;
 
   width: fit-content;

@@ -49,6 +49,9 @@
 }
 
 /* Books */
+.books-collection {
+  padding-bottom: 72px;
+}
 .books-collection > div {
   margin-left: 16px;
   display: grid;

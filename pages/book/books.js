@@ -2,7 +2,7 @@ import Link from 'next/link'
 import Header from '../../components/header'
 import { useRouter } from 'next/router'
 import Image from 'next/image'
-
+import Footer from '../../components/footer'
 // json
 import cpp from '../../books/cpp.json'
 import dbms from '../../books/dbms.json'
@@ -46,6 +46,7 @@ const SubjectBooks = () => {
           ))}
         </div>
       </div>
+      <Footer></Footer>
     </>
   )
 }
