@@ -1,6 +1,7 @@
 import '../styles/globals.css'
 import '../styles/footer.css'
 import '../styles/header.css'
+// import { Head } from 'next/document'
 import Head from 'next/head'
 // Dashboard
 import './dashboard/dashboard.css'
