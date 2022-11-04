@@ -1,7 +1,9 @@
+// Analytics
+import { Analytics } from '@vercel/analytics/react'
+
 import '../styles/globals.css'
 import '../styles/footer.css'
 import '../styles/header.css'
-// import { Head } from 'next/document'
 import Head from 'next/head'
 // Dashboard
 import './dashboard/dashboard.css'
@@ -35,12 +37,6 @@ function MyApp({ Component, pageProps }) {
         />
         <meta name="keywords" content="Library, Google Books API"></meta>
         <link rel="icon" href="/favicon.ico" />
-        <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin />
-        <link
-          href="https://fonts.googleapis.com/css2?family=Poppins&display=swap"
-          rel="stylesheet"
-        ></link>
       </Head>
       <AuthContextProvider>
         {noAuthRequired.includes(router.pathname) ? (
@@ -50,6 +46,7 @@ function MyApp({ Component, pageProps }) {
             <Component {...pageProps} />
           </ProtectedRoute>
         )}
+        <Analytics/>
       </AuthContextProvider>
     </>
   )

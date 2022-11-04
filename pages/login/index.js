@@ -46,7 +46,7 @@ function Auth() {
     return (
       <div className="login-container">
         <div className="image">
-          <Image src="/login-dp.png" width={100} height="100" />
+          <Image src="/login-dp.webp" width={100} height="100" alt="Library Logo"/>
           <p>Library Genie</p>
         </div>
 
