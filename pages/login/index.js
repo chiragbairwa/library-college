@@ -13,7 +13,7 @@ function Auth() {
     router.push('/dashboard')
   }
 
-  useEffect(() => {}, [value])
+  useEffect(() => {}, [])
 
   // LOGIN FUNCTION
   const Login = () => {
@@ -22,7 +22,7 @@ function Auth() {
       password: '',
     })
     const router = useRouter()
-    const { user, login } = useAuth()
+    const { login } = useAuth()
     // const { user, loginWithGoogle } = useAuth()
 
     const handleLogin = async (e) => {
@@ -77,15 +77,12 @@ function Auth() {
 
           {/* Login button */}
 
-          <button type="submit" value="Login" className="btn login-btn">
-            Sign In
-          </button>
+          <input type="submit" value="Login" className="btn login-btn" />
           <br></br>
 
           {/* Create Account button*/}
           <button
             onClick={() => setValue(!value)}
-            defaultValue="Register"
             className="btn login-register-btn"
           >
             Sign Up
@@ -110,22 +107,32 @@ function Auth() {
 
   // Register Function
   const Register = () => {
-    const { user, signup } = useAuth()
-    const [registerInfo, setregisterInfo] = useState({
+    const { signup } = useAuth()
+
+    const [registerInfo, setRegisterInfo] = useState({
+      username: '',
       email: '',
-      password: '',
+      password: ''
     })
 
-    const handleRegister = async (e) => {
-      e.preventDefault()
-      try {
-        await signup(registerInfo.email, registerInfo.password)
+    const handleChange = (event) => {
+      let key = event.target.name
+      let value = event.target.value
 
+      setRegisterInfo({...registerInfo, [key]:value})
+    }
+
+    const handleRegister = (e) => {
+      e.preventDefault()
+
+      signup(registerInfo.email, registerInfo.password)
+      .then(()=>{
         setValue(!value)
         alert('SignUp Completed')
-      } catch (err) {
+      })
+      .catch((err)=>{
         console.log(err)
-      }
+      })
     }
 
     return (
@@ -142,22 +149,17 @@ function Auth() {
           <p>Register</p>
 
           <input
-            value={registerInfo.name}
-            onChange={(e) =>
-              setregisterInfo({ ...registerInfo, name: e.target.value })
-            }
-            type="name"
+            onChange={handleChange}
+            name="username"
             className="input-field"
             placeholder="Enter Username"
             required
           />
           <br></br>
           <input
-            value={registerInfo.email}
-            onChange={(e) =>
-              setregisterInfo({ ...registerInfo, email: e.target.value })
-            }
+            onChange={handleChange}
             type="email"
+            name="email"
             className="input-field"
             placeholder="Enter Email"
             required
@@ -166,10 +168,9 @@ function Auth() {
 
           <input
             value={registerInfo.password}
-            onChange={(e) =>
-              setregisterInfo({ ...registerInfo, password: e.target.value })
-            }
+            onChange={handleChange}
             type="password"
+            name="password"
             className="input-field"
             placeholder="Enter Password"
             required
@@ -178,9 +179,7 @@ function Auth() {
 
           {/* Register button */}
 
-          <botton type="submit" className="btn register-btn">
-            Register
-          </botton>
+          <input type="submit" className="btn register-btn" value="Register" />
         </form>
       </div>
     )
